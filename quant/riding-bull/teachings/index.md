@@ -30,6 +30,7 @@ confidence: medium
 - [[daily-doubling-144]] — **日线翻倍/144过左峰**（144均线走平上翘·过左峰四种条件）
 - [[weekly-doubling-180]] — **周线翻倍/180大资金**（大悬空·脚踩巨量·立标杆·适合千万级）
 - [[ma510-intraday-breakthrough]] — **5/10均线细节+分钟突破+9:33开盘定式**（叉上阴叉下阳·5分钟放量突破买入）
+- [[ma-convergence-divergence]] — **均线收拢与发散/弓理论**（填满战法·买在刚刚打开那一刻）
 - [[kdj-auxiliary]] — **KDJ辅助技巧**（负值买入法·20以下金叉·配合MACD/空间）
 
 ### 支撑压力/结构
