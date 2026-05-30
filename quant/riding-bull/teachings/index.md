@@ -25,6 +25,8 @@ confidence: medium
 - [[wave-space-measurement]] — **大波段/小波段空间测算+系数1.3/1.26**（均线死叉金叉测目标位）
 - [[abc-point-judgment]] — **ABC点判定法**（量价ABC+周期ABC·阳包阴买点·风险控制）
 - [[natural-box-three-segments]] — **自然箱体与三段九格**（50%放量买点法·1.3系数箱体测压力）
+- [[victory-death-mode]] — **必胜模式/死亡模式**（25日线生命线·三线红·梅开二度）
+- [[double-volume-cut]] — **倍量切/启动K线**（正切与反杀·均线发散收拢）
 
 ### 支撑压力/结构
 - [[yin-line-platform]] — **阴线平台/定价线**（涨一波最高阴线开盘价·跌一波最低阴线收盘价·连阴线·斜横线·ABC对比）
