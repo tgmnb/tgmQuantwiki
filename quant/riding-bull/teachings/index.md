@@ -16,7 +16,8 @@ confidence: medium
 （每项对应一份独立wiki页面，按专题归类）
 
 ### 指标用法
-- 待补充
+- [[macd-ten-theories]] — **MACD十大技术理论**（零轴/三种区间/两种浪形/两种拐离/三种背离/顶背离卖出法）
+- [[macd-focus-on-big-ignore-small]] — MACD抓大放小方法论（待细则）
 
 ### 形态识别
 - [[60min-double-bottom-bull-pattern]] — 60分钟双底骑牛模式（待细则）
