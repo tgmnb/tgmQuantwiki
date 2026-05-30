@@ -15,6 +15,9 @@ confidence: medium
 
 （每项对应一份独立wiki页面，按专题归类）
 
+### 🏗️ 元框架（体系骨架）
+- [[five-layer-architecture]] — **技术骨架论·五层分析架构**（方向→均线状态→级别/浪型→价格→量能·自上而下顺序不可颠倒·所有战法依从于架构）
+
 ### 指标用法
 - [[macd-ten-theories]] — **MACD十大技术理论**（零轴/三种区间/两种浪形/两种拐离/三种背离/顶背离卖出法）
 - [[macd-eight-character-formula]] — **MACD八字要诀**（抓大放小·抓小放大·死亡陷阱）
