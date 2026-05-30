@@ -1,5 +1,78 @@
 # Wiki Log
 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25115v1 [low] — Courant: a State-Adaptive Perceiver-Based Neural S
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25151v1 [low] — Representation Without Control: Testing the Realiz
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25287v1 [low] — Data-Driven Structural Health Monitoring of Short 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25297v2 [low] — Eureka: Intelligent Feature Engineering for Enterp
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26179v1 [low] — AutoDFT: A Closed-Loop Multi-Agent Framework for A
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25717v1 [low] — FLOATBench: A Dataset and Benchmark for Floating O
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25826v1 [low] — Branched Signature Kernel Solvers for ODEs with ro
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25894v1 [low] — Predicting Stock Price Direction on Earnings Annou
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27459v1 [low] — Real-Time In Silico Modeling of Postprandial Macro
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26890v1 [low] — Nonlinear and Heavy-Tailed Predictability in Trans
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27578v1 [low] — From Centerlines to Hemodynamics: Anisotropic RBF 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27864v2 [low] — FundaPod: A Multi-Persona Agent Pod Platform with 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28446v1 [low] — Modelling the effect of fiber distribution on the 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28684v1 [low] — History-aware adaptive reduced-order models via in
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29389v1 [low] — Automated design of soft-rigid hybrid robots for d
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29695v1 [low] — FHRFormer: A Self-Supervised Masked Transformer Fr
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28853v1 [low] — Financially Guided Deep Portfolio Optimization
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24285v1 [low] — Memory, Roughness, and Information Persistence in 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27977v1 [low] — Deep Learning Forecasting of the U.S. Aggregate Bo
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29082v1 [low] — The Importance of Out-of-Band Metadata for Safe Au
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25582v1 [low] — Extreme Region Policy Distillation
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25638v1 [low] — Reinforcement Learning from Denoising Feedback
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25745v1 [low] — Selective Latent Thinking: Adaptive Compression of
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25916v1 [low] — Joint Optimization of Training and Inference in Fe
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25984v1 [low] — SafeCtrl-RL: Inference-Time Adaptive Behaviour Con
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26523v1 [low] — StreamSplit: Continuous Audio Representation Learn
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26952v1 [low] — Efficient Agentic Reinforcement Learning with On-P
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26958v1 [low] — Tournament-GRPO: Group-Wise Tournament Rewards for
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27832v1 [low] — Playing with Words, Improving with Rewards: Traini
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27839v1 [low] — Movable Antenna Enhanced Dual-Functional Radar-Com
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28008v1 [low] — Zipping the Thought: When and How Compressed Reaso
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28109v1 [low] — Long Live The Balance: Information Bottleneck Driv
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29055v1 [low] — Hallucination Mitigation with Agentic AI, Nested L
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29076v1 [low] — Structured Prompt Optimization Meets Reinforcement
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29262v1 [low] — Harmonizing Real-Time Constraints and Long-Horizon
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29287v1 [low] — UniNote: A Unified Embedding Model for Multimodal 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29310v1 [low] — Rubric-Guided Process Reward for Stepwise Model Ro
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29405v1 [low] — Information-Directed Offline-to-Online Reinforceme
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29421v1 [low] — Learning Design Skills as Memory Policies for Agen
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29693v1 [low] — Momentum Based Reward Design for Low Emission Traf
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.12764v2 [medium] — Yield Curves Dynamics Using Variational Autoencode
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25255v1 [medium] — Boosted Stochastic Frank-Wolfe for Constrained Non
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27454v1 [medium] — NL-MambaXCT: Self-Supervised Nested-Learning Mamba
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27888v1 [medium] — Machine-learning-accelerated discovery of synthesi
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28417v1 [medium] — The fused asset flow model: stability, bifurcation
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.12250v5 [high] — The P behind Q: Empirical Evidence from Physical D
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25450v1 [high] — Valuation of Variable Annuities with Equity Protec
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26508v1 [high] — Foundations of a Time-Consistent Counterfactual Ac
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.23959v1 [high] — When Alpha Disappears: A One-Switch Benchmark for 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25958v1 [high] — PolyGnosis 2.0: Enhancing LLM Reasoning via Agenti
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28384v1 [high] — Meta-Attention: Bayesian Per-Token Routing for Eff
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24137v1 [high] — Empirical Analysis and Detection of Hallucinations
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24580v1 [high] — From Replacement to Orchestration: A Socio-Technic
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24675v1 [high] — VaaWIT: Visual-Aware Adaptation of Large Language 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24842v1 [high] — Translators as Invisible Teachers of AI: Copyright
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25030v1 [high] — MimirRAG: A Multi-Agent RAG Framework for Financia
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25155v1 [high] — Automated multi-dataset INST $^{13}$C metabolic fl
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.25273v1 [high] — LLM-as-a-Judge in Healthcare: A Scoping Analysis o
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26450v1 [high] — Low Soundness Linearity Testing on the Half-Slice
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27549v1 [high] — Compact Experimental Negative TriAngUlarity Reacto
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27551v1 [high] — On the Origin of Synthetic Information by Means of
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27587v1 [high] — Assessor Experiences in CMMC Level 2 Certification
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27610v1 [high] — Eliot: Interactively $\underline{E}$xploring Fast-
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27655v1 [high] — Implementing the principal stratum strategy for in
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.27677v1 [high] — ESL-PSC Toolkit: a graphical software environment 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28819v1 [high] — PEFT-Arena: Understanding Parameter-Efficient Fine
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29456v1 [high] — Usability Analysis of Configurator User Interfaces
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29554v1 [high] — Water-at-Rest Equilibrium Stability Analysis of a 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29869v1 [high] — TagDebt: A Bot to Support Technical Debt Managemen
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.24514v1 [high] — Incremental SVD for Large-Scale Dynamic Matrices: 
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.26076v1 [high] — AI-Powered Sustainable Finance: An Integrative Tax
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.28359v1 [high] — From Knowing to Doing: A Memory-Controlled Benchma
+- **2026-05-30 19:38** paper_watcher: 新内容 2605.29413v1 [high] — From Classical Optimization to Bayesian Integratio
 - **2026-05-29 19:41** paper_watcher: 新内容 2605.23905v1 [medium] — AI-Driven Alpha Decay: Algorithmic Homogenization,
 - **2026-05-27** hermes: 创建骑牛登山Wiki（riding-bull）— 技术面大佬的知识沉淀/观点验证/交易模式系统
 - **2026-05-25 19:38** paper_watcher: 新内容 2605.22252v2 [low] — LineageFlow: Flow Matching for High-Fidelity Famil
