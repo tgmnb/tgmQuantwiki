@@ -23,6 +23,9 @@ confidence: medium
 - [[number-trading-rule]] — **数字操盘法则**（尾数法则·九大顶底信号）
 - [[capital-box-theory]] — **资金箱体/起爆线**（白线数值定箱体·精准抓主升浪启动点）
 
+### 支撑压力/结构
+- [[yin-line-platform]] — **阴线平台/定价线**（涨一波最高阴线开盘价·跌一波最低阴线收盘价·连阴线·斜横线·ABC对比）
+
 ### 实战技巧
 - [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
 
