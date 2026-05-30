@@ -14,7 +14,8 @@ confidence: high
 ## 目录结构
 
 - [[profiles/index]] — 大佬背景与风格概述
-- [[teachings/index]] — 技术教学知识点（指标用法、形态识别、量价关系等）
+- [[teachings/index]] — 技术教学知识点（指标用法、支撑压力、实战技巧等）
+- [[cases/index]] — 实战案例库（大港股份、盛隆股份等经典跟踪案例）
 - [[market-analysis/index]] — 解盘视频要点整理（按时间线）
 - [[trading-patterns/index]] — 提炼出的交易模式（入场/离场/止损/仓位规则）
 - [[views/pending-views]] — **观点待验证列表**（未验证的观点）
