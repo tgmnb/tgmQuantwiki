@@ -31,6 +31,10 @@ confidence: medium
 
 ### 实战技巧
 - [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
+- [[shrinking-volume-limit-up]] — **缩量涨停板技术**（放量阴+缩量阳·超短线抓连板）
+
+### 哲学基础
+- [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
 
 ### 形态识别
 - [[60min-double-bottom-bull-pattern]] — 60分钟双底骑牛模式（待细则）
