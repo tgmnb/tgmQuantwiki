@@ -41,6 +41,8 @@ confidence: medium
 - [[shrinking-volume-limit-up]] — **缩量涨停板技术**（放量阴+缩量阳·超短线抓连板）
 - [[down-sideways-down-battle]] — **下横下战法/凯旋战法**（徐翔·强势股急跌反弹·对偶卖点）
 - [[golden-sword-dinghai]] — **黄金线/定海神针**（连板后跌停反包·超短线2-3天）
+- [[limit-up-coefficient]] — **板后系数**（涨停板后抄底·三价位分批买·九不买·成功率95%）
+- [[limit-up-types-overview]] — **打板类型总览**（一字板/缩量板/放量板/烂板·妖股模式）
 
 ### 哲学基础
 - [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
