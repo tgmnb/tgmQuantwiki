@@ -22,6 +22,7 @@ confidence: medium
 - [[dmi-top-bottom]] — **DMI判断顶底**（ADX≥60，配合MACD/箱体）
 - [[number-trading-rule]] — **数字操盘法则**（尾数法则·九大顶底信号）
 - [[capital-box-theory]] — **资金箱体/起爆线**（白线数值定箱体·精准抓主升浪启动点）
+- [[wave-space-measurement]] — **大波段/小波段空间测算+系数1.3/1.26**（均线死叉金叉测目标位）
 
 ### 支撑压力/结构
 - [[yin-line-platform]] — **阴线平台/定价线**（涨一波最高阴线开盘价·跌一波最低阴线收盘价·连阴线·斜横线·ABC对比）
