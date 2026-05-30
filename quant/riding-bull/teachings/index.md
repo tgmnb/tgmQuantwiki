@@ -30,6 +30,7 @@ confidence: medium
 
 ### 支撑压力/结构
 - [[yin-line-platform]] — **阴线平台/定价线**（涨一波最高阴线开盘价·跌一波最低阴线收盘价·连阴线·斜横线·ABC对比）
+- [[shadow-line-positioning]] — **上下影线定位**（影线最高价+后续收盘价画箱体测支撑压力）
 - [[magic-230]] — **神奇的两点半**（定价线分支·2:30黄色均价线定支撑压力）
 - [[death-trap-wave-pattern]] — **死亡陷阱波浪形态**（金山谷/银山谷·挖坑V反突破主升浪）
 
@@ -37,6 +38,7 @@ confidence: medium
 - [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
 - [[shrinking-volume-limit-up]] — **缩量涨停板技术**（放量阴+缩量阳·超短线抓连板）
 - [[down-sideways-down-battle]] — **下横下战法/凯旋战法**（徐翔·强势股急跌反弹·对偶卖点）
+- [[golden-sword-dinghai]] — **黄金线/定海神针**（连板后跌停反包·超短线2-3天）
 
 ### 哲学基础
 - [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
