@@ -51,6 +51,7 @@ confidence: medium
 - [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
 - [[percentage-duality]] — **百分比与对偶/空间密度**（顶底相加·异动量战法·股市灵魂）
 - [[tongdaxin-settings]] — **通达信软件正确设置**（前复权+量复权·百分比坐标·三问指数对比）
+- [[training-mode-review]] — **训练模式与复盘流程**（4-7练习法·换手率+涨幅榜选股）
 
 ### 形态识别
 - [[60min-double-bottom-bull-pattern]] — 60分钟双底骑牛模式（待细则）
