@@ -19,6 +19,8 @@ confidence: medium
 - [[macd-ten-theories]] — **MACD十大技术理论**（零轴/三种区间/两种浪形/两种拐离/三种背离/顶背离卖出法）
 - [[macd-eight-character-formula]] — **MACD八字要诀**（抓大放小·抓小放大·死亡陷阱）
 - [[macd-focus-on-big-ignore-small]] — MACD抓大放小方法论（待细则）
+- [[dmi-top-bottom]] — **DMI判断顶底**（ADX≥60，配合MACD/箱体）
+- [[number-trading-rule]] — **数字操盘法则**（尾数法则·九大顶底信号）
 
 ### 实战技巧
 - [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
