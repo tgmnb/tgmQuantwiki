@@ -44,6 +44,7 @@ confidence: medium
 
 ### 哲学基础
 - [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
+- [[percentage-duality]] — **百分比与对偶/空间密度**（顶底相加·异动量战法·股市灵魂）
 
 ### 形态识别
 - [[60min-double-bottom-bull-pattern]] — 60分钟双底骑牛模式（待细则）
