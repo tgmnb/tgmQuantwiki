@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Large binary caches (not knowledge)
+_archive/

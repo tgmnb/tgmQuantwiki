@@ -1,0 +1,454 @@
+# Wiki Log
+
+- **2026-05-29 19:41** paper_watcher: 新内容 2605.23905v1 [medium] — AI-Driven Alpha Decay: Algorithmic Homogenization,
+- **2026-05-27** hermes: 创建骑牛登山Wiki（riding-bull）— 技术面大佬的知识沉淀/观点验证/交易模式系统
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.22252v2 [low] — LineageFlow: Flow Matching for High-Fidelity Famil
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23172v1 [low] — Effective information gathering for ore estimation
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23353v1 [low] — Bayesian Extreme Value Theory with Hawkes-AR-Gumbe
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23470v1 [low] — Learning Individual Dynamics from Sparse Cross-Sec
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.21487v2 [low] — Uni-Edit: Intelligent Editing Is A General Task Fo
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23027v1 [low] — PIMbot: A Self-Adaptive Attack Framework for Adver
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23505v1 [low] — OptiQU: Coordinated Multi-Level Voltage and Reacti
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23668v1 [low] — OnePred: Next-Query Prediction via Recursive Inten
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23007v1 [high] — MadEvolve: Evolutionary Optimization of Trading Sy
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23405v1 [high] — Key challenges and bridges among convergence analy
+- **2026-05-25 19:38** paper_watcher: 新内容 2605.23831v1 [high] — Ray-Tracing vs. 3GPP TDL: Power Delay Profile Anal
+- **2026-05-25 00:20** hermes: 整理 D1框架帖子（PDF+附件归档wiki）+ 更新BBS附件保存规则（wiki同级attachments/目录，相对路径索引）
+- **2026-05-24 10:58** hermes: 重新生成 BBS 教程帖 PDF（坏文件替换）+ 创建选股框架概念页 [[select-stock-pro-framework]]
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19014v1 [low] — SAGA: A Sequence-Adaptive Generative Architecture
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19492v1 [low] — Building Acoustics 01: Finite Element Model of an 
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19536v1 [low] — A Dual Physics-Informed Kolmogorov-Arnold Neural N
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19848v1 [low] — CLIF: Concept-Level Influence Functions for Transp
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19939v1 [low] — Uncertainty-aware Machine Learning Interatomic Pot
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20098v1 [low] — Neurosymbolic Learning for Inference-Time Argument
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20142v1 [low] — Mining Financial Data using Mixtures of Mirrored W
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21192v1 [low] — The Statistical Significance of the Inclusion of G
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22009v1 [low] — SDFStent: Real-time interactive virtual stenting v
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22111v1 [low] — Aerodynamic force reconstruction using physics-inf
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22252v1 [low] — LineageFlow: Flow Matching for High-Fidelity Famil
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22540v1 [low] — Dynamic Hypergraph Representation Learning for Mul
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22663v1 [low] — Therm-FM: Foundation Model is ALL YOU NEED for 3D-
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20797v1 [low] — Beyond Numerical Features: CNN-Driven Algorithm Se
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.18864v1 [low] — SAGE: Shaping Anchors for Guided Exploration in RL
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20258v1 [low] — It Takes Two: Complementary Self-Distillation for 
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20348v1 [low] — Memory-Induced Supra-Competitive Outcomes Between 
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20801v1 [low] — Q-SpiRL: Quantum Spiking Reinforcement Learning fo
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20865v1 [low] — Multi-Step Likelihood-Ratio Correction for Reinfor
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21273v2 [low] — DriveMA: Rethinking Language Interfaces in Driving
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21487v1 [low] — Uni-Edit: Intelligent Editing Is A General Task Fo
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22211v1 [low] — CLORE: Content-Level Optimization for Reasoning Ef
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22363v1 [low] — Incentive-Aligned Vehicle-to-Vehicle Energy Tradin
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22567v1 [low] — LANG: Reinforcement Learning for Multilingual Reas
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21124v1 [medium] — Observation of spin-free interatomic orbital angul
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.12250v4 [high] — The P behind Q: Empirical Evidence from Physical D
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.19132v1 [high] — CLIC: Contextual Language-Informed Cardiac Patholo
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20871v1 [high] — Robustness Analysis of USmorph: II. Optimizing Fea
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21542v1 [high] — Discovering Entity-Conditioned Lag Heterogeneity: 
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21421v1 [high] — AIGaitor: Privacy-preserving and cloud-free motion
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21712v1 [high] — Broadening Access to Transportation Safety Data wi
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21864v1 [high] — A Simulation Methodology Testbed for Typhoon Sensi
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22200v1 [high] — OSS: Open Suturing Skills Vision-Based Assessment 
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.22277v1 [high] — Joint Communication and Computation Scheduling for
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.18786v1 [high] — Unbiased Gradients for a Class of Conditional Stoc
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.20636v1 [high] — Continuous Timing Signals for Growth-Defensive Sty
+- **2026-05-22 22:45** paper_watcher: 新内容 2605.21409v1 [high] — Portfolio Preference Elicitation in Institutional 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12882v1 — CiteVQA: Benchmarking Evidence Attribution for Tru
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13024v1 — ReCoG: Relational and Compact Context Graph Learni
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14464v1 — From Schema to Signal: Retrieval-Augmented Modelin
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14597v1 — VMU-Diff: A Coarse-to-fine Multi-source Data Fusio
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14917v1 — A Mutual Information Lower Bound for Multimodal Re
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15488v1 — SurvivalPFN: Amortizing Survival Prediction via In
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15549v1 — CTF4Nuclear: Common Task Framework for Nuclear Fis
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15564v1 — CrystalBoltz: End-to-End Protein Structure Determi
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15690v1 — FRWKV+: Adaptive Periodic-Position Branch Interact
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15754v1 — Spatiotemporal decoupled physics-informed Stone-We
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15766v1 — BioXArena: Benchmarking LLM Agents on Multi-Modal 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15789v1 — Learning Context-conditioned Gaussian Overbounds f
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17111v1 — Symmetry-Aware Convex Shrinkage for High-Dimension
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17724v1 — Sequential Structure in Intraday Futures Data: LST
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18092v1 — Epidemics in a Synthetic Urban Population with Mul
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18170v1 — Buffer-Parameterized Machine Learning Surrogate Mo
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18290v1 — Quantifying water-driven geometric uncertainties i
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.01384v1 — SBCA: Cross-Modal BERT-driven Actor-Critic for Mul
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.02300v1 — A Meta Reinforcement Learning Approach to Goals-Ba
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12004v1 — Learning Agentic Policy from Action Guidance
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12070v2 — Missing Old Logits in Asynchronous Agentic RL: Sem
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12339v1 — BSO: Safety Alignment Is Density Ratio Matching
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12653v1 — Plan Before You Trade: Inference-Time Optimization
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12771v1 — Adaptive Smooth Tchebycheff Attention for Multi-Ob
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13170v1 — Finding the Weakest Link: Adversarial Attack again
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13435v1 — Q-Flow: Stable and Expressive Reinforcement Learni
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13667v1 — SceneGraphVLM: Dynamic Scene Graph Generation from
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14054v1 — Bad Seeing or Bad Thinking? Rewarding Perception f
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14366v1 — Reinforcement Learning with Semantic Rewards Enabl
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14897v1 — Critic-Driven Voronoi-Quantization for Distilling 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15100v1 — Dual-Dimensional Consistency: Balancing Budget and
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15687v1 — ASRU: Activation Steering Meets Reinforcement Unle
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17307v1 — Deep Reinforcement Learning Framework for Diversif
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17428v1 — Progressive Generalization Augmentation with Deepl
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17570v1 — How Off-Policy Can GRPO Be? Mu-GRPO for Efficient 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17921v1 — An Efficient Streaming Video Understanding Framewo
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18004v1 — RL4RLA: Teaching ML to Discover Randomized Linear 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18028v1 — FedSDR: Federated Self-Distillation with Rectifica
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.00864v1 — Arbitrage Analysis in Polymarket NBA Markets
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12764v1 — Yield Curves Dynamics Using Variational Autoencode
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13132v1 — Extending Blockchain Untraceability with Plausible
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12756v1 — Uncovering Symmetry Transfer in Large Language Mod
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12799v1 — Synthesizing the Expert: A Validated Multimodal Da
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13110v1 — A Multi-Agent Orchestration Framework for Venture 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13717v1 — Tight Sample Complexity Bounds for Entropic Best P
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13783v1 — Uniqueness of synchronized stationary equilibria i
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14567v1 — Scaling Laws from Sequential Feature Recovery: A S
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14888v1 — PROCESS-2: A Benchmark Speech Corpus for Early Cog
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15164v1 — Position: Behavioural Assurance Cannot Verify the 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15472v1 — Estimated Dynamic Equilibrium Model: Supply and De
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15482v1 — FINESSE-Bench: A Hierarchical Benchmark Suite for 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15636v1 — A Tearing and Interconnecting Formulation for Magn
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15822v1 — Intrinsic Wasserstein Rates for Score-Based Genera
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16036v1 — The Monte Carlo Ecosystem in High-Energy Physics: 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16745v1 — EVA01: Unified Native 3D Understanding and Generat
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16972v1 — WhiteTesseract: Reframing the Interpretation of Cu
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17203v1 — Beyond Model Readiness: Institutional Readiness fo
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17625v1 — Episodic-Semantic Memory Architecture for Long-Hor
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17660v1 — Training Infinitely Deep and Wide Transformers
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17886v1 — Cooperative and Noncooperative Paradigms for Game-
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18657v1 — KairosHope: A Next-Generation Time-Series Foundati
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.00019v1 — JFR-rg Part II: Dynamic Extensions, Time Constrain
+- **2026-05-20 00:22** paper_watcher: 新论文 2604.18778v2 — Clustered Local Projections for Time-Varying Model
+- **2026-05-20 00:22** paper_watcher: 新论文 2604.24489v3 — Property, Interest, and Money: Is Heinsohn and Ste
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.03881v1 — Fiscal Aggregation and the Limits of IS--LM--BP: D
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06954v1 — Prescriptive Optimization for Adaptive Auto-insura
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.11614v1 — Fairness Testing for Algorithmic Pricing
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12250v3 — The P behind Q: Empirical Evidence from Physical D
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13998v1 — Synthetic American Option Pricing via Jump-HMM-Dri
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16699v1 — Your SaaS Is an Insurance Product: A Modeling Fram
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16780v1 — A Diagnostic Framework for Implementation Risk in 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.11423v1 — A Validated Volatility-Volume-Gap Classifier for R
+- **2026-05-20 00:22** paper_watcher: 新论文 2604.28131v2 — Simplified approach to extracting nucleon transver
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.02043v2 — Bringing Order to Asynchronous SGD: Towards Optima
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.02292v1 — Momentum-Anchored Multi-Scale Fusion Model for Lon
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.04004v1 — Structural Limits of OHLCV-Based Intraday Signals 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.08225v1 — Spiral structure and logarithmic evolution of deut
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.05753v1 — Jointly Learning Structured Representations and St
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06024v1 — Strat-LLM: Stratified Strategy Alignment for LLM-b
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.10180v1 — What Concepts Lie Within? Detecting and Suppressin
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13144v1 — On a posteriori stopping rules of adaptive stochas
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13483v1 — Vectorial field reconstruction without detecting t
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.14957v1 — A developmental switch from capillary rectificatio
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15466v1 — Entity-Centric World Models: Interaction-Aware Mas
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18237v1 — Regularized Counterdiabatic Driving for the Quantu
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18298v1 — DARE-EEG: A Foundation Model for Mining Dual-Align
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18435v1 — Alternative Lattice Design for the STCF Collider R
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.18493v1 — Termination-Preserved Ultra-high Tunneling Magneto
+- **2026-05-20 00:22** paper_watcher: 新论文 2604.09060v2 — Taming the Black Swan: A Momentum-Gated Hierarchic
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.00420v2 — Foresight Arena: An On-Chain Benchmark for Evaluat
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.02427v2 — The Model Knows, the Decoder Finds: Future Value G
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.05580v1 — AlphaCrafter: A Full-Stack Multi-Agent Framework f
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06604v1 — A Geometry-Aware Residual Correction of Hagan's SA
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15412v1 — From Feedback Loops to Policy Updates: Reinforceme
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.16895v1 — The Alpha Illusion: Reported Alpha from LLM Tradin
+- **2026-05-20 00:22** paper_watcher: 新论文 2604.26076v2 — The Financialization of Proof-of-Stake: Asymptotic
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.02666v1 — Pareto frontier of portfolio investment under vola
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06730v1 — Semantic State Abstraction Interfaces for LLM-Augm
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06570v1 — SNAPO: Smooth Neural Adjoint Policy Optimization f
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.06818v1 — Modeling Dynamic Correlation Matrices with Shrinka
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.09310v1 — Beyond ESG Scores: Learning Dynamic Constraints fo
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.12977v1 — Enhancing a Risk Model by Adding Transient Statist
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.13407v1 — Vector-Quantized Discrete Latent Factors Meet Fina
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.15896v1 — A Model-Agnostic Bootstrap for Macro-Level Claims 
+- **2026-05-20 00:22** paper_watcher: 新论文 2605.17896v1 — The Effects of Innovation on Foreign Portfolio Inv
+- **2026-05-05** MA Band Wiki: 创建 ma-band-architecture（策略架构）、ma-band-version-history（版本历史）、ma-band-signals（信号生成）、ma-band-selection（选择器演进）、v13-audit（V13审计）、v14-design（V14设计）共6个新页面
+- **2026-05-05** MA Band Wiki: 更新 index.md 新增MA Band策略体系分类，总页面从11增至18
+- **2026-05-05** V13审计: 发现入场成本从未扣除的严重Bug（影响163K笔交易），天文数字收益率根因分析
+- **2026-05-05** V14设计: 完成摩擦模型、WFO防过拟合协议、策略架构、$700起跑分情景预期收益设计
+
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22224v1 — AI-Driven Performance-to-Design Generation and Opt
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22328v1 — FETS Benchmark: Foundation Models Outperform Datas
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22543v1 — On a Hybrid Mixed Domain Decomposition Method
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22995v1 — Equations of Motion for an Economy: Capital Deepen
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23181v1 — A 99-Line Homogenization Code for Lattice-skin Pla
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23315v1 — Multiplicative Contractions, Additive Recoveries: 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23451v1 — Quantum Causal Discovery via Amplitude Estimation 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23474v1 — GeoCert: Certified Geometric AI for Reliable Forec
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23577v1 — RouteNLP: Closed-Loop LLM Routing with Conformal C
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24147v1 — Price as Focal Point: Prediction Markets,Condition
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24366v1 — The Anatomy of a Decentralized Prediction Market: 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24723v2 — Efficient Multivariate Kelly Optimization Reveals 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25690v1 — Data Driven Calibration of Analytical Concrete Cre
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26188v1 — Efficient and Interpretable Transformer for Counte
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26367v1 — A Category-Theoretic Framework from Biological Mec
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26770v1 — FeatureFox: Sample-Efficient Panoptic Graph Segmen
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27041v1 — The Signal Credibility Index for Prediction Market
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27186v1 — Learning to Spend: Model Predictive Control for Bu
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27732v1 — A Note on the Generalized Cape Cod Reserving Metho
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.07942v1 — Enhancing Portfolio Optimization with Deep Learnin
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.18811v2 — Variational Quantum Circuit-Based Reinforcement Le
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.15135v1 — Stochastic EMS for Optimal 24/7 Carbon-Free Energy
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.01388v2 — The Enhanced Physics-Informed Kolmogorov-Arnold Ne
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.03062v1 — Inverse Design of Tunable Infrared Metasurface Abs
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.14554v1 — Forked Physics Informed Neural Networks for Couple
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.15449v1 — TAROT: Test-driven and Capability-adaptive Curricu
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.16623v1 — Beyond the Classical Ceiling: Multi-Layer Fully-Co
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.17098v1 — Deep Reinforcement Learning for Optimal Portfolio 
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.18912v1 — Overreaction as an indicator for momentum in algor
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.16886v1 — A Controlled Comparison of Deep Learning Architect
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.19288v1 — Joint Return and Risk Modeling with Deep Neural Ne
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.11240v2 — Statistical Methodology Groups in the Pharmaceutic
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.16401v1 — Deep Reinforcement Learning-Assisted Automated Ope
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.27628v1 — DSevolve: Enabling Real-Time Adaptive Scheduling o
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.29994v1 — Bridging Stochastic Control and Deep Hedging: Stru
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.00173v1 — Advanced Capacity Accreditation of Future Energy S
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24486v1 — Comparative Evaluation of Modern Deep Learning Met
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20295v1 — ETac: A Lightweight and Efficient Tactile Simulati
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20564v1 — Where Reasoning Breaks: Logic-Aware Path Selection
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20586v1 — A Hierarchical MARL-Based Approach for Coordinated
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20685v1 — MGDA-Decoupled: Geometry-Aware Multi-Objective Opt
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20816v1 — ParetoSlider: Diffusion Models Post-Training for C
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.21711v1 — Fairness under uncertainty in sequential decisions
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22280v1 — Beyond Chain-of-Thought: Rewrite as a Universal In
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22937v1 — AutoPyVerifier: Learning Compact Executable Verifi
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23975v1 — Financial Market as a Self-Organized Ecosystem: Si
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23993v1 — EPM-RL: Reinforcement Learning for On-Premise Prod
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24086v1 — AsyncShield: A Plug-and-Play Edge Adapter for Asyn
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24171v1 — POCA: Pareto-Optimal Curriculum Alignment for Visu
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24273v1 — BitRL: Reinforcement Learning with 1-bit Quantized
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24278v2 — RAS: a Reliability Oriented Metric for Automatic S
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25959v1 — On the Centralization of Governance Power in Decen
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25782v1 — EOS-Bench: A Comprehensive Benchmark for Earth Obs
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25907v1 — How Fast Should a Model Commit to Supervision? Tra
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26330v1 — Optimizing Tracking Accuracy in Energy-Constrained
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26360v1 — Uncertainty-Aware Reward Discounting for Mitigatin
+- **2026-05-01 10:41** paper_watcher: 新论文 2506.06350v1 — An analysis of capital market through the lens of 
+- **2026-05-01 10:41** paper_watcher: 新论文 2506.17511v1 — Empirical Models of the Time Evolution of SPX Opti
+- **2026-05-01 10:41** paper_watcher: 新论文 2508.02758v1 — CTBench: Cryptocurrency Time Series Generation Ben
+- **2026-05-01 10:41** paper_watcher: 新论文 2508.20105v2 — Identification of phase correlations in Financial 
+- **2026-05-01 10:41** paper_watcher: 新论文 2508.14762v2 — Statistical Arbitrage in Options Markets by Graph 
+- **2026-05-01 10:41** paper_watcher: 新论文 2508.14784v1 — Graph Learning for Foreign Exchange Rate Predictio
+- **2026-05-01 10:41** paper_watcher: 新论文 2509.07766v2 — Toward Quantum Utility in Finance: A Robust Data-D
+- **2026-05-01 10:41** paper_watcher: 新论文 2510.11616v1 — Attention Factors for Statistical Arbitrage
+- **2026-05-01 10:41** paper_watcher: 新论文 2511.01271v1 — High-Dimensional Spatial Arbitrage Pricing Theory 
+- **2026-05-01 10:41** paper_watcher: 新论文 2511.13616v2 — Statistical and economic evaluation of forecasts i
+- **2026-05-01 10:41** paper_watcher: 新论文 2512.02037v1 — Statistical Arbitrage in Polish Equities Market Us
+- **2026-05-01 10:41** paper_watcher: 新论文 2511.20739v2 — Game Theory in Cosmology
+- **2026-05-01 10:41** paper_watcher: 新论文 2512.03123v1 — A Stochastic Thermodynamics Approach to Price Impa
+- **2026-05-01 10:41** paper_watcher: 新论文 2512.14410v1 — Pattern Recognition of Aluminium Arbitrage in Glob
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.08974v2 — The drift burst hypothesis
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.23172v2 — A unified theory of order flow, market impact, and
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.18107v1 — ARTEMIS: A Neuro Symbolic Framework for Economical
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.19580v1 — Probabilistic Forecasting for Day-ahead Electricit
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.21581v1 — Pricing and Hedging Financial Derivatives in Merge
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23608v2 — Non-unique time and market incompleteness
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23615v1 — Applications of the Transformer Architecture in AI
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23703v1 — Talking Slide Avatars: Open-Source Multimodal Comm
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24197v1 — Seeing Is No Longer Believing: Frontier Image Gene
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24822v1 — A systematic literature Review for Transformer-bas
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24572v1 — FastOMOP: A Foundational Architecture for Reliable
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24919v1 — Agentic AI for Remote Sensing: Technical Challenge
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25044v1 — Second-order optimality conditions for optimizatio
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27000v1 — Adaptive and AI-Augmented Security Testing: A Syst
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26338v1 — People, Places & Things: Network topology & motifs
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26683v1 — Transferability of Token Usage Rights: A Design Sp
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26855v1 — Cognitive Atrophy and Systemic Collapse in AI-Depe
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26863v1 — Spectral Boundary Observer for Counter-Flow Heat E
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27137v1 — Cross-Lingual Response Consistency in Large Langua
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27309v1 — End-to-End Evaluation and Governance of an EHR-Emb
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27414v1 — Understanding Adversarial Transferability in Visio
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27670v1 — Hamilton--Jacobi theory for non-conservative field
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27825v1 — Requirements Debt in AI-Enabled Perception Systems
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27849v1 — A Grid-Aware Agent-Based Model for Analyzing Elect
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27955v1 — GUI Agents with Reinforcement Learning: Toward Dig
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.28125v1 — Normativity and Productivism: Ableist Intelligence
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.16401v1 — Stackelberg Equilibria in Monopoly Insurance Marke
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.22099v1 — Through-bottle spectroscopy as a tool for quality 
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.00813v1 — On a Class of Optimal Reinsurance Problems
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.08145v1 — DARC: Disagreement-Aware Alignment via Risk-Constr
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.12450v1 — Bridging the Gap Between Security Metrics and Key 
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.14491v1 — Private Credit Markets Theory, Evidence, and Emerg
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.16108v2 — Short-horizon Duesenberry Equilibrium
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.21044v1 — Risk Capacity and Optimal Monetary Policy
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.23552v2 — Orbital Debris in Earth Orbit: Operations, Stabili
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.21672v3 — Mislearning of Factor Risk Premia under Structural
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.22058v1 — Mean Field Equilibrium Asset Pricing Models With E
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.29751v1 — Common Risk Factors in Decentralized AI Subnets
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.02400v1 — Varying risk exposure in auto insurance: a weighte
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.04464v1 — Bounded by Risk, Not Capability: Quantifying AI Oc
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.15881v1 — Optimal Insurance Menu Design under the Expected-V
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.18778v1 — Clustered Local Projections for Time-Varying Model
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.21372v1 — Optimal basis risk weighting in expectile-based pa
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24489v2 — Property, Interest, and Money: Is Heinsohn and Ste
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.01194v1 — On the Structure of the Optimal Detector for Sub-T
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.07370v2 — Magnetically Driven Elastic Microswimmers: Exploit
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.09254v1 — A Theoretical Framework for Rate-Distortion Limits
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.13730v1 — Outbreak dynamics and population vulnerability in 
+- **2026-05-01 10:41** paper_watcher: 新论文 2601.19504v1 — Generating Alpha: A Hybrid AI-Driven Trading Syste
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.11398v4 — Evolution With Purpose: Hierarchy-Informed Optimiz
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.11444v1 — Towards Reliable Machine Translation: Scaling LLMs
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.15309v1 — OSCAR: An Ovipositor-Inspired Self-Propelling Caps
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.19419v2 — RAmmStein: Regime Adaptation in Mean-reverting Mar
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.24289v1 — Mode Seeking meets Mean Seeking for Fast Long Vide
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.02820v3 — Optimal Consumption and Portfolio Choice with No-B
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.07914v1 — Event-Study Designs for Discrete Outcomes under Tr
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.21043v1 — Confidence Freeze: Early Success Induces a Metasta
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.22497v1 — Rashid: A Cipher-Based Framework for Exploring In-
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.27514v1 — Anomalous Hall Conductivity as an Effective Means 
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.29593v1 — Be Water: An Evolutionary Proof for Trend-Followin
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.07575v1 — Robust Multi-Agent Target Tracking in Intermittent
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.13334v1 — Against a Universal Trading Strategy: No-Arbitrage
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.21076v1 — Serialisation Strategy Matters: How FHIR Data Form
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27700v1 — Data-Driven Stochastic Optimal Control for Intrada
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.11264v2 — Nature-Inspired Hyperuniform Nanohole Patterning f
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.11574v1 — SemiCharmTag: a tool for Semileptonic Charm taggin
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.13623v1 — Optimizing thermal convection by phase-locking cir
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.14359v1 — Expected Sensitivity of the Light Dark Matter eXpe
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.14817v1 — Layer-dependent quantum transport in KV2Se2O-based
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.15220v1 — A Microeconomic Finance Model with a Multi-Asset M
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.16172v1 — MOMENTA: Mixture-of-Experts Over Multimodal Embedd
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.16637v1 — Conformal Elastodynamics in 2D Dilational Metamate
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.17386v1 — Designer metal-free altermagnetism in honeycomb tw
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.18648v2 — DanceCrafter: Fine-Grained Text-Driven Controllabl
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.18514v1 — Tunable Optical Torque by Asymmetry-Induced Spin-H
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.19121v2 — Rather than drafting, vortex capture dictates effi
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.19661v1 — Intrinsic i-wave altermagnetism in 2D graphene sup
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20271v1 — Acoustic quantum skyrmion-valley Hall effect
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.21784v1 — Ground-state properties of superheavy $Z=122$ isot
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22349v1 — Hadronic contributions to $α(Q^{2})$ and $\sin^{2}
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.24439v1 — Stable fluid-rigid body interaction algorithm usin
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.25550v1 — Enhancing SignSGD: Small-Batch Convergence Analysi
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26801v1 — Continuum contribution to charged-current absorpti
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.28131v1 — Simplified approach to extracting nucleon transver
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.14670v1 — FactorMiner: A Self-Evolving Agent with Skills and
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.17890v1 — The Information Dynamics of Insider Intent: How Re
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.18974v1 — How Does The Magnetic Gradient Scale Length Influe
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.13252v1 — When Alpha Breaks: Two-Level Uncertainty for Safe 
+- **2026-05-01 10:41** paper_watcher: 新论文 2602.23730v1 — Unlocking Cognitive Capabilities and Analyzing the
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.09219v1 — AlgoXpert Alpha Research Framework. A Rigorous IS 
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.20271v1 — Information Propagation Across Investor Types: Tra
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.16365v2 — FactorEngine: A Program-level Knowledge-Infused Fa
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.17692v1 — Can Blindfolded LLMs Still Trade? An Anonymization
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.18543v1 — Measuring ESG Risk in Supply Networks
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.19716v1 — Optimal Hedge Ratio for Delta-Neutral Liquidity Pr
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.26797v1 — MemGuard-Alpha: Detecting and Filtering Memorizati
+- **2026-05-01 10:41** paper_watcher: 新论文 2603.30031v3 — Cognitive Friction: A Decision-Theoretic Framework
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.08356v1 — Measuring Strategy-Decay Risk: Minimum Regime Perf
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.09060v1 — Taming the Black Swan: A Momentum-Gated Hierarchic
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.12035v1 — Does Visual Token Pruning Improve Calibration? An 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.12082v2 — When Forecast Accuracy Fails: Rank Correlation and
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.13260v1 — Which Voices Move Markets? Speaker Identity and th
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27358v1 — Safe Bilevel Delegation (SBD): A Formal Framework 
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.28011v1 — Echo-α: Large Agentic Multimodal Reasoning Model f
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.09821v1 — Global Persistence, Local Residual Structure: Fore
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.09986v1 — The Long-Only Minimum Variance Portfolio in a One-
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.10758v3 — Investing Is Compression
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.11300v1 — Detection and Mode-Identification of Multiple Chan
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.13458v1 — Interpretable Systematic Risk around the Clock
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.15463v2 — Risk-Sensitive Investment Management via Free Ener
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.16773v1 — Topological Risk Parity
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.17166v1 — The Virtue of Sparsity in Complexity
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.17327v1 — Signal or Noise in Multi-Agent LLM-based Stock Rec
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.17593v1 — Post-Screening Portfolio Selection
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.18821v1 — Evaluating Structured Strategy Backtests: Peer Ben
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.18983v1 — From centrality to productivity: How firms reconfi
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.19107v1 — Structural Dynamics of G5 Stock Markets During Exo
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20204v1 — ACT: Anti-Crosstalk Learning for Cross-Sectional S
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.20532v1 — Reliability as a Design Principle: A Systematic Re
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.22625v1 — FlashFolio: A GPU-Accelerated Solver for Portfolio
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.23023v1 — Realized Regularized Regressions
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26076v1 — The Financialization of Proof-of-Stake: Asymptotic
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.26747v1 — From Hypotheses to Factors: Constrained LLM Agents
+- **2026-05-01 10:41** paper_watcher: 新论文 2604.27610v1 — A Systematic Review of Recent Advancements in PINN
+> Chronological record of all wiki actions. Append-only.
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-04-23] create | Wiki initialized
+- Domain: AI/ML 研究、量化交易、智能体系统
+- Structure created with SCHEMA.md, index.md, log.md
+- obsidian-headless installed (v0.0.8) — no remote sync (no Obsidian account)
+
+## [2026-04-23] create | 量化知识库初始化
+- 创建 5 个核心概念页面:
+  - concepts/quant/trading-regime.md
+  - concepts/quant/technical-analysis.md
+  - concepts/quant/support-resistance.md
+  - concepts/quant/strategy-prototypes.md
+  - concepts/quant/risk-management.md
+- 所有页面含 Python 代码示例，互相交叉引用
+- 核心思想: "先判断 Regime，再选策略"
+
+## [2026-04-24] ingest | MACD 系统性研究
+- 原始来源: en.wikipedia.org/MACD (通过代理 curl 抓取)
+- 创建原始材料: raw/articles/macd-wikipedia-2026.md
+- 创建/更新 6 个 wiki 页面:
+  - concepts/quant/macd.md — 基础框架（公式/参数/信号/局限）
+  - concepts/quant/macd-divergences.md — 背离详解（4种类型/识别规则/实战要点）
+  - concepts/quant/macd-crossovers.md — 交叉详解（信号线交叉/零轴交叉/双重确认）
+  - concepts/quant/macd-parameters.md — 参数方言（起源/替代组合/MACD-S等变体）
+  - concepts/quant/macd-histogram.md — 直方图（斜率分析/领先预警/动量极值）
+  - comparisons/macd-variants-comparison.md — 方言变体横向对比
+- index.md 更新: 新增 6 个概念页面 + 1 个比较页面，总页数 5→10
+- 主要研究内容:
+  - 标准 MACD(12,26,9) 公式与数值计算示例
+  - 四种背离: 常规顶/底背离（反转信号）+ 隐藏顶/底背离（延续信号）
+  - 信号线交叉 vs 零轴交叉: 频率/滞后/可靠性对比
+  - 直方图斜率作为交叉预判工具
+  - MACD-S/MACD-R/Zero-Lag 等方言变体
+  - 参数优化原则与回测注意事项
+  - 多时间周期 MACD 叠加用法（周线+日线+小时）
+  - MACD 面积守恒/零轴回归/柱体收缩（红绿柱守恒的民间概念分析）
+
+## [2026-04-24] ingest | MACD 民间方言战法补充
+- 数据来源: B站 API 搜索（"MACD 战法/背离/缩头缩脚/水上水下/空中加油/三板斧"）
+- 创建: concepts/quant/macd-fangyan.md（新页面，10KB+）
+- 主要方言内容（均来自 B站高播放量视频）:
+  - 水上水下判断法（最广为流传的散户用法）
+  - "买小卖小，缩头缩脚"（最重要方言，八字真言，10万+播放量视频核心）
+  - 空中加油/拒绝死叉/拒绝金叉（主力行为解读）
+  - 三板斧战法（多个 B站 UP 主系统讲解）
+  - 四种背离详解（隐藏背离，操盘手进阶内容）
+  - MACD 组合战法（BOLL/KDJ/SAR/CCI/OBV/成交量）
+  - 周期共振战法（周线定方向/日线找买点/小周期精确入场）
+  - 分时图 MACD（日内 T+0 用法）
+- index.md: 11→12 页，新增 macd-fangyan
+- 风险提示: 方言用法未经严格回测，不构成投资建议
+
+## [2026-04-24] ingest | MACD 标准化与替代指标研究
+- 研究问题: MACD 值受价格绝对水平影响，无法横向跨股票/纵向跨时间对比
+- 成熟处理方法:
+  1. Z-Score 标准化: (DIF - 均值) / 标准差，数学严谨但依赖历史窗口
+  2. 百分位排名: 在过去 N 天中排百分之几，最直观实用（推荐）
+  3. 除以 ATR: DIF / ATR，以波动率为基准，归一化效果好（推荐）
+  4. 除以价格: DIF / 价格，物理含义清晰但价格接近零时失真
+- 替代指标:
+  1. KST (Know Sure Thing): Martin Pring 创建，多周期 ROC 加权，本质已标准化
+  2. OsMA: MACD 直方图，已经是 MACD 的标准化变换
+  3. MACD-V: 参数改为 (5,35,5)，更敏感但非严格归一化
+  4. AO (Awesome Oscillator): Bill Williams 创建，SMA 版本的 MACD
+- 创建: concepts/quant/macd-normalized-alternatives.md（新页面）
+- index.md: 12→13 页
+
+## [2026-04-24] update | MACD 纵向对比专篇（TGM 贡献思路）
+- TGM 提供核心思路：MACD 量纲来自价格，纵向比较需要去量纲
+- TGM 原始思路：除以较长期的移动平均来去量纲
+- 本次更新新增专篇，涵盖四种纵向比较方案:
+  1. 除以长期 MA（TGM 思路）：实现简单但趋势漂移问题
+  2. 百分比 DIF：DIF / 当前价格，最简单改进
+  3. 对数价格空间 MACD：最推荐，数学最干净，信号解读不变
+  4. 滚动 Z-Score：最精确但计算成本高
+- 推荐：对数 MACD + 滚动 Z-Score 组合
+
+## [2026-04-24] update | DeepSeek MACD 标准化分析补充（part 2）
+- 数据来源: DeepSeek 分享（chat.deepseek.com/share/p071ggyjuhbfyfbx7j）
+- 补充 5 个关键内容到 wiki:
+  1. PPO 正式命名: Percentage Price Oscillator，横比强纵比弱
+  2. MACD-V 创作者: Alex Spiroglou，2022 年 NAAIM Founders Award（非民间指标）
+  3. "保留形、改变度"框架: 只标准化直方图，DIF/Signal 黄白线保留原始
+  4. 传统用法保留程度对照表: 8 种用法逐一说明保留/调整/丢失
+  5. 波动率不完美与价格等比缩放: ATR 标准化解决量纲但波动率结构差异仍存在
+- 涉及文件:
+  - concepts/quant/macd-normalized-alternatives.md（新增第 7-9 节）
+  - comparisons/macd-variants-comparison.md（新增 PPO、MACD-V 章节）
+  - index.md（描述更新）
+- 与历史冲突处理: 保留 DeepSeek 观点和既有 wiki 内容，冲突处已在文中注明
+- 2026-05-25: macd-divergence-a-layer: A层三组实验完成，A002为最优基线
+- 2026-05-25: macd-divergence-a-layer: 追加B1(ADX分域趋势市>震荡市)和B2(周线红区>绿区)结果
