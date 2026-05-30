@@ -21,6 +21,7 @@ confidence: medium
 - [[macd-focus-on-big-ignore-small]] — MACD抓大放小方法论（待细则）
 - [[dmi-top-bottom]] — **DMI判断顶底**（ADX≥60，配合MACD/箱体）
 - [[number-trading-rule]] — **数字操盘法则**（尾数法则·九大顶底信号）
+- [[capital-box-theory]] — **资金箱体/起爆线**（白线数值定箱体·精准抓主升浪启动点）
 
 ### 实战技巧
 - [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
