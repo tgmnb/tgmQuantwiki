@@ -20,6 +20,9 @@ confidence: medium
 - [[macd-eight-character-formula]] — **MACD八字要诀**（抓大放小·抓小放大·死亡陷阱）
 - [[macd-focus-on-big-ignore-small]] — MACD抓大放小方法论（待细则）
 
+### 实战技巧
+- [[call-auction-limit-up]] — **集合竞价抓涨停**（放量阴线法+盘口语言法）
+
 ### 形态识别
 - [[60min-double-bottom-bull-pattern]] — 60分钟双底骑牛模式（待细则）
 - [[consolidation-volume-drop-4k-rebound]] — 横盘后小放量下跌→4K信号反弹
