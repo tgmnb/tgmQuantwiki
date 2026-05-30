@@ -61,6 +61,7 @@ confidence: medium
 
 ### 哲学基础
 - [[volume-price-time-space]] — **量价时空**（阴阳理论·时空凌驾量价·脚踩巨量翻倍涨）
+- [[abnormal-volume-system]] — **异动量与成交量分析体系**（倍量·脉冲量·组合量/移动量·瀑布杀·尖角波·量价汽车理论·量承接价承接升级版）
 - [[percentage-duality]] — **百分比与对偶/空间密度**（顶底相加·异动量战法·股市灵魂）
 - [[tongdaxin-settings]] — **通达信软件正确设置**（前复权+量复权·百分比坐标·三问指数对比）
 - [[training-mode-review]] — **训练模式与复盘流程**（4-7练习法·换手率+涨幅榜选股）
