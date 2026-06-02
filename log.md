@@ -1,5 +1,55 @@
 # Wiki Log
 
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00133v1 [low] — World Models: A Comprehensive Survey of Architectu
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00349v1 [low] — (HB-ARFM) History-Bootstrapped Flow Matching for I
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00752v1 [low] — A multimodal dataset of photoplethysmography and c
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00811v1 [low] — Certificates without Electrons? Theory and Evidenc
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00892v1 [low] — An Exploratory Study into using Machine-Learning f
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00923v1 [low] — Graph Attention-Based Virtual Metrology for Film D
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00938v1 [low] — Machine Learning Surrogate Modeling for Homogeniza
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01131v1 [low] — Tokenized but Illiquid? Evidence from Real-World A
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01234v1 [low] — Differing Roles of Leisure and Productivity in GDP
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01259v1 [low] — MsFEM-Inspired CNNs with Transfer Learning for Mul
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.02179v1 [low] — On the Generalization in Topology Optimization via
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.02336v1 [low] — VIX options in Bergomi models
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00320v1 [low] — Adversarially Robust Control of Conditional Value-
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00624v1 [low] — Macro-aware time series forecasting via hierarchic
+- **2026-06-02 19:38** paper_watcher: 新内容 2605.29287v2 [low] — UniNote: A Unified Embedding Model for Multimodal 
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00269v1 [low] — Closed-Loop Neural Activation Control in Vision-La
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00350v1 [low] — Drift Q-Learning
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00383v1 [low] — Behavior Cloning of MPC for 3-DOF Robotic Manipula
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00392v1 [low] — Detector-Evasive LLM Paraphrasing via Constrained 
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00862v1 [low] — Meta-Black-Box Optimization with Ensemble Surrogat
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00869v1 [low] — Enhancing LLM Metacognition via Cognitive Pairwise
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01160v1 [low] — Expected Value Alignment for Generative Reward Mod
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01397v1 [low] — Autopilot-Preserving Residual Q-Learning with HJB-
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01985v1 [low] — MT-EditFlow: Reinforcement Learning for Multi-Turn
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.02132v1 [low] — Learning When Not to Act: Mitigating Tool Abuse in
+- **2026-06-02 19:38** paper_watcher: 新内容 2605.07818v2 [medium] — Expectation-Maximization as a Spectrally Governed 
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01521v1 [medium] — Fast Generalization after Interpolation via Critic
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.02078v1 [medium] — Beyond $\ell_2$-norm and $\ell_\infty$-norm: A Cur
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00136v1 [high] — Generative AI and Digital Ecosystem Resilience: A 
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00326v1 [high] — On the synaptic matrix eigenvalues of sparsely con
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.00807v1 [high] — Interaction-Centered Intelligence: Toward Interact
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01229v1 [high] — Application of Algorithms in Energy-Efficient Desi
+- **2026-06-02 19:38** paper_watcher: 新内容 2606.01517v1 [high] — The Main Barrier to AI Adoption in the Public Sect
+- **2026-06-02 19:38** paper_watcher: 新内容 2605.17628v2 [high] — A Penalty-Free Pipeline for Direct Quantum-Anneale
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30585v1 [low] — Benchmarking Machine Learning Uncertainty Quantifi
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30593v1 [low] — Scientific Machine Learning for Engine Health Mana
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.31392v1 [low] — On limitations of polyconvexity
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.31431v1 [low] — When Certainty Is Not Worth It: Capital Lock-Up an
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30478v1 [low] — Improving Small Language Models for Code Generatio
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30610v1 [low] — Constrained Flow Optimization via Sequential Fine 
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30785v1 [low] — Learning Agent-Compatible Context Management for L
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30832v1 [low] — SLAT: Segment-Level Adaptive Trimming for Efficien
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30884v1 [low] — GUI-C$^2$: Coarse-to-Fine GUI Grounding via Diffic
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30672v1 [high] — Residual Supply and the Price of Risk Absorption
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30448v1 [high] — Bounded Behavioral Indistinguishability for Black-
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30681v1 [high] — On a structural acoustic model with logarithmic su
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.31149v1 [high] — Developing a UXR Point of View for Cognitive Acces
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.20636v2 [high] — Continuous Timing Signals for Growth-Defensive Sty
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30464v1 [high] — Distributional Portfolio Optimization (DPO): A Uni
+- **2026-06-01 19:38** paper_watcher: 新内容 2605.30643v1 [high] — Quality-Adjusted Hit-Ratio Targeting in Corporate 
 - **2026-05-30 19:38** paper_watcher: 新内容 2605.25115v1 [low] — Courant: a State-Adaptive Perceiver-Based Neural S
 - **2026-05-30 19:38** paper_watcher: 新内容 2605.25151v1 [low] — Representation Without Control: Testing the Realiz
 - **2026-05-30 19:38** paper_watcher: 新内容 2605.25287v1 [low] — Data-Driven Structural Health Monitoring of Short 

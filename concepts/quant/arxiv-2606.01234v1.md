@@ -1,0 +1,47 @@
+---
+title: Differing Roles of Leisure and Productivity in GDP - A Machine Learning based comparative analysis of Germany and USA
+created: 2026-06-02
+updated: 2026-06-02
+type: concept
+tags: [quant, factor, 树模型, strategy]
+sources: [Differing Roles of Leisure and Productivity in GDP - A Machine Learning based comparative analysis of Germany and USA]
+confidence: medium
+---
+
+# Differing Roles of Leisure and Productivity in GDP - A Machine Learning based comparative analysis of Germany and USA
+
+> 来源：[arXiv:2606.01234v1](https://arxiv.org/abs/2606.01234v1) | 作者：
+
+## 基本信息
+
+| 字段 | 值 |
+|------|----|
+| 发表 | 2026-05-31 |
+| 方法 | 树模型 |
+| 策略类型 | 未识别 |
+| 资产类别 | 未特定 |
+
+## 摘要
+
+The GDP of a country is modelled as the relative interaction between two agents - working hours, reflecting the social choice of a population, and Total Factor Productivity, reflecting the collective investment in productivity enhancers. It is shown that a Random Forest model can accu- rately predict the GDP from these two factors. The differences in the choices made by Germany and USA are analysed though Gini importance, SHAP plots and partial dependency. It is shown that the differences in the
+
+## 核心方法论
+
+**方法：** 树模型
+**策略方向：** 未识别
+
+## 关键发现
+
+- The GDP of a country is modelled as the relative interaction between two agents - working hours, reflecting the social choice of a population, and Total Factor Productivity, reflecting the collective investment in productivity enhancers.
+- It is shown that a Random Forest model can accu- rately predict the GDP from these two factors.
+- The differences in the choices made by Germany and USA are analysed though Gini importance, SHAP plots and partial dependency.
+
+## 实践要点
+
+- 细节需阅读原文确认
+
+## 相关概念
+
+- [[strategy-prototypes]] — 策略原型
+- [[risk-management]] — 风险管理
+- [[factor-research]] — 因子研究框架
