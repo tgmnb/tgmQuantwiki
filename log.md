@@ -1,5 +1,6 @@
 # Wiki Log
 
+- **2026-06-03 19:47** paper_watcher: 新内容 23篇, 概念页 17篇
 - **2026-06-02 19:38** paper_watcher: 新内容 2606.00133v1 [low] — World Models: A Comprehensive Survey of Architectu
 - **2026-06-02 19:38** paper_watcher: 新内容 2606.00349v1 [low] — (HB-ARFM) History-Bootstrapped Flow Matching for I
 - **2026-06-02 19:38** paper_watcher: 新内容 2606.00752v1 [low] — A multimodal dataset of photoplethysmography and c
