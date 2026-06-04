@@ -1,5 +1,33 @@
 # Wiki Log
 
+- **2026-06-04 19:43** paper_watcher: 新内容 2107.01629 [low] — From Live to Recording: Consumer Demand and Respon
+- **2026-06-04 19:43** paper_watcher: 新内容 2310.12272 [low] — Peer Effects in Consideration and Preferences
+- **2026-06-04 19:43** paper_watcher: 新内容 2407.03504 [low] — Capacity, Technology Portfolios, and the Paradox o
+- **2026-06-04 19:43** paper_watcher: 新内容 2502.00470 [low] — On the Relationship Between CoCoA and ADMM for Dis
+- **2026-06-04 19:43** paper_watcher: 新内容 2505.18723 [low] — Deviations from Normality in a Financial Model wit
+- **2026-06-04 19:43** paper_watcher: 新内容 2509.08846 [low] — Uncertainty Estimation using Variance-Gated Distri
+- **2026-06-04 19:43** paper_watcher: 新内容 2509.09598 [low] — Ancestral origins of environmental (in)attention
+- **2026-06-04 19:43** paper_watcher: 新内容 2510.20047 [low] — Pricing Variance Swap for Multi-Asset Stochastic V
+- **2026-06-04 19:43** paper_watcher: 新内容 2601.02369 [low] — Fair Distribution of Digital Payments: Balancing T
+- **2026-06-04 19:43** paper_watcher: 新内容 2601.14852 [low] — Recovering State Prices from Options
+- **2026-06-04 19:43** paper_watcher: 新内容 2602.14378 [low] — A Computational Framework for Financial Structures
+- **2026-06-04 19:43** paper_watcher: 新内容 2603.19225 [medium] — FinTradeBench: A Financial Reasoning Benchmark for
+- **2026-06-04 19:43** paper_watcher: 新内容 2604.00915 [low] — Orthogonal Learner for Estimating Heterogeneous Lo
+- **2026-06-04 19:43** paper_watcher: 新内容 2605.17623 [high] — Where the Quantum Lives in D-Wave Hybrid Portfolio
+- **2026-06-04 19:43** paper_watcher: 新内容 2605.18931 [low] — Markov Chain Decoders Overcome the Heavy-Tail Limi
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.01979 [low] — A Simple Hierarchical Causality Primer
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.02503 [low] — Pay Beliefs and the Amenity-Pay Tradeoff
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04153 [low] — A new decomposition approach to modeling financial
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04217 [low] — Polymarket-v1 Database
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04235 [low] — A Certified Higher Order Quantum Framework for CSA
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04258 [high] — Anticipatory Portfolio Optimization
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04574 [medium] — Dynamic Multi-Pair Trading Strategy in Cryptocurre
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04576 [low] — ReSGA: A Large Tail Risk Model for Learning Value-
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04715 [low] — How the interpolation of life tables affects the d
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04916 [low] — Worker Utility as Hysteresis: A Preisach Model of 
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04959 [medium] — Fairness and Strategy-Proofness in Automated Marke
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.04978 [low] — Probing Outcome-Level Resemblance and Mechanism-Le
+- **2026-06-04 19:43** paper_watcher: 新内容 2606.05138 [low] — Generating Financial Time Series by Matching Rando
 - **2026-06-03 19:47** paper_watcher: 新内容 23篇, 概念页 17篇
 - **2026-06-02 19:38** paper_watcher: 新内容 2606.00133v1 [low] — World Models: A Comprehensive Survey of Architectu
 - **2026-06-02 19:38** paper_watcher: 新内容 2606.00349v1 [low] — (HB-ARFM) History-Bootstrapped Flow Matching for I
