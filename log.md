@@ -1,5 +1,48 @@
 # Wiki Log
 
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.02886v2 [low] — Scalable Uncertainty Quantification for Extreme We
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03097v1 [low] — From Long News to Accurate Forecast: Importance-Aw
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03422v1 [low] — HonestAffinity: Leak-Aware Evaluation of Protein a
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03767v1 [low] — Trading Frictions in Dynamic Cap-and-Trade Markets
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04153v1 [low] — A new decomposition approach to modeling financial
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04217v1 [low] — Polymarket-v1 Database
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04228v1 [low] — When Does Structure Help? The Information Bonus of
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04686v1 [low] — Digital Quantum Reservoir Computing for ATM Time S
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05623v1 [low] — Bankruptcy Prediction from 10-K Narratives: Eviden
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05986v1 [low] — AttackPathGNN: Cross-function vulnerability detect
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05991v1 [low] — Forecasting of volatility and risk premia in elect
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.06007v1 [low] — Diffusion Models for Adaptive Sequential Data Gene
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.06405v1 [low] — Bridging CAD and Data-Driven Design: Attributed Fe
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.02132v2 [low] — Learning When Not to Act: Mitigating Tool Abuse in
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03102v1 [low] — Small RL Controller, Large Language Model: RL-Guid
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03177v1 [low] — ConTrack: Constrained Hand Motion Tracking with Ad
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03800v1 [low] — Trading Human Curation for Synthetic Augmentation 
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03962v1 [low] — Using Reward Uncertainty to Induce Diverse Behavio
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03965v1 [low] — Agentic Chain-of-Thought Steering for Efficient an
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04516v1 [low] — GeoMin: Data-Efficient Semi-Supervised RLVR via Ge
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04632v1 [low] — VentAgent: When LLMs Learn to Breathe -- Multi-Obj
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05882v1 [low] — The Impact of Market Informedness on Market Makers
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04574v1 [medium] — Dynamic Multi-Pair Trading Strategy in Cryptocurre
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03730v2 [medium] — Beyond False Stability: High-Noise Drift Gating fo
+- **2026-06-05 19:38** paper_watcher: 新内容 2605.27454v2 [medium] — NL-MambaXCT: Self-Supervised Nested-Learning Mamba
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.02928v1 [medium] — Improved Postural Stability Using a Lightweight Se
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04393v1 [medium] — Near-Perfect Chirality and Giant Spin-Orbit Conver
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04576v1 [medium] — ReSGA: A Large Tail Risk Model for Learning Value-
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04954v1 [medium] — Triangular Charge-Density Waves (T-CDW) Stabilize 
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03173v1 [high] — Auditing Engagement Incentives in the Kidfluencer 
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05631v1 [high] — Stress Amplified Resilience: ESG and Joint Fragili
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04301v1 [high] — XSSR: Cross-Domain Self-Supervised Representative 
+- **2026-06-05 19:38** paper_watcher: 新内容 2605.29456v2 [high] — Usability Analysis of Configurator User Interfaces
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.02800v1 [high] — Cosmos 3: Omnimodal World Models for Physical AI
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03144v1 [high] — GTBench: A Curriculum-Grounded Benchmark for Evalu
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.03410v1 [high] — Enginuity: A Dataset and Benchmark for Vision-Lang
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05228v1 [high] — Where Do Large Language Models Fail on Competitive
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04609v1 [high] — CapSenseBand: Sustaining Cross-Disciplinary Creati
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04755v1 [high] — Archi: Agentic Operations at the CMS Experiment
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.04993v1 [high] — Code Lifespan Survival Analysis (CLSA): Predicting
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05667v1 [high] — Sustainability by Design in Decentralized Autonomo
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.06089v1 [high] — Leveraging LLMs for Unstructured Claims Data Analy
+- **2026-06-05 19:38** paper_watcher: 新内容 2606.05996v1 [high] — Distributionally robust shortfall risk portfolio m
 - **2026-06-04 19:43** paper_watcher: 新内容 2107.01629 [low] — From Live to Recording: Consumer Demand and Respon
 - **2026-06-04 19:43** paper_watcher: 新内容 2310.12272 [low] — Peer Effects in Consideration and Preferences
 - **2026-06-04 19:43** paper_watcher: 新内容 2407.03504 [low] — Capacity, Technology Portfolios, and the Paradox o
