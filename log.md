@@ -1,5 +1,12 @@
 # Wiki Log
 
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.06823v1 [low] — PandaAI: A Practical Agent CQ2 for Neuro-symbolic 
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.07215v1 [low] — A Comparative Study of Deep Learning Models for Ge
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.07258v1 [low] — CaliPPer: quantifying, predicting and improving AI
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.06607v1 [medium] — Photons, jets and missing momentum from a two-vect
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.06616v1 [medium] — Temperature-Induced Crossover of Coherent Phonon M
+- **2026-06-08 19:39** paper_watcher: 新内容 2604.26076v3 [high] — The Financialization of Proof-of-Stake: Asymptotic
+- **2026-06-08 19:39** paper_watcher: 新内容 2606.06652v1 [high] — Probabilistic Risk Sensitivity and Loss Aversion i
 - **2026-06-05 19:38** paper_watcher: 新内容 2606.02886v2 [low] — Scalable Uncertainty Quantification for Extreme We
 - **2026-06-05 19:38** paper_watcher: 新内容 2606.03097v1 [low] — From Long News to Accurate Forecast: Importance-Aw
 - **2026-06-05 19:38** paper_watcher: 新内容 2606.03422v1 [low] — HonestAffinity: Leak-Aware Evaluation of Protein a
