@@ -1,5 +1,41 @@
 # Wiki Log
 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.07811v1 [low] — When Do Markets Fully Process Public Information? 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08140v1 [low] — TRUST-SCF: Transformer-based Risk Understanding an
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08209v1 [low] — Markets Are Not Random, They Are Hard to Predict
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08287v1 [low] — Mesh Graph Neural Network Framework for Accelerati
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08586v1 [low] — Cross-sectional topological anomaly scores and int
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08930v1 [low] — RankGLU: Residual Gated Score Formation for Cross-
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09227v1 [low] — Trustworthy Smart Fabs via Professional Proxies: S
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09279v1 [low] — Bridging nanoparticle morphology and viscoelastic 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09478v1 [low] — Volatility Forecasting and Return Prediction under
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09055v1 [low] — Particle Methods with Deep Learning for Stochastic
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09104v1 [low] — Addressing Market Regime Changes and Heavy-Tailed 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09420v1 [low] — Benchmarking Deep Time Series Models for Equity Po
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08039v1 [low] — MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone S
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08249v1 [low] — Disturbance-Aware Aerial Robotics for Ethical Wild
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08379v1 [low] — TT-DAC-PS: Twin-Target Deterministic Actor-Critic 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08854v1 [low] — sGPO: Trading Inference FLOPs for Training Efficie
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08940v1 [low] — Multilingual Sentiment Aware Text Summarization A 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09115v1 [low] — Counterfactual Transport Flows for Offline Conserv
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.07646v1 [medium] — DOME: Learning Transferable Domain Variables from 
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.07747v1 [medium] — $100\pmΔt$ Years of Quantum Uncertainty: From Orig
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08569v1 [medium] — Stock Investment: The p-index Approach
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08585v1 [medium] — Novel physical property preserved methods for stoc
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09359v1 [medium] — Core-edge integrated modeling of ARC: on the effec
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.07859v1 [high] — A Preliminary Model for Managing Technical Debt in
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08050v1 [high] — Automatic, Real-time Classification of User Feedba
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08155v1 [high] — Have I Solved This Before? Retrieving Similar Segm
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08323v1 [high] — "So There's a Catch-22 Here": How Early Adopters W
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08413v1 [high] — Beyond Prediction: Longitudinal Reasoning in EHR-I
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08467v1 [high] — The Confidence Trap: Calibration Attacks for Graph
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08477v1 [high] — A Variability-Based Framework for Interpretable Na
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08534v1 [high] — A Taxonomy of Real-World Asset Tokenization for Bl
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08723v1 [high] — From Text to Discovery: How Are LLMs Reshaping Sci
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08855v1 [high] — Hybrid E-Assessment in Higher Education: Semi-Auto
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08914v1 [high] — Vibe Visualizing: How Visualization Novices Try (a
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.09400v1 [high] — vesselFM-CT: Segmenting All Blood Vessels in CT Im
+- **2026-06-09 19:38** paper_watcher: 新内容 2606.08450v1 [high] — GIFT: LLM-Guided State-Reward Interface for Financ
 - **2026-06-08 19:39** paper_watcher: 新内容 2606.06823v1 [low] — PandaAI: A Practical Agent CQ2 for Neuro-symbolic 
 - **2026-06-08 19:39** paper_watcher: 新内容 2606.07215v1 [low] — A Comparative Study of Deep Learning Models for Ge
 - **2026-06-08 19:39** paper_watcher: 新内容 2606.07258v1 [low] — CaliPPer: quantifying, predicting and improving AI
