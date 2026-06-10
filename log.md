@@ -1,5 +1,27 @@
 # Wiki Log
 
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10297v1 [low] — Decomposing Firm-Level Crisis Responses from Incom
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10448v1 [low] — Mitigating Bias in Low-SNR Financial Reinforcement
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10805v1 [low] — Asymmetric Nonlinear Return Extrapolation and Opti
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10412v1 [low] — A Unified Multi-Modal Framework for Intelligent Fi
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.11117v1 [low] — Towards Autonomous Accelerator Design: FPGA Accele
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.07747v2 [medium] — $100\pmΔt$ Years of Quantum Uncertainty: From Orig
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10049v1 [medium] — Momentum Dependence of Heavy Quark Diffusion in a 
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-627409a35c97 [high] — Recent Quant Links from Quantocracy as of 05/11/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-0ec256fced4b [high] — Recent Quant Links from Quantocracy as of 05/17/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-1e52337497a6 [high] — Recent Quant Links from Quantocracy as of 05/20/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-649d6c554b9e [high] — Recent Quant Links from Quantocracy as of 05/24/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-4d77d3a348b3 [high] — Recent Quant Links from Quantocracy as of 05/27/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-cbcca0fdd9cd [high] — Recent Quant Links from Quantocracy as of 05/30/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-312a41793f60 [high] — Recent Quant Links from Quantocracy as of 06/01/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-57deef8b5287 [high] — Recent Quant Links from Quantocracy as of 06/04/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-b907ed91d17d [high] — Recent Quant Links from Quantocracy as of 06/06/20
+- **2026-06-10 19:41** paper_watcher: 新内容 qc-32216b27722e [high] — Recent Quant Links from Quantocracy as of 06/09/20
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.08534v2 [high] — A Taxonomy of Real-World Asset Tokenization for Bl
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.08723v2 [high] — From Text to Discovery: How Large Language Models 
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10833v1 [high] — Do VLMs Reason Like Engineers? A Benchmark and a S
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10894v1 [high] — The 1st PortraitCraft Challenge: A CVPR 2026 Works
+- **2026-06-10 19:41** paper_watcher: 新内容 2606.10098v1 [high] — VQA for Dynamic Portfolio Optimization: Sampling S
 - **2026-06-09 19:38** paper_watcher: 新内容 2606.07811v1 [low] — When Do Markets Fully Process Public Information? 
 - **2026-06-09 19:38** paper_watcher: 新内容 2606.08140v1 [low] — TRUST-SCF: Transformer-based Risk Understanding an
 - **2026-06-09 19:38** paper_watcher: 新内容 2606.08209v1 [low] — Markets Are Not Random, They Are Hard to Predict
