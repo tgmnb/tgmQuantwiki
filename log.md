@@ -1,5 +1,13 @@
 # Wiki Log
 
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.11482v1 [low] — Building Social World Models with Large Language M
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.12347v1 [low] — Local Stress Redistribution Controls Interactions 
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.11435v1 [low] — Agent Skill Evaluation and Evolution: Frameworks a
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.11680v1 [low] — Organize then Retrieve: Hierarchical Memory Naviga
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.11693v1 [low] — Understanding and Supporting Online Discussion wit
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.12236v1 [low] — DrivingAgent: Design and Scheduling Agents for Aut
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.11552v1 [high] — Teaching Diffusion to Speculate Left-to-Right
+- **2026-06-11 20:11** paper_watcher: 新内容 2606.12346v1 [high] — Atlas H&E-TME: Scalable AI-Based Tissue Profiling 
 - **2026-06-10 19:41** paper_watcher: 新内容 2606.10297v1 [low] — Decomposing Firm-Level Crisis Responses from Incom
 - **2026-06-10 19:41** paper_watcher: 新内容 2606.10448v1 [low] — Mitigating Bias in Low-SNR Financial Reinforcement
 - **2026-06-10 19:41** paper_watcher: 新内容 2606.10805v1 [low] — Asymmetric Nonlinear Return Extrapolation and Opti
