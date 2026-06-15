@@ -1,5 +1,30 @@
 # Wiki Log
 
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.13812v1 [low] — CFOs Meet LLMs
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14548v1 [low] — Machine Learning-Accelerated Time Integration of P
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.13739v1 [low] — A Virtuous AI is an Existential Risk
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.13746v1 [low] — Scalable Dynamic Tactile Sensing Enabled by Passiv
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.13891v1 [low] — TetraRL: A Self-Adaptive Runtime for On-Device Dee
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14674v1 [low] — AgentSpec: Understanding Embodied Agent Scaffolds 
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14693v1 [low] — Learning Coordinated Preference for Multi-Objectiv
+- **2026-06-15 19:40** paper_watcher: 新内容 qc-e2e18db991eb [high] — Recent Quant Links from Quantocracy as of 06/12/20
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14095v1 [high] — Lyapunov-Based Sample Complexity Analysis for Weak
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14315v1 [high] — 'AI Alignment' Encompasses Competing Technical Pri
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14428v1 [high] — An Entropy Potential for Type-Composition Games
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.13822v1 [high] — Price-Discovery Admissibility in Tokenized Fixed I
+- **2026-06-15 19:40** paper_watcher: 新内容 2606.14386v1 [high] — Discovery under Hypothesis Redundancy: A Geometric
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12843v1 [low] — Interpretable Factor Decomposition for Decision In
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13255v1 [low] — Embedding-based Methods for Linear Solver Performa
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13431v1 [low] — Adaptive rerouting reshapes impacts of maritime ch
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12236v2 [low] — DrivingAgent: Design and Scheduling Agents for Aut
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13304v1 [low] — ReFree: Towards Realistic Co-Speech Video Generati
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12486v1 [medium] — An Empirical Study on Predictive Maintenance for C
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12679v1 [high] — Fed-FBD: Federated Functional Block Diversificatio
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13338v1 [high] — Navigating the Safety-Fidelity Trade-off: Massive-
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13419v1 [high] — Realtime price impact detection
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12644v1 [high] — The formation of gradient-driven singular structur
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.12972v1 [high] — From Prompts to Preferences: An Open-Source Platfo
+- **2026-06-12 19:38** paper_watcher: 新内容 2606.13474v1 [high] — Exploring Systems-Thinking Approaches to Loss of C
 - **2026-06-11 20:11** paper_watcher: 新内容 2606.11482v1 [low] — Building Social World Models with Large Language M
 - **2026-06-11 20:11** paper_watcher: 新内容 2606.12347v1 [low] — Local Stress Redistribution Controls Interactions 
 - **2026-06-11 20:11** paper_watcher: 新内容 2606.11435v1 [low] — Agent Skill Evaluation and Evolution: Frameworks a
