@@ -1,5 +1,37 @@
 # Wiki Log
 
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15089v1 [low] — A Machine-Checked Itô Calculus for Brownian Motion
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15234v1 [low] — Surrogate-Assisted Framework for SI-Compliant Inte
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15715v1 [low] — Trading in the Sunshine or in the Shade: Market Im
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16201v1 [low] — Q-READY: Predictive Feasibility Assessment for Hyb
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16346v1 [low] — Phase-field analysis of fracture in heterogeneous 
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16059v1 [low] — Mojo: A Promising Tool for Scalable Financial AI E
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15099v1 [low] — Think Less, Act Early: Reinforced Latent Reasoning
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15441v1 [low] — Defending against Adaptive Prompt Injection Attack
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15840v1 [low] — Multi-Stage Stochastic Optimization and Reinforcem
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15893v1 [low] — BALTO: Balanced Token-Level Policy Optimization fo
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16517v1 [low] — How Post-Training Shapes Biological Reasoning Mode
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16846v1 [low] — Deep Q-Learning on Hölder Spaces
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16847v1 [low] — Follow the Latent Roadmap: Navigating Revocable De
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15027v1 [medium] — A Predicate-Based Model for Computation over State
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15864v1 [medium] — Study of Nb Surface Under Ultra High Vacuum After 
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16682v1 [medium] — Multimodal Evaluator Preference Collapse: Cross-Mo
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16130v1 [medium] — Physics-guided residual correction of $α$-decay ha
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16426v1 [medium] — Upper bound to optical forces through the multipol
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16648v1 [medium] — Deflective Sunshades: conceptual design and origam
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.09025v2 [high] — Continuous Cash-Overlay Filters for a Static Growt
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.14830v1 [high] — Pricing Excess-of-Loss Reinsurance and CAT Bonds u
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.14898v1 [high] — α-Fair Insurance Pricing: A Fairness Continuum
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16100v1 [high] — Your "Pro" LLM Subscription May Actually Be "Free"
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16326v1 [high] — Gaming-Resistant Insurance Contracts for Autonomou
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16380v1 [high] — Informative Consumption
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16465v1 [high] — When Agent Automation Becomes Profitable: Quantify
+- **2026-06-16 19:38** paper_watcher: 新内容 2605.02427v3 [high] — The Model Knows, the Decoder Finds: Future Value G
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.14095v2 [high] — Lyapunov-Based Sample Complexity Analysis for Weak
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15074v1 [high] — TriAdReview: Triangular Adversarial Review Archite
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.15709v1 [high] — AI-Driven Framework for Adaptive Water Network Man
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16819v1 [high] — From the NYU Ultracomputer to Modern Exascale: A H
+- **2026-06-16 19:38** paper_watcher: 新内容 2606.16889v1 [high] — Architecture Carbon Tool v3: Enabling Sustainabili
 - **2026-06-15 19:40** paper_watcher: 新内容 2606.13812v1 [low] — CFOs Meet LLMs
 - **2026-06-15 19:40** paper_watcher: 新内容 2606.14548v1 [low] — Machine Learning-Accelerated Time Integration of P
 - **2026-06-15 19:40** paper_watcher: 新内容 2606.13739v1 [low] — A Virtuous AI is an Existential Risk
