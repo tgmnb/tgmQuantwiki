@@ -1,5 +1,18 @@
 # Wiki Log
 
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.16346v2 [low] — Phase-field analysis of fracture in heterogeneous 
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17383v1 [low] — Model Validation of Agentic AI Systems: A POMDP-Ba
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.18199v1 [low] — Conformal Prediction Intervals with Tail-Specific 
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17223v1 [low] — Safety, Security, and Cognitive Risks in Neuro-Sym
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17476v1 [low] — Multi-Adapter PPO: A Cross-Attention Enhanced Wave
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.18105v1 [low] — OmniPlan: An Adaptive Framework for Timely and Nea
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17526v1 [medium] — MGUP: A Momentum-Gradient Alignment Update Policy 
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17998v1 [high] — AIGS-Net: Compact Illumination Field Modeling via 
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17089v1 [high] — Security and Human-Centered Assessment of BACnet-C
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17398v1 [high] — SoK: AI-Augmented Binary Reversing
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17423v1 [high] — Martingale Doppelgänger-Eval: An Identification Fr
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.18205v1 [high] — Analyzing and Encoding the Al-Mawrid Arabic-Englis
+- **2026-06-17 19:39** paper_watcher: 新内容 2606.17192v1 [high] — Constrained Diffusion Models with Primal-Dual Infe
 - **2026-06-16 19:38** paper_watcher: 新内容 2606.15089v1 [low] — A Machine-Checked Itô Calculus for Brownian Motion
 - **2026-06-16 19:38** paper_watcher: 新内容 2606.15234v1 [low] — Surrogate-Assisted Framework for SI-Compliant Inte
 - **2026-06-16 19:38** paper_watcher: 新内容 2606.15715v1 [low] — Trading in the Sunshine or in the Shade: Market Im
