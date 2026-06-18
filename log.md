@@ -1,5 +1,10 @@
 # Wiki Log
 
+- **2026-06-18 19:40** paper_watcher: 新内容 2606.18539v1 [low] — TS-Fault: Benchmarking Time Series Forecasters Aga
+- **2026-06-18 19:40** paper_watcher: 新内容 2606.19052v1 [low] — An extendable, integrated, and dynamic approach to
+- **2026-06-18 19:40** paper_watcher: 新内容 2606.18105v2 [low] — OmniPlan: An Adaptive Framework for Timely and Nea
+- **2026-06-18 19:40** paper_watcher: 新内容 2606.19069v1 [low] — Model-Free Reinforcement Learning Control for Resi
+- **2026-06-18 19:40** paper_watcher: 新内容 2606.19081v1 [medium] — Retrieval-Based Brain Decoding by Alignment, not C
 - **2026-06-17 19:39** paper_watcher: 新内容 2606.16346v2 [low] — Phase-field analysis of fracture in heterogeneous 
 - **2026-06-17 19:39** paper_watcher: 新内容 2606.17383v1 [low] — Model Validation of Agentic AI Systems: A POMDP-Ba
 - **2026-06-17 19:39** paper_watcher: 新内容 2606.18199v1 [low] — Conformal Prediction Intervals with Tail-Specific 
