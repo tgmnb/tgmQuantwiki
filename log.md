@@ -1,5 +1,27 @@
 # Wiki Log
 
+- **2026-06-20 19:40** paper_watcher: 新内容 qc-029ac9daa9bb [high] — Recent Quant Links from Quantocracy as of 06/16/20
+- **2026-06-20 19:40** paper_watcher: 新内容 qc-49f04d8eaa8d [high] — Recent Quant Links from Quantocracy as of 06/17/20
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19556v1 [low] — A hybrid sharp-diffuse interface approach to accur
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19680v1 [low] — ImProNCDE: Impulse-Corrected Neural Controlled Dif
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20145v1 [low] — Trends, Volatility, Correlations, and Critical Phe
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20208v1 [low] — Beyond Accuracy: Measuring Logical Compliance of P
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20485v1 [low] — Optimal Order of Multi-Agent and General Many-Body
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20008v1 [low] — VIMPO: Value-Implicit Policy Optimization for LLMs
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20236v1 [low] — A Multi-Agent system for Multi-Objective constrain
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20376v1 [low] — CRAX: Fast Safe Reinforcement Learning Benchmarkin
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19517v1 [medium] — Do Prediction Markets Match Option Prices? Bitcoin
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.16682v2 [medium] — Multimodal Evaluator Preference Collapse: Cross-Mo
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20234v1 [medium] — A conservative adaptive rank method for the Wigner
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.16326v2 [high] — Gaming-Resistant Insurance Contracts for Autonomou
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19000v1 [high] — Tracking Brazil's Real Neutral Rate: A Multi-Block
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19106v1 [high] — Quantifying Compromise Risk in Exceptional Access 
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19135v1 [high] — A Technical Taxonomy of LLM Agent Communication Pr
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19425v1 [high] — LeWRON: Agentic Analysis of Electroweak Phase Tran
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.20174v1 [high] — Computational Methods and Challenges in Cell-Free 
+- **2026-06-19 19:38** paper_watcher: 新内容 2605.15896v2 [high] — A Model-Agnostic Bootstrap for Macro-Level Claims 
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.18545v1 [high] — The Gini-Bayes Connection: The CAP Slope as Bayes'
+- **2026-06-19 19:38** paper_watcher: 新内容 2606.19550v1 [high] — Which Portfolios? The Construction Dependence of F
 - **2026-06-18 19:40** paper_watcher: 新内容 2606.18539v1 [low] — TS-Fault: Benchmarking Time Series Forecasters Aga
 - **2026-06-18 19:40** paper_watcher: 新内容 2606.19052v1 [low] — An extendable, integrated, and dynamic approach to
 - **2026-06-18 19:40** paper_watcher: 新内容 2606.18105v2 [low] — OmniPlan: An Adaptive Framework for Timely and Nea
