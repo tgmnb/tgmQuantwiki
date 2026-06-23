@@ -1,5 +1,42 @@
 # Wiki Log
 
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20916v1 [low] — Physics-Guided Dual-Stream Heterogeneous Graph Neu
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20977v1 [low] — The Mathematics of Modeling the Future
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21875v1 [low] — Signed Evidence Flow: Conflict-Aware and Stability
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22375v1 [low] — ARIA: A Causal-Aware Framework for Rescuing LLM Re
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22566v1 [low] — Deep material network for homogenization of piezoe
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22640v1 [low] — A phase-field model for microbiologically influenc
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22664v1 [low] — From Complaint Narratives to Monetary Relief: A Hy
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22743v1 [low] — Endogenous Randomness from Adversarial Market Lear
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.23251v1 [low] — Attention mechanism for scalable mesh-based neural
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.23425v1 [low] — Interpretable Kolmogorov-Arnold Network with Featu
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.15893v2 [low] — BALTO: Balanced Token-Level Policy Optimization fo
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.16847v2 [low] — Follow the Latent Roadmap: Navigating Revocable De
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20376v2 [low] — CRAX: Fast Safe Reinforcement Learning Benchmarkin
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20832v1 [low] — ReLaTS: a Reinforcement Learning-based method for 
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21321v1 [low] — Objective-Behavior Alignment: Diagnostics for MORL
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21447v1 [low] — Precision Recall Controllable Radiology Report Gen
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21498v1 [low] — Balancing Performance and Diversity in GRPO Autore
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21784v1 [low] — KineticSim: A Lightweight, High-Performance Execut
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.23603v1 [low] — MORL-A2C: Multi-Objective Reinforcement Learning R
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20726v1 [medium] — How Well Can Your Video Model Remember? Measuring 
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.16130v2 [medium] — Physics-guided residual correction of $α$-decay ha
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21244v1 [medium] — ACE-GS: Acing the Trade-off with Accurate, Compact
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22385v1 [medium] — MetaPS: Adaptive Programmatic Strategy Selection f
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20732v1 [high] — Balanced Workforce: Governance-by-Design for Priva
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.20751v1 [high] — From Sentiment to Actionable Insights: A Data-Driv
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21018v1 [high] — LK Jam: System Architecture and Implementation of 
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.21521v1 [high] — Gradient-Based Learning of Parametric Engine Sound
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22097v1 [high] — Plurification in/of language technology -- The int
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22144v1 [high] — SAGE: An Expert-Annotated South Asian GI Endoscopy
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22211v1 [high] — Open AI in the Wild: Adoption and Adaptation of Op
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22515v1 [high] — Biological Sex Determination in Cadavers Using Dee
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22636v1 [high] — Spectral Gap for the Binary Fixed-Margin Swap Chai
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22784v1 [high] — Semiparametric Efficiency Theory as Differential C
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.23500v1 [high] — Development and Design of FLKit: A Structured Onbo
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22162v1 [high] — Temporal Coarse-Graining of Multi-Sector Default C
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.22719v1 [high] — Leakage-Aware Benchmarking of LLM Forecasting: Rea
+- **2026-06-23 19:38** paper_watcher: 新内容 2606.23596v1 [high] — Anatomy of the Market: A Body-Tail Test of Factor 
 - **2026-06-20 19:40** paper_watcher: 新内容 qc-029ac9daa9bb [high] — Recent Quant Links from Quantocracy as of 06/16/20
 - **2026-06-20 19:40** paper_watcher: 新内容 qc-49f04d8eaa8d [high] — Recent Quant Links from Quantocracy as of 06/17/20
 - **2026-06-19 19:38** paper_watcher: 新内容 2606.19556v1 [low] — A hybrid sharp-diffuse interface approach to accur
