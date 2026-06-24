@@ -1,5 +1,19 @@
 # Wiki Log
 
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.23834v1 [low] — Efficient implementation of graph autoencoders for
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.23873v1 [low] — Relaxation Times for Nonextensive Systems Using Gr
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24265v1 [low] — Neural Network-Based Parametric Model Reduction fo
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24348v1 [low] — A Step Towards Inherently Interpretable Causal Mac
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24747v1 [low] — Scaling Laws for Task-Specific LLM Distillation
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.21447v2 [low] — Precision Recall Controllable Radiology Report Gen
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24010v1 [low] — Safe and Generalizable Hierarchical Multi-Agent RL
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24042v1 [low] — Breaking the Filter Bubble: A Semantic Pareto-DQN 
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24193v1 [low] — SkyChain Intelligence: A Blockchain-Secured Multi-
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24331v1 [low] — Transformer-Based Language Models Across Domain Ve
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24340v1 [low] — Managing Task Execution for Unknown Workloads in B
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24575v1 [medium] — Quant Convergence: Bridging Classical Value Invest
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24141v1 [high] — SBM With Multiple Samples: Improved Spectral Recov
+- **2026-06-24 19:39** paper_watcher: 新内容 2606.24689v1 [high] — Automated Summarization of Software Documents: An 
 - **2026-06-23 19:38** paper_watcher: 新内容 2606.20916v1 [low] — Physics-Guided Dual-Stream Heterogeneous Graph Neu
 - **2026-06-23 19:38** paper_watcher: 新内容 2606.20977v1 [low] — The Mathematics of Modeling the Future
 - **2026-06-23 19:38** paper_watcher: 新内容 2606.21875v1 [low] — Signed Evidence Flow: Conflict-Aware and Stability
