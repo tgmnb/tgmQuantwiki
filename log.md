@@ -1,5 +1,18 @@
 # Wiki Log
 
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.24959v1 [low] — Reliable Conformal Prediction for Ordinal Classifi
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25068v1 [low] — Adapt Only When It Pays: Budgeted Decision-Loss Pr
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25986v1 [low] — The Inference-Compute Frontier and a Latency-Effic
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.24962v1 [low] — Towards Scalable Multi-Task Reinforcement Learning
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.24990v1 [low] — Uncertainty-aware reinforcement learning for chemi
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25354v1 [low] — Efficient and Trainable Language Model Test-Time S
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25680v1 [low] — Power-Budgeted Underwater Vehicle Control via Cons
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25945v1 [low] — A Methodology for Integrating Life Cycle Assessmen
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25957v1 [low] — From Rubble Simulation to Active Magnetic Mapping:
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25811v1 [medium] — Hierarchical Graph Learning for Calendar Spread St
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25400v1 [high] — BrainAgent: A Large Language Model-Driven Multi-Ag
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.25622v1 [high] — Probabilistic Agents in Deterministic Audits: Eval
+- **2026-06-25 19:38** paper_watcher: 新内容 2606.23596v2 [high] — Anatomy of the Market: A Body-Tail Test of Factor 
 - **2026-06-24 19:39** paper_watcher: 新内容 2606.23834v1 [low] — Efficient implementation of graph autoencoders for
 - **2026-06-24 19:39** paper_watcher: 新内容 2606.23873v1 [low] — Relaxation Times for Nonextensive Systems Using Gr
 - **2026-06-24 19:39** paper_watcher: 新内容 2606.24265v1 [low] — Neural Network-Based Parametric Model Reduction fo
