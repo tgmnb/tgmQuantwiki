@@ -1,5 +1,28 @@
 # Wiki Log
 
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26277v1 [low] — From Clicks to Intent: Cross-Platform Session Embe
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26421v1 [low] — Otter Weather: Skillful and Computationally Effici
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26549v1 [low] — PMDformer: Patch-Mean Decoupling Information Trans
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26583v1 [low] — Preference Optimization Drives Monoculture in LLM 
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26625v1 [low] — Portfolio Optimization for Commodity ETFs under He
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26704v1 [low] — The Fungible Reserve Standard: A Deterministic Fra
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27100v1 [low] — Pretrained Time-Series Foundation Models for Finan
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27177v1 [low] — A hybrid IFENN solver for generalizable modeling o
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.23603v2 [low] — MORL-A2C: Multi-Objective Reinforcement Learning R
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26397v1 [low] — Deterministic Pareto-Optimal Policy Synthesis for 
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26671v1 [low] — NebulaExp-8B: An Empirical Post-Training Pipeline 
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27021v1 [low] — SMR: Scheduler with Multi-Channel Map-Encoded Rein
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27032v1 [low] — State Representation Matters in Deep Reinforcement
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.04574v2 [medium] — Dynamic Multi-Pair Trading Strategy in Cryptocurre
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26164v1 [medium] — \chisao{}: A GPU-Native Parallel Optimizer for Mul
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26835v1 [high] — A sharp order-three obstruction to the aggregation
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27150v1 [high] — Endogenous Reinsurance Pricing in Large Competitiv
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27280v1 [high] — Exact and Deterministic Patch Descriptor Retrieval
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26203v1 [high] — Agentic Analysis for Agentic Infrastructure: An LL
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26276v1 [high] — Expecting (Targeted Ads)? Network Analysis of User
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26308v1 [high] — Priceless: An examination of Serverless Functions-
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.27244v1 [high] — Methodological Frontiers in 21-cm Intensity Mappin
+- **2026-06-26 19:38** paper_watcher: 新内容 2606.26815v1 [high] — Data-Driven Duration Management -- Term Structure 
 - **2026-06-25 19:38** paper_watcher: 新内容 2606.24959v1 [low] — Reliable Conformal Prediction for Ordinal Classifi
 - **2026-06-25 19:38** paper_watcher: 新内容 2606.25068v1 [low] — Adapt Only When It Pays: Budgeted Decision-Loss Pr
 - **2026-06-25 19:38** paper_watcher: 新内容 2606.25986v1 [low] — The Inference-Compute Frontier and a Latency-Effic
