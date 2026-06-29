@@ -1,5 +1,19 @@
 # Wiki Log
 
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27462v1 [low] — The Decision Geometry of Covariance Estimation for
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27670v1 [low] — CryptoGAT: Are Time Series Models Effective for Cr
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27688v1 [low] — Deployment-Side Adaptiveness in Multi-Horizon Vola
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27731v1 [low] — Enhancing Numerical Prediction in LLMs via Smooth 
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27603v1 [low] — Learning to Throw: Agile and Accurate Cable-Suspen
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27652v1 [low] — MER-R1: Multimodal Emotion Reasoning via Slow-Fast
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.16682v3 [medium] — Multimodal Evaluator Preference Collapse: Cross-Mo
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27734v1 [medium] — Fault tolerant computation of the static structure
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.28002v1 [high] — Dialogue to Detection: A Multimodal Hybrid NLP Pip
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.26276v2 [high] — Expecting (Targeted Ads)? Network Analysis of User
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27601v1 [high] — Test Case Selection for Deep Neural Networks: A Re
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.27751v1 [high] — From General-Purpose Audio Tagging to Spatially Gr
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.28307v1 [high] — Second-Order KKT Guarantees for Bregman ADMM in No
+- **2026-06-29 19:38** paper_watcher: 新内容 2606.23596v3 [high] — Anatomy of the Market: A Body-Tail Test of Factor 
 - **2026-06-26 19:38** paper_watcher: 新内容 2606.26277v1 [low] — From Clicks to Intent: Cross-Platform Session Embe
 - **2026-06-26 19:38** paper_watcher: 新内容 2606.26421v1 [low] — Otter Weather: Skillful and Computationally Effici
 - **2026-06-26 19:38** paper_watcher: 新内容 2606.26549v1 [low] — PMDformer: Patch-Mean Decoupling Information Trans
