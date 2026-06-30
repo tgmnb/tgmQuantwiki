@@ -1,0 +1,47 @@
+---
+title: Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority
+created: 2026-06-30
+updated: 2026-06-30
+type: concept
+tags: [strategy, 强化学习-rl, factor, quant]
+sources: [Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority]
+confidence: medium
+---
+
+# Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority
+
+> 来源：[arXiv:2606.29406v1](https://arxiv.org/abs/2606.29406v1) | 作者：
+
+## 基本信息
+
+| 字段 | 值 |
+|------|----|
+| 发表 | 2026-06-28 |
+| 方法 | 强化学习/RL |
+| 策略类型 | 未识别 |
+| 资产类别 | 未特定 |
+
+## 摘要
+
+Organizations increasingly use large language models and agentic AI systems to generate probabilistic assessments and candidate actions in high-consequence settings. This creates a managerial problem distinct from prediction: how should organizations allocate decision authority to AI-generated recommendations as evidence quality, uncertainty, and organizational objectives evolve over time? Existing AI governance frameworks emphasize transparency, documentation, oversight, and regulatory complian
+
+## 核心方法论
+
+**方法：** 强化学习/RL
+**策略方向：** 未识别
+
+## 关键发现
+
+- Organizations increasingly use large language models and agentic AI systems to generate probabilistic assessments and candidate actions in high-consequence settings.
+- This creates a managerial problem distinct from prediction: how should organizations allocate decision authority to AI-generated recommendations as evidence quality, uncertainty, and organizational objectives evolve over time.
+- Existing AI governance frameworks emphasize transparency, documentation, oversight, and regulatory complian.
+
+## 实践要点
+
+- 细节需阅读原文确认
+
+## 相关概念
+
+- [[strategy-prototypes]] — 策略原型
+- [[risk-management]] — 风险管理
+- [[factor-research]] — 因子研究框架

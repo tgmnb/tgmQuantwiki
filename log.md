@@ -1,5 +1,33 @@
 # Wiki Log
 
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29272v1 [low] — PCGD: Physics-Guided Conditional Graph Diffusion f
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29406v1 [low] — Adaptive AI Delegation under Uncertainty: A Bayesi
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29591v1 [low] — The Bounce Has No Direction: Sign, Magnitude, and 
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.10805v2 [low] — Asymmetric Nonlinear Return Extrapolation and Opti
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.28764v1 [low] — Hierarchical Decision Making with Structured Polic
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.28943v1 [low] — A3M: Adaptive, Adversarial and Multi-Objective Lea
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29023v1 [low] — Efficient Spatio-Temporal Grounding with Multimoda
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29556v1 [low] — Persona-Trained Monte Carlo: Estimating Market-Out
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29775v1 [low] — SMART-MIG: A Learning Framework for Scalable and E
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30092v1 [low] — Hierarchical Reinforcement Learning in StarCraft M
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30414v1 [low] — Diffusion Fine-tuning with Rewarded Moment Matchin
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30028v1 [medium] — Improving Muon-Scattering Material Identification 
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30150v1 [medium] — Charge sharing and alignment performance of bent A
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30387v1 [medium] — Baryon Light-Cone Distribution Amplitudes from Lat
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29598v1 [high] — Spreading the Risk of Scalable Legal Services: The
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29194v1 [high] — AI Trading's Alpha Singularity: Emergent Market Re
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29771v1 [high] — CLQT: A Closed-Loop, Cost-Aware, Strategy-Consiste
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.28557v1 [high] — A New Noise Model for Data-driven Control: General
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.28898v1 [high] — PASTA: A Paraphrasing And Self-Training Approach f
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29014v1 [high] — Customized Generative AI Agent for Transportation 
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29123v1 [high] — On the Identifiability of Aided Inertial Navigatio
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29355v1 [high] — Enterprise Data Modelling Methodologies: A Compara
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29816v1 [high] — Rethinking Build vs. Buy Decisions in Enterprise S
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29836v1 [high] — Revealing the Technology Development of Natural La
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30312v1 [high] — DialogPII: A multilingual dataset of synthetic dia
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.30325v1 [high] — Thermodynamic Limits of Stochastic Chemical Reacti
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.22162v2 [high] — Temporal Coarse-Graining of Multi-Sector Default C
+- **2026-06-30 19:38** paper_watcher: 新内容 2606.29290v1 [high] — Supply Chain Propagation of Textual Signals: LLM E
 - **2026-06-29 19:38** paper_watcher: 新内容 2606.27462v1 [low] — The Decision Geometry of Covariance Estimation for
 - **2026-06-29 19:38** paper_watcher: 新内容 2606.27670v1 [low] — CryptoGAT: Are Time Series Models Effective for Cr
 - **2026-06-29 19:38** paper_watcher: 新内容 2606.27688v1 [low] — Deployment-Side Adaptiveness in Multi-Horizon Vola
