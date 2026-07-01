@@ -1,5 +1,21 @@
 # Wiki Log
 
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.30821v1 [low] — Mind the Residual Gap: Probabilistic Downscaling u
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.30902v1 [low] — Structure-Regularized Interpretable TCR-Epitope Pr
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31292v1 [low] — AtomiMed: Hierarchical Atomic Fact-Checking for Un
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31675v1 [low] — Settlement Manipulation in Prediction Markets
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31178v1 [low] — AETDICE: Unified Framework and Offline Optimizatio
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31334v1 [low] — Optimization Algorithms for Joint OFDM Waveform De
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31748v1 [low] — Addressing Over-Refusal in LLMs with Competing Rew
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.32003v1 [low] — On the Comparison of Reinforcement Learning and Ad
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31251v1 [medium] — Regime-Conditional Distributional Comparison of Tr
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.30997v1 [high] — A Three-Phase Foundation Model for Tax-Aware Perso
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31387v1 [high] — Signature-Based Optimal Execution for Statistical 
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.26276v3 [high] — Expecting (Targeted Ads)? Network Analysis of User
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.29123v2 [high] — On the Identifiability of Aided Inertial Navigatio
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31461v1 [high] — CSTrader: A Testbed for Language-Grounded Trading 
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31645v1 [high] — Technical Report of RoboSpatial Challenge at CVPR 
+- **2026-07-01 19:38** paper_watcher: 新内容 2606.31891v1 [high] — Knowing-Value Logic with Successor Arithmetic
 - **2026-06-30 19:38** paper_watcher: 新内容 2606.29272v1 [low] — PCGD: Physics-Guided Conditional Graph Diffusion f
 - **2026-06-30 19:38** paper_watcher: 新内容 2606.29406v1 [low] — Adaptive AI Delegation under Uncertainty: A Bayesi
 - **2026-06-30 19:38** paper_watcher: 新内容 2606.29591v1 [low] — The Bounce Has No Direction: Sign, Magnitude, and 
