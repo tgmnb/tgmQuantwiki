@@ -1,5 +1,20 @@
 # Wiki Log
 
+- **2026-07-02 19:38** paper_watcher: 新内容 2606.27525v2 [low] — Measuring Racial Disparities in Rent Growth Under 
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00460v1 [low] — A Multi-Resolution Finite-Volume Inspired Deep Lea
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00633v1 [low] — Stacked Ensemble Learning for Abdominal Aortic Ane
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00958v1 [low] — LeNEPA: No-Augmentation Next-Latent Prediction for
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00190v1 [low] — Play Like Champions: Counterfactual Feedback Gener
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00423v1 [low] — Selective Test-Time Debiasing for CLIP via Reward 
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00087v1 [medium] — Putting Jet Substructure on Track(s)
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00475v1 [medium] — End-to-End Parametric Portfolio Policies for Cross
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00564v1 [medium] — Isospin-breaking effects in inclusive hadronic $τ$
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.01156v1 [medium] — Verification of a sequential thermo-poroelasticity
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00099v1 [high] — Grid-Interactive Thermal Management of AI Data Cen
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00883v1 [high] — Tail Risk Management with Puts and Trend Following
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00542v1 [high] — AI-Centered Grand Challenges in Visual Analytics f
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00989v1 [high] — SenseWalk: Agent-Based Semantic Trajectory Simulat
+- **2026-07-02 19:38** paper_watcher: 新内容 2607.00227v1 [high] — Implementation Filters and Delay-Budget Instabilit
 - **2026-07-01 19:38** paper_watcher: 新内容 2606.30821v1 [low] — Mind the Residual Gap: Probabilistic Downscaling u
 - **2026-07-01 19:38** paper_watcher: 新内容 2606.30902v1 [low] — Structure-Regularized Interpretable TCR-Epitope Pr
 - **2026-07-01 19:38** paper_watcher: 新内容 2606.31292v1 [low] — AtomiMed: Hierarchical Atomic Fact-Checking for Un
