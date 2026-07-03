@@ -1,5 +1,18 @@
 # Wiki Log
 
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01522v1 [low] — Robust and Explainable 3D Mode Shape Recognition U
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01891v1 [low] — Predicting Heterogeneous Treatment Effects Of Buil
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01490v1 [low] — Don't Let Gains FADE: Breaking Down Policy Gradien
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01550v1 [low] — Is Trend Still Your Friend?: A Microstructural Acc
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01741v1 [low] — Full Bayesian Reinforcement Learning via LF-IBIS
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01841v1 [medium] — Quantifying angular momentum of coherently driven 
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01881v1 [medium] — A Variational Nonlocal Phase-Field Model for Dynam
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01377v1 [high] — Liquidity Premium and Investment Horizons
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01521v1 [high] — Selling the Stock, Not the Cream: The Soviet Émigr
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01460v1 [high] — Social-Annotate: Self-Healing Browser Extension to
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01494v1 [high] — Insights from GitHub Community on the Matter Stand
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01707v1 [high] — LASER: A Corrective Lens for LVLMs via Visual Atte
+- **2026-07-03 19:38** paper_watcher: 新内容 2607.01705v1 [high] — Portfolio Optimization under Fast and Slow Latent 
 - **2026-07-02 19:38** paper_watcher: 新内容 2606.27525v2 [low] — Measuring Racial Disparities in Rent Growth Under 
 - **2026-07-02 19:38** paper_watcher: 新内容 2607.00460v1 [low] — A Multi-Resolution Finite-Volume Inspired Deep Lea
 - **2026-07-02 19:38** paper_watcher: 新内容 2607.00633v1 [low] — Stacked Ensemble Learning for Abdominal Aortic Ane
