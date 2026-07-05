@@ -1,5 +1,10 @@
 # Wiki Log
 
+- **2026-07-05 19:40** paper_watcher: 新内容 qc-f37ea21ffe2c [high] — Recent Quant Links from Quantocracy as of 06/21/20
+- **2026-07-05 19:40** paper_watcher: 新内容 qc-648b6a90a25b [high] — Recent Quant Links from Quantocracy as of 06/24/20
+- **2026-07-05 19:40** paper_watcher: 新内容 qc-bc3f66c97e39 [high] — Recent Quant Links from Quantocracy as of 06/28/20
+- **2026-07-05 19:40** paper_watcher: 新内容 qc-2de7eecf0376 [high] — Recent Quant Links from Quantocracy as of 06/30/20
+- **2026-07-05 19:40** paper_watcher: 新内容 qc-ff32e19d60c3 [high] — Recent Quant Links from Quantocracy as of 07/04/20
 - **2026-07-03 19:38** paper_watcher: 新内容 2607.01522v1 [low] — Robust and Explainable 3D Mode Shape Recognition U
 - **2026-07-03 19:38** paper_watcher: 新内容 2607.01891v1 [low] — Predicting Heterogeneous Treatment Effects Of Buil
 - **2026-07-03 19:38** paper_watcher: 新内容 2607.01490v1 [low] — Don't Let Gains FADE: Breaking Down Policy Gradien

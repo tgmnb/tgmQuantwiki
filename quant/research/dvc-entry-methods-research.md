@@ -1,7 +1,7 @@
 ---
 title: 倍量切双红 — 系统性量化研究
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-05
 type: research
 tags: [quant, dvc, double-volume-cut, shuanghong, entry-methods, stop-loss, backtest]
 ---
@@ -168,5 +168,6 @@ DVC信号日收盘价是否创3年新高，交叉各入场方法：
 - [倍量切三重过滤验证](../riding-bull/references/filtered-dvc-validation.md)
 - [倍量切后买点方法论](../riding-bull/references/post-double-volume-cut-entry.md)
 - [倍量切跨市场适用性](../riding-bull/references/double-volume-cut-cross-market.md)
+- [倍量切共享资金账户回测](dvc-shared-account-backtest.md)（突破收盘买入 + 中证1000过滤）
 - 因子脚本：`因子库/过滤倍量切信号.py`（邢不行框架）
 - 回测配置：`config_3d.py`（`hold_period="3D"`，3份轮动）

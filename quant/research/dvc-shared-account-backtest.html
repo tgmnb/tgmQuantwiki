@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>倍量切双红 — 共享资金账户回测报告</title>
+<style>
+body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
+h1 { color: #1a1a2e; border-bottom: 3px solid #e94560; padding-bottom: 10px; }
+h2 { color: #16213e; margin-top: 30px; }
+table { width: 100%; border-collapse: collapse; margin: 15px 0 25px; }
+th { background: #1a1a2e; color: #fff; padding: 10px 12px; text-align: center; font-size: 14px; }
+td { padding: 8px 12px; text-align: center; border-bottom: 1px solid #ddd; font-size: 14px; }
+td:first-child { text-align: left; font-weight: 500; }
+tr:nth-child(even) { background: #f8f8f8; }
+tr:hover { background: #e8f4f8; }
+.best { color: #27ae60; font-weight: bold; }
+.worst { color: #e74c3c; }
+.metric-highlight { font-weight: bold; }
+.year-pos { color: #27ae60; }
+.year-neg { color: #e74c3c; }
+.footer { margin-top: 40px; padding-top: 15px; border-top: 1px solid #ddd; font-size: 12px; color: #888; }
+.note { background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px 15px; margin: 15px 0; border-radius: 4px; }
+</style>
+</head>
+<body>
+<h1>📊 倍量切双红 — 突破收盘买入 共享资金账户回测</h1>
+<p style="color:#888;">生成时间: 2026-07-05 22:28 | 数据区间: 2014-01 ~ 2026-07 (12.5年)</p>
+
+<h2>回测参数</h2>
+<table>
+  <tr><th>参数</th><th>值</th></tr>
+  <tr><td>初始资金</td><td><strong>20万</strong></td></tr>
+  <tr><td>仓位规则</td><td>每个触发信号买入当日净值的<strong>20%</strong></td></tr>
+  <tr><td>持有期</td><td><strong>3个交易日</strong>（时间止损）</td></tr>
+  <tr><td>入场方式</td><td>突破收盘买入（高开→开盘价 / N字→DVC收盘价）</td></tr>
+  <tr><td>手续费</td><td>最低5元 + 万三（双向）</td></tr>
+  <tr><td>滑点</td><td>千八（卖出）</td></tr>
+  <tr><td>市场过滤(B版)</td><td>中证1000收盘价 > MA25</td></tr>
+</table>
+
+<h2>对比总表</h2>
+<table>
+  <tr><th>指标</th><th>A版（无过滤）</th><th>B版（+中证1000 MA25）</th><th>差异</th></tr>
+  <tr>
+    <td>初始资金</td>
+    <td>200,000</td>
+    <td>200,000</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td><strong>终值</strong></td>
+    <td class="best">197,636,374</td>
+    <td>86,285,713</td>
+    <td class="worst">-56.3%</td>
+  </tr>
+  <tr>
+    <td><strong>年化收益率</strong></td>
+    <td class="best">73.71%</td>
+    <td>62.56%</td>
+    <td class="worst">-11.15pp</td>
+  </tr>
+  <tr>
+    <td><strong>最大回撤</strong></td>
+    <td>-36.19%</td>
+    <td class="best">-25.48%</td>
+    <td class="best">-10.71pp ✓</td>
+  </tr>
+  <tr>
+    <td><strong>夏普比率</strong></td>
+    <td>1.583</td>
+    <td class="best">1.672</td>
+    <td class="best">+0.089 ✓</td>
+  </tr>
+  <tr>
+    <td>胜率</td>
+    <td>50.8%</td>
+    <td class="best">52.8%</td>
+    <td class="best">+2.0pp ✓</td>
+  </tr>
+  <tr>
+    <td>盈亏比</td>
+    <td>1.39</td>
+    <td class="best">1.45</td>
+    <td class="best">+0.06 ✓</td>
+  </tr>
+  <tr>
+    <td>总交易数</td>
+    <td>3,842</td>
+    <td>2,472</td>
+    <td class="worst">-35.7%</td>
+  </tr>
+  <tr>
+    <td>日均持仓</td>
+    <td>4.0</td>
+    <td>2.5</td>
+    <td>-37.5%</td>
+  </tr>
+  <tr>
+    <td>资金使用率</td>
+    <td>85.5%</td>
+    <td>58.9%</td>
+    <td>-31.1%</td>
+  </tr>
+  <tr>
+    <td>回测年数</td>
+    <td>12.49</td>
+    <td>12.49</td>
+    <td>—</td>
+  </tr>
+</table>
+
+<h2>年份收益</h2>
+<table>
+  <tr><th>年份</th><th>A版（无过滤）</th><th>B版（+中证1000 MA25）</th></tr>
+  <tr><td>2014</td><td class="year-pos">+45.87%</td><td class="year-pos">+109.73%</td></tr>
+  <tr><td>2015</td><td class="year-pos">+261.23%</td><td class="year-pos">+163.88%</td></tr>
+  <tr><td>2016</td><td class="year-pos">+25.48%</td><td class="year-pos">+3.68%</td></tr>
+  <tr><td>2017</td><td class="year-pos">+38.83%</td><td class="year-pos">+13.45%</td></tr>
+  <tr><td>2018</td><td class="year-neg">-13.28%</td><td class="year-pos">+11.53%</td></tr>
+  <tr><td>2019</td><td class="year-neg">-7.54%</td><td class="year-pos">+8.69%</td></tr>
+  <tr><td>2020</td><td class="year-pos">+167.16%</td><td class="year-pos">+47.65%</td></tr>
+  <tr><td>2021</td><td class="year-pos">+110.44%</td><td class="year-pos">+73.00%</td></tr>
+  <tr><td>2022</td><td class="year-pos">+58.24%</td><td class="year-pos">+7.10%</td></tr>
+  <tr><td>2023</td><td class="year-pos">+42.96%</td><td class="year-pos">+50.97%</td></tr>
+  <tr><td>2024</td><td class="year-pos">+201.60%</td><td class="year-pos">+84.28%</td></tr>
+  <tr><td>2025</td><td class="year-pos">+227.56%</td><td class="year-pos">+291.77%</td></tr>
+  <tr><td>2026(Q1-Q2)</td><td class="year-pos">+12.68%</td><td class="year-pos">+75.68%</td></tr>
+</table>
+
+<div class="note">
+  <strong>⚠️ 注意：</strong> A版连续亏损年份为2018(-13.28%)和2019(-7.54%)，B版则无任何年度亏损。
+  中证1000过滤在熊市(2018)和震荡市(2019)有效规避了亏损，但在大牛市的弹性不如A版。
+</div>
+
+<h2>关键发现</h2>
+<ol>
+  <li><strong>突破收盘买入在共享资金账户下年化73.71%</strong>（20万→1.98亿/12.5年），验证了信号+入场方式的有效性</li>
+  <li><strong>中证1000 MA25过滤</strong>降低了绝对收益（73%→62%），但<strong>提升了风险调整后收益</strong>（夏普1.58→1.67），回撤从36%降至25%</li>
+  <li>过滤后<strong>胜率提升2pp</strong>（50.8%→52.8%），盈亏比从1.39升至1.45，单笔交易质量改善</li>
+  <li>但信号数减少37%，仓位使用率从85%降至59%，<strong>以仓位换安全</strong></li>
+  <li><strong>A版连亏2年</strong>（2018-2019, -13%/-7%），<strong>B版无任何年度亏损</strong></li>
+  <li>2024-2025年A版表现远超B版（+201%/+227% vs +84%/+291%），说明牛市过滤择时价值有限</li>
+</ol>
+
+<h2>输出文件</h2>
+<table>
+  <tr><th>文件</th><th>大小</th><th>说明</th></tr>
+  <tr><td>nav_A.csv</td><td>144K</td><td>A版逐日净值（3261行）</td></tr>
+  <tr><td>nav_B.csv</td><td>135K</td><td>B版逐日净值（3261行）</td></tr>
+  <tr><td>trades_A.csv</td><td>396K</td><td>A版逐笔交易（3842笔）</td></tr>
+  <tr><td>trades_B.csv</td><td>252K</td><td>B版逐笔交易（2472笔）</td></tr>
+  <tr><td>comparison_metrics.csv</td><td>407B</td><td>AB版对比指标</td></tr>
+  <tr><td>equity_curve.png</td><td>379K</td><td>净值曲线对比图</td></tr>
+</table>
+
+<div class="footer">
+  <p>脚本: ~/quant/scripts/backtest_dvc_breakthrough_csi1000.py</p>
+  <p>数据源: signal_db.parquet + 中证1000日线</p>
+</div>
+</body>
+</html>
