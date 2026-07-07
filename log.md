@@ -1,5 +1,40 @@
 # Wiki Log
 
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.02632v1 [low] — QuantFlow: A Federated Mamba-Based Post-Transforme
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.02695v1 [low] — Financial Epiplexity: A Theory of Learnable Market
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.02937v1 [low] — In-span learning: adapting reduced-order models us
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03079v1 [low] — On the validity of using idealised sample geometri
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03728v1 [low] — The Objective Decides: When a Learned Dynamics Mod
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03787v1 [low] — Folding, Reasoning, and Scaling with Open-source D
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04178v1 [low] — Dynamic Interest Rate Discovery in Decentralized F
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04280v1 [low] — Order Splitting and Liquidity Replenishment Are Jo
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04551v1 [low] — Dynamic Image-Informed Selection of Biomechanical 
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.05141v1 [low] — Square-Root Price Impact Is Necessary for Endogeno
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.05291v1 [low] — Forecasting Realized Volatility with Time Series F
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.02864v1 [low] — Trading Confidence: Comprehensive Uncertainty Esti
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03140v1 [low] — Sample-Efficient Pareto Front Modeling for Energy-
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03473v1 [low] — MUTE: Return-Preserving Communication Unlearning f
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03528v1 [low] — Aligning Language Models with Selective Prediction
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03600v1 [low] — A Step Towards Robust Unsupervised Domain Adaptati
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04179v1 [low] — CritiqueDriveVLM: From Verifier-Guided Reinforceme
+- **2026-07-07 19:38** paper_watcher: 新内容 2605.12764v3 [medium] — Yield Curves Dynamics Using Variational Autoencode
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.01156v2 [medium] — Verification of a sequential thermo-poroelasticity
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.02930v1 [medium] — CL-Anomaly: Layer-Adaptive Mixture-of-Experts with
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03011v1 [medium] — Can Model Merging Improve Aggregation in DiLoCo?
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03908v1 [medium] — Surface Functionalization Enables Two-Dimensional 
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04059v1 [medium] — Phenomenological extraction of fragmentation funct
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04698v1 [medium] — F-ACVAE: A Federated Adaptive Conditional Variatio
+- **2026-07-07 19:38** paper_watcher: 新内容 2606.30997v2 [high] — A Three-Phase Foundation Model for Tax-Aware Perso
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03053v1 [high] — Miniaturized Photoacoustic Spectroscopy Gas Probe 
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03270v1 [high] — Socio-Technical Anti-Patterns in Building ML-Enabl
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03562v1 [high] — XPlainVerse: A Million-Scale Benchmark for Explain
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03731v1 [high] — CoGen3D: An Agentic Human-AI Co-Design Pipeline fo
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04442v1 [high] — Tightening the Score Matching Gap for Diffusion Mo
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04446v1 [high] — PTCOG Treatment Efficiency Subcommittee Risk Asses
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.04675v1 [high] — ICME 2026 Grand Challenge on Cross-Scenario Defect
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.05054v1 [high] — Root Dynamics of Differentiated Polynomials with R
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.03858v1 [high] — A Spectral Generalisation of the Variance Ratio: E
+- **2026-07-07 19:38** paper_watcher: 新内容 2607.05091v1 [high] — Any Axes Are Allowed: A Characteristic-Axis Integr
 - **2026-07-05 19:40** paper_watcher: 新内容 qc-f37ea21ffe2c [high] — Recent Quant Links from Quantocracy as of 06/21/20
 - **2026-07-05 19:40** paper_watcher: 新内容 qc-648b6a90a25b [high] — Recent Quant Links from Quantocracy as of 06/24/20
 - **2026-07-05 19:40** paper_watcher: 新内容 qc-bc3f66c97e39 [high] — Recent Quant Links from Quantocracy as of 06/28/20
