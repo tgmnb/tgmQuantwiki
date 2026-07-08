@@ -1,5 +1,13 @@
 # Wiki Log
 
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.05484v1 [low] — SHARC: SHAP-Based Interpretability in Machine Lear
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.06166v1 [low] — When do prophets profit in prediction markets?
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.06121v1 [low] — Can Reinforcement Learning Efficiently Discover Pr
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.06230v1 [low] — Entanglement as a Structural Complexity Axis: A PA
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.06355v1 [medium] — Entropic Dynamics of Jump-Diffusion Option Pricing
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.05912v1 [medium] — Interfacial Noncollinear Filtering of Spin Hall Cu
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.05880v1 [high] — Harrison.Rad 1.5 Technical Report: A radiology fou
+- **2026-07-08 19:38** paper_watcher: 新内容 2607.05091v2 [high] — Any Axes Are Allowed: A Characteristic-Axis Integr
 - **2026-07-07 19:38** paper_watcher: 新内容 2607.02632v1 [low] — QuantFlow: A Federated Mamba-Based Post-Transforme
 - **2026-07-07 19:38** paper_watcher: 新内容 2607.02695v1 [low] — Financial Epiplexity: A Theory of Learnable Market
 - **2026-07-07 19:38** paper_watcher: 新内容 2607.02937v1 [low] — In-span learning: adapting reduced-order models us
