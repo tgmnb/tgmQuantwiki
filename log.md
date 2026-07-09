@@ -1,5 +1,23 @@
 # Wiki Log
 
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06690v1 [low] — tsbootstrap: Distribution-Free Uncertainty Quantif
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06702v1 [low] — Dynamic Causal Portfolio Choice: Hedging the Rotat
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06719v1 [low] — Macroeconomic Message Passing for Anticipating For
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06791v1 [low] — Machine Learning-Based Battery State-of-health Pre
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07351v1 [low] — When and How Should a Power Trader Engage in Arbit
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07647v1 [low] — Are Machine Learning Interatomic Potentials Truly 
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07708v1 [low] — Accurate, Interdisciplinary and Transparent Struct
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06610v1 [low] — Deep Reinforcement Learning for Reliability Based 
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06860v1 [low] — Auditable Machine Unlearning for Privacy-Compliant
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07148v1 [low] — Decoupling Conversational Dynamics in Full-Duplex 
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07318v1 [low] — R^3: Advertisement Compliance Rectification via Gr
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07664v1 [medium] — Single inclusive hadron and jet production in lept
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07609v1 [high] — Bayesian spatial modelling framework for assessing
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07543v1 [high] — Equivalence testing in pesticide risk assessment -
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06653v1 [high] — Dual Attention Heads for Personalized Federated Le
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.06963v1 [high] — Large Language Models (LLMs) and Generative AI in 
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07389v1 [high] — Circuit Depth Reduction of One-Ancilla Quantum Dif
+- **2026-07-09 19:38** paper_watcher: 新内容 2607.07465v1 [high] — Innovating Risk Modelling for Global Funds
 - **2026-07-08 19:38** paper_watcher: 新内容 2607.05484v1 [low] — SHARC: SHAP-Based Interpretability in Machine Lear
 - **2026-07-08 19:38** paper_watcher: 新内容 2607.06166v1 [low] — When do prophets profit in prediction markets?
 - **2026-07-08 19:38** paper_watcher: 新内容 2607.06121v1 [low] — Can Reinforcement Learning Efficiently Discover Pr

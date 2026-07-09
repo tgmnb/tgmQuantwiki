@@ -1,13 +1,25 @@
 ---
 title: 箱体失效规则与MACD两个极小值对比法
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-09
 type: concept
 tags: [quant, riding-bull, trading-patterns, box, macd]
-confidence: high
-priority: core
+confidence: low
+priority: reference
 source: TGM实战复盘 — 2026-06-30全市场152次验证
 ---
+
+> **⚠️ 2026-07-09 更新：全市场验证（79,972 个信号）表明此信号不可作为独立交易策略。**
+>
+> 原始 wiki 基于 152 次抽样验证（75% 胜率），但全市场 5,373 只 A 股足额验证后：
+> - 缩峰信号 Hold5d 胜率降至 **52.8%**（接近随机）
+> - 均值收益降至 **+0.89%**（扣除交易成本后归零）
+> - 组合层回测（TOP N 每日等权轮动）**全部负 CAGR**（-12% ~ -23%）
+>
+> **缩峰方向性的直觉正确**（缩峰越强平均收益越高），但效应量太小，不足以支撑可交易策略。
+> 可考虑作为多因子系统中的辅助加分项（搭配 DVC 或 MACD 底背离），**禁止单独作为买入信号**。
+>
+> 详细报告：[`full_validation_report.md`](/home/tgm/quant/research/wiki-strategy-dev-20260709/full_validation_report.md)
 
 # 箱体内MA26失效规则 + MACD两个极小值对比法
 
