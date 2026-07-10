@@ -1,5 +1,18 @@
 # Wiki Log
 
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08199v1 [low] — Volatility in Prediction Markets: A Structural App
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08273v1 [low] — Empirical Calibration and Conditional-Reliability 
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08531v1 [low] — Optimal Prediction of Resistance and Support Level
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.07844v1 [low] — Shift & Drift: A Zero-Shot Benchmark for Generaliz
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.07967v1 [low] — Expressivity and Statistical Trade-offs in Diffusi
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08572v1 [low] — Switch-Reasoner: Learn When to Think in Multitask 
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08430v1 [medium] — Doubly resonant enhancement of second-harmonic gen
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08500v1 [high] — Estimating the Stochastic Discount Factor from Opt
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08332v1 [high] — XALPHA: A Memory-Driven AI Quant Researcher for Hy
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.07836v1 [high] — Infinity-Parser2 Technical Report
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08131v1 [high] — Early Career Issues in Particle Physics
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.08539v1 [high] — DocMaster: A Hierarchical Structure-Aware System f
+- **2026-07-10 19:38** paper_watcher: 新内容 2607.05091v3 [high] — Any Axes Are Allowed: A Characteristic-Axis Integr
 - **2026-07-09 19:38** paper_watcher: 新内容 2607.06690v1 [low] — tsbootstrap: Distribution-Free Uncertainty Quantif
 - **2026-07-09 19:38** paper_watcher: 新内容 2607.06702v1 [low] — Dynamic Causal Portfolio Choice: Hedging the Rotat
 - **2026-07-09 19:38** paper_watcher: 新内容 2607.06719v1 [low] — Macroeconomic Message Passing for Anticipating For
