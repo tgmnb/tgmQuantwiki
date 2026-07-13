@@ -1,5 +1,15 @@
 # Wiki Log
 
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09188v1 [low] — Instrumentation and field tests to evaluate a roll
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09426v1 [low] — The Quarter-Hour Effect: Periodic Algorithmic Trad
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09529v1 [low] — Artificial Intelligence and the Generative Science
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.08925v1 [low] — SafeExplorer: An Unbiased Policy Gradient for Rein
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09099v1 [low] — L-MAD: A Systematic Evaluation of Multi-Agent Deba
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09230v1 [low] — When Does Order Flow Matter? State-Dependent L2 Li
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09641v1 [low] — Semantic Pareto-DQN: A Multi-Objective Reinforceme
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.08986v1 [medium] — A Formalization of the Mean-Field Derivation of th
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.09328v1 [high] — WILDTRACE: Benchmarking Natural Evidence Trails in
+- **2026-07-13 19:38** paper_watcher: 新内容 2607.05091v4 [high] — Any Axes Are Allowed: A Characteristic-Axis Integr
 - **2026-07-10 19:38** paper_watcher: 新内容 2607.08199v1 [low] — Volatility in Prediction Markets: A Structural App
 - **2026-07-10 19:38** paper_watcher: 新内容 2607.08273v1 [low] — Empirical Calibration and Conditional-Reliability 
 - **2026-07-10 19:38** paper_watcher: 新内容 2607.08531v1 [low] — Optimal Prediction of Resistance and Support Level
