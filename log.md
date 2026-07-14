@@ -1,5 +1,27 @@
 # Wiki Log
 
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.06166v2 [low] — When do prophets profit in prediction markets?
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.08199v2 [low] — Volatility in Prediction Markets: A Structural App
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10364v1 [low] — A Hyperbolic Neural Closure for M1 Radiation Trans
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10530v1 [low] — Integrating Physics-Informed Neural Networks and 3
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.09820v1 [low] — Learning Predictive Ambiguity Sets for Decision-Fo
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10169v1 [low] — Beyond Euclidean Clipping: Overcoming Exploration 
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10738v1 [low] — To Answer or to Abstain: Mitigating Search-Agent H
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10788v1 [low] — Soft-Error Characterization and Hardening Trade-of
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11005v1 [low] — Actor-Critic Learning for Extended Mean Field Cont
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11607v1 [low] — Auditing the Risk Claims of Distributional Reinfor
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11720v1 [low] — Active Offline-to-Online Reinforcement Learning
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11269v1 [medium] — Trustworthy synthetic data for campaign decision s
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10544v1 [medium] — Physics-inspired Pseudo Anomaly Generation and Pro
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.08332v2 [high] — XALPHA: A Memory-Driven AI Quant Researcher for Hy
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10179v1 [high] — From Patent Expiry to Business Pathways: AI Workfl
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10252v1 [high] — One Token Is Enough: Fingerprinting and Verifying 
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.10480v1 [high] — When Reasoning Hurts Legal Drafting: The Verbaliza
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11464v1 [high] — FAIR GraphRAG: A Retrieval-Augmented Generation Ap
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11517v1 [high] — Graph-Based Structural Evaluation of LLM-Translate
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11601v1 [high] — Cardano's Voltaire Governance: Complete Specificat
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11692v1 [high] — Uncovering Students' Mental Models of Generative A
+- **2026-07-14 19:38** paper_watcher: 新内容 2607.11859v1 [high] — Can LLMs Perform Deep Technical Comprehension of C
 - **2026-07-13 19:38** paper_watcher: 新内容 2607.09188v1 [low] — Instrumentation and field tests to evaluate a roll
 - **2026-07-13 19:38** paper_watcher: 新内容 2607.09426v1 [low] — The Quarter-Hour Effect: Periodic Algorithmic Trad
 - **2026-07-13 19:38** paper_watcher: 新内容 2607.09529v1 [low] — Artificial Intelligence and the Generative Science
