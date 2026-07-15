@@ -1,5 +1,21 @@
 # Wiki Log
 
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12351v1 [low] — Residual-Certified Adaptive Tracking of Solution M
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12687v1 [low] — From Critic to Confidence: PPO for Language-Based 
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12771v1 [low] — Learning Mechanistic Reasoning for Chemical Reacti
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12763v1 [low] — Constraint-Aware Aggregation for Federated Reinfor
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12784v1 [low] — Directional Constraints for Efficient Exploration 
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.11915v1 [medium] — Benchmarking Sensor Robustness in Plasma Diagnosti
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12041v1 [medium] — Using $γ$+jets to quantify medium-induced jet broa
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12754v1 [medium] — Twist Engineering for Reconfigurable Optical and O
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12156v1 [high] — (Early) AI Compute Asset Pricing
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.07836v2 [high] — Infinity-Parser2 Technical Report
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12153v1 [high] — Splitting Analysis for Yukawa Potential
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12233v1 [high] — Fin-Analyst at FinMMEval 2026 Task 3: A Live Hybri
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12234v1 [high] — Bounded Analog Complexity
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12414v1 [high] — Beyond Consistent Scenarios: Deriving Indirect Inf
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12845v1 [high] — GraphPolaris: A System for Query, Analysis, and Vi
+- **2026-07-15 19:38** paper_watcher: 新内容 2607.12981v1 [high] — An Agentic Formalization for Certified Quantum Neu
 - **2026-07-14 19:38** paper_watcher: 新内容 2607.06166v2 [low] — When do prophets profit in prediction markets?
 - **2026-07-14 19:38** paper_watcher: 新内容 2607.08199v2 [low] — Volatility in Prediction Markets: A Structural App
 - **2026-07-14 19:38** paper_watcher: 新内容 2607.10364v1 [low] — A Hyperbolic Neural Closure for M1 Radiation Trans
