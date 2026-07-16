@@ -1,5 +1,17 @@
 # Wiki Log
 
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13503v1 [low] — Exploring the Alignment of Generation and Understa
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13610v1 [low] — Accelerating gas-network feasibility screening wit
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13968v1 [low] — Measuring Sentiment News with Transformer-Based La
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.14026v1 [low] — From Forecasts to Auditable Reports: Evidence Cont
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13348v1 [low] — Safe Overtaking for Autonomous Racing Using Hierar
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13553v1 [low] — Flow-aware Optimal Navigation in Unsteady Flows th
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13938v1 [low] — Discriminative Barrier Functions for Safe Adversar
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13230v1 [high] — AI-Native Insurance for Agentic AI: Pricing, Under
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13744v1 [high] — Contracting for Long-Duration Energy Storage in In
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.07836v3 [high] — Infinity-Parser2 Technical Report
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13533v1 [high] — Scientific-Intention Driven Embodied Intelligent S
+- **2026-07-16 19:37** paper_watcher: 新内容 2607.13693v1 [high] — Social Simulations: from Agent-Based Modeling to D
 - **2026-07-15 19:38** paper_watcher: 新内容 2607.12351v1 [low] — Residual-Certified Adaptive Tracking of Solution M
 - **2026-07-15 19:38** paper_watcher: 新内容 2607.12687v1 [low] — From Critic to Confidence: PPO for Language-Based 
 - **2026-07-15 19:38** paper_watcher: 新内容 2607.12771v1 [low] — Learning Mechanistic Reasoning for Chemical Reacti
