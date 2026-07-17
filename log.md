@@ -1,5 +1,17 @@
 # Wiki Log
 
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.12771v2 [low] — Learning Mechanistic Reasoning for Chemical Reacti
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14361v1 [low] — NeuralChaos: Optimal Adapted Approximation of Squa
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14397v1 [low] — Model-Informed Joint Material-Structural Optimizat
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14600v1 [low] — A Nonlinear Model Predictive Control Perspective o
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.15049v1 [low] — Neural operators solve inverse problems for consti
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.15258v1 [low] — Decoding Market Emotion from Blockchain Activity: 
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14488v1 [low] — Safe Execution of RL Policies Via Acceleration-Bas
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14682v1 [low] — Stop Thinking, Start Looking: Efficient Post-Train
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.15195v1 [low] — SciPhy Reinforcement Learning for Portfolio Optimi
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14816v1 [high] — Large Language Models for Code Generation from Mul
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.15261v1 [high] — Relativistic time-commutative dynamics with $κ$-pl
+- **2026-07-17 19:38** paper_watcher: 新内容 2607.14174v1 [high] — How Much of a 10-K Matters? Aggregation-Dependent 
 - **2026-07-16 19:37** paper_watcher: 新内容 2607.13503v1 [low] — Exploring the Alignment of Generation and Understa
 - **2026-07-16 19:37** paper_watcher: 新内容 2607.13610v1 [low] — Accelerating gas-network feasibility screening wit
 - **2026-07-16 19:37** paper_watcher: 新内容 2607.13968v1 [low] — Measuring Sentiment News with Transformer-Based La
