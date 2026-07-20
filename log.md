@@ -1,5 +1,15 @@
 # Wiki Log
 
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.09426v2 [low] — The Quarter-Hour Effect: Periodic Algorithmic Trad
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15775v1 [low] — AquaAugmentor: A Novel Feature Augmentation Algori
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15385v1 [low] — Algorithmic Intermediation and the International T
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15413v1 [low] — FSZ: Breaking the Prediction-Throughput Trade-off 
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15862v1 [low] — PriEco-DRL: Joint Optimization of Electric-Bus Eco
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.16028v1 [high] — CLaC@FinMMEval 2026 Task 3: Sentiment-Augmented De
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15414v1 [high] — AI Trading: Evaluating Large Language Models for T
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15452v1 [high] — All Games Have Equilibria
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.15591v1 [high] — RecGPT-V3 Technical Report
+- **2026-07-20 19:38** paper_watcher: 新内容 2607.16083v1 [high] — What Does It Take to Research with AI? A Rapid Rev
 - **2026-07-17 19:38** paper_watcher: 新内容 2607.12771v2 [low] — Learning Mechanistic Reasoning for Chemical Reacti
 - **2026-07-17 19:38** paper_watcher: 新内容 2607.14361v1 [low] — NeuralChaos: Optimal Adapted Approximation of Squa
 - **2026-07-17 19:38** paper_watcher: 新内容 2607.14397v1 [low] — Model-Informed Joint Material-Structural Optimizat
