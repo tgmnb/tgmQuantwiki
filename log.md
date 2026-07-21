@@ -1,5 +1,23 @@
 # Wiki Log
 
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.16447v1 [low] — Surrogate-to-code verification of a non-intrusive 
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17037v1 [low] — Apeliotes: A Diffusion-Based Modeling Framework fo
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17112v1 [low] — Learning Dispute Structure for Settlement Predicti
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17428v1 [low] — Uniform-Loss Automated Market Making for Predictio
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17514v1 [low] — A Predict-then-Schedule framework for Power Distri
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17865v1 [low] — How Fast Do Signatures Learn? Statistical Theory a
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17991v1 [low] — Optimal Market Making in Prediction Markets
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.16850v1 [low] — Group Entropy-Controlled Policy Optimization
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17336v1 [low] — When Drift Detectors cry Wolf: False Alarm Rates i
+- **2026-07-21 19:37** paper_watcher: 新内容 2606.30387v2 [medium] — Baryon Light-Cone Distribution Amplitudes from Lat
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17502v1 [high] — Mean-field equilibrium price formation under singl
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.16617v1 [high] — DataFlow-Harness: A Grounded Code-Agent Platform f
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.16680v1 [high] — Specification-Driven Development as the Foundation
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.16687v1 [high] — Beyond Visibility and Technical Reuse: Public Appl
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17784v1 [high] — Online Scheduling with a Stochastic Signal
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.17993v1 [high] — System-Level Evaluation of LEO Satellite Communica
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.18147v1 [high] — LLMs and Agentic AI Systems for Smart Grids: A Tut
+- **2026-07-21 19:37** paper_watcher: 新内容 2607.18001v1 [high] — AlphaZeroBeta: Deep Reinforcement Learning for Mar
 - **2026-07-20 19:38** paper_watcher: 新内容 2607.09426v2 [low] — The Quarter-Hour Effect: Periodic Algorithmic Trad
 - **2026-07-20 19:38** paper_watcher: 新内容 2607.15775v1 [low] — AquaAugmentor: A Novel Feature Augmentation Algori
 - **2026-07-20 19:38** paper_watcher: 新内容 2607.15385v1 [low] — Algorithmic Intermediation and the International T
