@@ -1,5 +1,15 @@
 # Wiki Log
 
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.18616v1 [low] — Prediction of bank transaction fraud using TabNet 
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.18637v1 [low] — End-to-end Conditional Diffusion for Realistic and
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.18988v1 [low] — DobicVLM: Aligning Chest X-Ray Report Generation w
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.19117v1 [low] — Comparative Study of Multi-Agent Actor-Critic Algo
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.19158v1 [low] — Coherence in Control: Bridging Many-Core Mapping a
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.19279v1 [medium] — Gaussian Boson Sampling for Asset Clustering in St
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.18866v1 [medium] — Optimizing Regret
+- **2026-07-22 19:37** paper_watcher: 新内容 2606.31387v2 [high] — Signature-Based Optimal Execution for Statistical 
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.18559v1 [high] — Mixing-Free and Signal-Optimal Learning of Gaussia
+- **2026-07-22 19:37** paper_watcher: 新内容 2607.19005v1 [high] — Observable Matrix Dynamics of Stocks
 - **2026-07-21 19:37** paper_watcher: 新内容 2607.16447v1 [low] — Surrogate-to-code verification of a non-intrusive 
 - **2026-07-21 19:37** paper_watcher: 新内容 2607.17037v1 [low] — Apeliotes: A Diffusion-Based Modeling Framework fo
 - **2026-07-21 19:37** paper_watcher: 新内容 2607.17112v1 [low] — Learning Dispute Structure for Settlement Predicti
