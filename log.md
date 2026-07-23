@@ -1,5 +1,13 @@
 # Wiki Log
 
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.19453v1 [low] — Predictive Extrema, Unprofitable Policies: An AI-A
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.20168v1 [low] — Quantum Kernels and the Cross-Section of Stock Ret
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.18955v2 [low] — H$^2$SD: Hybrid Hindsight Self-Distillation
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.19158v2 [low] — Coherence in Control: Bridging Many-Core Mapping a
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.20094v1 [medium] — Exact theory of chirality-dependent p-wave magneti
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.19497v1 [high] — The Science and Practice of Trend-Following System
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.20216v1 [high] — Small, Free, and Effective: Orchestrating Open-Wei
+- **2026-07-23 19:37** paper_watcher: 新内容 2607.19005v2 [high] — Observable Matrix Dynamics of Stocks
 - **2026-07-22 19:37** paper_watcher: 新内容 2607.18616v1 [low] — Prediction of bank transaction fraud using TabNet 
 - **2026-07-22 19:37** paper_watcher: 新内容 2607.18637v1 [low] — End-to-end Conditional Diffusion for Realistic and
 - **2026-07-22 19:37** paper_watcher: 新内容 2607.18988v1 [low] — DobicVLM: Aligning Chest X-Ray Report Generation w
