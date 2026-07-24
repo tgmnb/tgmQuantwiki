@@ -1,5 +1,16 @@
 # Wiki Log
 
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.17428v2 [low] — Uniform-Loss Automated Market Making for Predictio
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.21369v1 [low] — Graph Neural Network Force Fields (GPTFF-mol) for 
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.20656v1 [low] — Adaptive Multi-Horizon Reinforcement Learning
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.20690v1 [low] — Learning to Detect UI Principle Violations via Rei
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.21387v1 [low] — DISCO: Distributed Spectrum Compliance and Orchest
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.21397v1 [low] — Wilson Towers as Local Bulk Fields
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.20997v1 [medium] — Solow system driven by $α$-stable Lévy process
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.08500v2 [high] — Estimating the Stochastic Discount Factor from Opt
+- **2026-07-24 19:37** paper_watcher: 新内容 2606.30997v3 [high] — A Three-Phase Foundation Model for Tax-Aware Perso
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.20556v1 [high] — KeySI: An Interaction Framework for Tuning Text Em
+- **2026-07-24 19:37** paper_watcher: 新内容 2607.20773v1 [high] — HARP: The Human--AI Research Platform
 - **2026-07-23 19:37** paper_watcher: 新内容 2607.19453v1 [low] — Predictive Extrema, Unprofitable Policies: An AI-A
 - **2026-07-23 19:37** paper_watcher: 新内容 2607.20168v1 [low] — Quantum Kernels and the Cross-Section of Stock Ret
 - **2026-07-23 19:37** paper_watcher: 新内容 2607.18955v2 [low] — H$^2$SD: Hybrid Hindsight Self-Distillation
