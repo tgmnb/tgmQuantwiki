@@ -1,5 +1,16 @@
 # Wiki Log
 
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.18955v3 [low] — H$^2$SD: Hybrid Hindsight Self-Distillation
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.21793v1 [low] — QLPO: Quadrant-weighted Sampling for Length-aware 
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.22109v1 [low] — Predictive Lightweight MARL for Resilient Coverage
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.21965v1 [medium] — Inertial Asynchronous Computation
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.22282v1 [medium] — Statistical validation of template-based parameter
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.20556v2 [high] — KeySI: An Interaction Framework for Tuning Text Em
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.15591v2 [high] — RecGPT-V3 Technical Report
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.16617v2 [high] — DataFlow-Harness: A Grounded Code-Agent Platform f
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.21760v1 [high] — Bespoke Visual Assistance: What and How do Blind a
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.21946v1 [high] — Multi-Agent Debate and Visual Information Extracti
+- **2026-07-27 19:38** paper_watcher: 新内容 2607.22168v1 [high] — Integrating Energy Efficiency into Software Develo
 - **2026-07-24 19:37** paper_watcher: 新内容 2607.17428v2 [low] — Uniform-Loss Automated Market Making for Predictio
 - **2026-07-24 19:37** paper_watcher: 新内容 2607.21369v1 [low] — Graph Neural Network Force Fields (GPTFF-mol) for 
 - **2026-07-24 19:37** paper_watcher: 新内容 2607.20656v1 [low] — Adaptive Multi-Horizon Reinforcement Learning
