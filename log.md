@@ -1,5 +1,27 @@
 # Wiki Log
 
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.22768v1 [low] — Multi-Domain Physics-Based MDO of Multirotor UAVs:
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.23183v1 [low] — A Scale-adaptive Vision Model Links C. elegans Neu
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.23370v1 [low] — Bitcoin Price Direction Prediction via Regime-Awar
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24150v1 [low] — Approximation of stochastic insurer balance-sheet 
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24327v1 [low] — Aligning Heterogeneous DFT Datasets: A Graph Neura
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.23120v1 [low] — A scalable online machine learning approach for St
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24131v1 [low] — MAPLE: Efficient and Diverse Multi-Alpha Generatio
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.18955v4 [low] — H$^2$SD: Hybrid Hindsight Self-Distillation
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.18988v2 [low] — DobicVLM: Aligning Chest X-Ray Report Generation w
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.20656v2 [low] — Adaptive Multi-Horizon Reinforcement Learning
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24255v1 [low] — OxygenREC-v2: Internalizing Discrimination into Ge
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24569v1 [low] — The balance between compactness and forecast accur
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24672v1 [low] — Explainable Reinforcement Learning via Physics-Awa
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24524v1 [medium] — Light Dark Matter Discovery Potential and Model Se
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.22773v1 [high] — Metric Surface Reconstruction of Neurosurgical Sce
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.23319v1 [high] — BHARATI: Morphology-Aware Tokenizers for Classical
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.23365v1 [high] — On AI Safety and Security Technical Debt in Engine
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24111v1 [high] — PPanGGOLiN V2: technical enhancement and extended 
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24151v1 [high] — Domain-Specific Data Quality Analysis Using Techno
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24245v1 [high] — A Model-Driven Pipeline for Data Quality Specifica
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24410v1 [high] — The Fundamental Structure of Risk: From Characteri
+- **2026-07-28 19:39** paper_watcher: 新内容 2607.24518v1 [high] — Low-Rank Dependence Decomposition via Accelerated 
 - **2026-07-27 19:38** paper_watcher: 新内容 2607.18955v3 [low] — H$^2$SD: Hybrid Hindsight Self-Distillation
 - **2026-07-27 19:38** paper_watcher: 新内容 2607.21793v1 [low] — QLPO: Quadrant-weighted Sampling for Length-aware 
 - **2026-07-27 19:38** paper_watcher: 新内容 2607.22109v1 [low] — Predictive Lightweight MARL for Resilient Coverage

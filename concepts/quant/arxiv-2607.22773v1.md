@@ -1,0 +1,47 @@
+---
+title: Metric Surface Reconstruction of Neurosurgical Scenes from Monocular Operating Microscope Images and Microscope Pose
+created: 2026-07-28
+updated: 2026-07-28
+type: concept
+tags: [集成方法, factor, strategy, quant]
+sources: [Metric Surface Reconstruction of Neurosurgical Scenes from Monocular Operating Microscope Images and Microscope Pose]
+confidence: medium
+---
+
+# Metric Surface Reconstruction of Neurosurgical Scenes from Monocular Operating Microscope Images and Microscope Pose
+
+> 来源：[arXiv:2607.22773v1](https://arxiv.org/abs/2607.22773v1) | 作者：
+
+## 基本信息
+
+| 字段 | 值 |
+|------|----|
+| 发表 | 2026-07-24 |
+| 方法 | 集成方法 |
+| 策略类型 | 未识别 |
+| 资产类别 | 未特定 |
+
+## 摘要
+
+Objective: We evaluated whether metric 3D geometry of neurosurgical operative exposure can be recovered from standard monocular operating-microscope images combined with microscope pose data.   Methods: In a phantom-based laboratory study, two aneurysm training phantoms were imaged with a ZEISS Pentero 800 microscope integrated with Brainlab Cranial Navigation. Microscope images from the standard composite video output were stored with synchronous microscope poses. After intrinsic and extrinsic 
+
+## 核心方法论
+
+**方法：** 集成方法
+**策略方向：** 未识别
+
+## 关键发现
+
+- Objective: We evaluated whether metric 3D geometry of neurosurgical operative exposure can be recovered from standard monocular operating-microscope images combined with microscope pose data.
+- Methods: In a phantom-based laboratory study, two aneurysm training phantoms were imaged with a ZEISS Pentero 800 microscope integrated with Brainlab Cranial Navigation.
+- Microscope images from the standard composite video output were stored with synchronous microscope poses.
+
+## 实践要点
+
+- 细节需阅读原文确认
+
+## 相关概念
+
+- [[strategy-prototypes]] — 策略原型
+- [[risk-management]] — 风险管理
+- [[factor-research]] — 因子研究框架
