@@ -1,5 +1,15 @@
 # Wiki Log
 
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.24818v1 [low] — Dual-Level Atomic and Coordination Geometry Learni
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25247v1 [low] — Prediction of experimental excited-state absorptio
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25353v1 [low] — How Likely and How Deep? Sharp Joint Bounds on Ris
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.24996v1 [low] — Calibrated Partial Resets: Preventing Policy Colla
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25078v1 [low] — Diff-ID: Identity Consistent Facial Image Generati
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25417v1 [low] — Bayesian-Guided Cooperative RL Beamforming for Wir
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25588v1 [low] — System-Aware Adaptive CSI Feedback via RL-Guided A
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25048v1 [medium] — Optimal, Data-Driven Wall Models for Efficient Lar
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.26034v1 [medium] — Falling Behind Drives Unsafe Development in an Ide
+- **2026-07-29 19:39** paper_watcher: 新内容 2607.25623v1 [high] — Can a small additional claim lower the premium? Cr
 - **2026-07-28 19:39** paper_watcher: 新内容 2607.22768v1 [low] — Multi-Domain Physics-Based MDO of Multirotor UAVs:
 - **2026-07-28 19:39** paper_watcher: 新内容 2607.23183v1 [low] — A Scale-adaptive Vision Model Links C. elegans Neu
 - **2026-07-28 19:39** paper_watcher: 新内容 2607.23370v1 [low] — Bitcoin Price Direction Prediction via Regime-Awar

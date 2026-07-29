@@ -1,0 +1,47 @@
+---
+title: Dual-Level Atomic and Coordination Geometry Learning for Crystal Property Prediction Using Graph Neural Networks
+created: 2026-07-29
+updated: 2026-07-29
+type: concept
+tags: [神经网络-dl, quant, factor, strategy]
+sources: [Dual-Level Atomic and Coordination Geometry Learning for Crystal Property Prediction Using Graph Neural Networks]
+confidence: medium
+---
+
+# Dual-Level Atomic and Coordination Geometry Learning for Crystal Property Prediction Using Graph Neural Networks
+
+> 来源：[arXiv:2607.24818v1](https://arxiv.org/abs/2607.24818v1) | 作者：
+
+## 基本信息
+
+| 字段 | 值 |
+|------|----|
+| 发表 | 2026-07-17 |
+| 方法 | 神经网络/DL |
+| 策略类型 | 未识别 |
+| 资产类别 | 未特定 |
+
+## 摘要
+
+Accurate prediction of crystal properties remains a key challenge in computational materials science. While graph neural networks (GNNs) such as CGCNN, MEGNet, ALIGNN, and SchNet have shown strong performance, they primarily represent crystals at the atomic level and implicitly learn local chemical environments through message passing. However, many material properties are governed by coordination polyhedra, the fundamental structural units formed by atoms and their neighboring atoms. To address
+
+## 核心方法论
+
+**方法：** 神经网络/DL
+**策略方向：** 未识别
+
+## 关键发现
+
+- Accurate prediction of crystal properties remains a key challenge in computational materials science.
+- While graph neural networks (GNNs) such as CGCNN, MEGNet, ALIGNN, and SchNet have shown strong performance, they primarily represent crystals at the atomic level and implicitly learn local chemical environments through message passing.
+- However, many material properties are governed by coordination polyhedra, the fundamental structural units formed by atoms and their neighboring atoms.
+
+## 实践要点
+
+- 细节需阅读原文确认
+
+## 相关概念
+
+- [[strategy-prototypes]] — 策略原型
+- [[risk-management]] — 风险管理
+- [[factor-research]] — 因子研究框架
