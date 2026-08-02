@@ -1,9 +1,9 @@
 ---
 title: Metric Surface Reconstruction of Neurosurgical Scenes from Monocular Operating Microscope Images and Microscope Pose
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [集成方法, factor, strategy, quant]
+tags: [factor, strategy, quant, 集成方法]
 sources: [Metric Surface Reconstruction of Neurosurgical Scenes from Monocular Operating Microscope Images and Microscope Pose]
 confidence: medium
 ---

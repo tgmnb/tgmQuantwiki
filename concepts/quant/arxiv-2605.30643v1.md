@@ -1,9 +1,9 @@
 ---
 title: Quality-Adjusted Hit-Ratio Targeting in Corporate Bond Market Making
-created: 2026-06-01
-updated: 2026-06-01
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, strategy, 执行-做市, quant]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Quality-Adjusted Hit-Ratio Targeting in Corporate Bond Market Making]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Explainable Reinforcement Learning via Physics-Aware Policy Distillation
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [强化学习-rl, factor, strategy, 神经网络-dl, quant]
+tags: [神经网络-dl, strategy, quant, factor, 强化学习-rl]
 sources: [Explainable Reinforcement Learning via Physics-Aware Policy Distillation]
 confidence: medium
 ---

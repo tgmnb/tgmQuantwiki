@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2603.18107v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, factor, quant, strategy]
-sources: [raw/articles/2603.18107v1.md]
+tags: [factor, strategy, quant, 神经网络-dl]
+sources: [ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics]
 confidence: medium
 ---
 

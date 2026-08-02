@@ -1,9 +1,9 @@
 ---
 title: OxygenREC-v2: Internalizing Discrimination into Generative Recommendation
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, strategy, quant]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [OxygenREC-v2: Internalizing Discrimination into Generative Recommendation]
 confidence: medium
 ---

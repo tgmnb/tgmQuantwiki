@@ -1,9 +1,9 @@
 ---
 title: How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment
-created: 2026-07-17
-updated: 2026-07-17
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, 集成方法, strategy, factor]
+tags: [factor, strategy, quant, 集成方法]
 sources: [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment]
 confidence: medium
 ---

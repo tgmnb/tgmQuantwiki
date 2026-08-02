@@ -1,9 +1,9 @@
 ---
 title: Exact and Deterministic Patch Descriptor Retrieval via Hierarchical Normalization
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, strategy]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Exact and Deterministic Patch Descriptor Retrieval via Hierarchical Normalization]
 confidence: medium
 ---

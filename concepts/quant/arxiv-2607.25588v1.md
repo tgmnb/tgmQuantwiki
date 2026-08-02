@@ -1,9 +1,9 @@
 ---
 title: System-Aware Adaptive CSI Feedback via RL-Guided Autoencoder Switching in Multi-User MIMO System
-created: 2026-07-29
-updated: 2026-07-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, quant, factor, strategy]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [System-Aware Adaptive CSI Feedback via RL-Guided Autoencoder Switching in Multi-User MIMO System]
 confidence: medium
 ---

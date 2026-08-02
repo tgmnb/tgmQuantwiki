@@ -1,9 +1,9 @@
 ---
 title: Predictive Lightweight MARL for Resilient Coverage in Sparse-Signaling Aerial Networks
-created: 2026-07-27
-updated: 2026-07-27
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, factor, 强化学习-rl, quant]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Predictive Lightweight MARL for Resilient Coverage in Sparse-Signaling Aerial Networks]
 confidence: medium
 ---

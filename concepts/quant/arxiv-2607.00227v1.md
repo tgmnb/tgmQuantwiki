@@ -1,9 +1,9 @@
 ---
 title: Implementation Filters and Delay-Budget Instability in Coupled Replicator--Mutator Dynamics
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, factor, quant, 执行-做市]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Implementation Filters and Delay-Budget Instability in Coupled Replicator--Mutator Dynamics]
 confidence: medium
 ---

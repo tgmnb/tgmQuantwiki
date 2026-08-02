@@ -1,9 +1,9 @@
 ---
 title: Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 神经网络-dl, strategy, quant]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage]
 confidence: medium
 ---

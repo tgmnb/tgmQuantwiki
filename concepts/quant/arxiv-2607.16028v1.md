@@ -1,9 +1,9 @@
 ---
 title: CLaC@FinMMEval 2026 Task 3: Sentiment-Augmented Deep Reinforcement Learning for Active Trading -- An Alpha-Reward Approach
-created: 2026-07-20
-updated: 2026-07-20
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, 强化学习-rl, quant, factor]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [CLaC@FinMMEval 2026 Task 3: Sentiment-Augmented Deep Reinforcement Learning for Active Trading -- An Alpha-Reward Approach]
 confidence: medium
 ---

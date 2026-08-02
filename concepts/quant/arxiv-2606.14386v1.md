@@ -1,9 +1,9 @@
 ---
 title: Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [集成方法, factor, strategy, quant]
+tags: [factor, strategy, quant, 集成方法]
 sources: [Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks]
 confidence: medium
 ---

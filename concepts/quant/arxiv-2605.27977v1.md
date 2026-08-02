@@ -1,9 +1,9 @@
 ---
 title: Deep Learning Forecasting of the U.S. Aggregate Bond Index
-created: 2026-05-30
-updated: 2026-05-30
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, quant, factor, 神经网络-dl]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Deep Learning Forecasting of the U.S. Aggregate Bond Index]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Using $γ$+jets to quantify medium-induced jet broadening in heavy-ion collisions
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, strategy, 动量-趋势跟踪]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Using $γ$+jets to quantify medium-induced jet broadening in heavy-ion collisions]
 confidence: medium
 ---

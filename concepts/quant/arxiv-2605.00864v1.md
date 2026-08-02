@@ -1,9 +1,9 @@
 ---
 title: Arbitrage Analysis in Polymarket NBA Markets
-created: 2026-05-20
-updated: 2026-05-20
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, 执行-做市, quant, factor]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Arbitrage Analysis in Polymarket NBA Markets]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Signature-Based Optimal Execution for Statistical Arbitrage with Path-Dependent Trading Signals
-created: 2026-07-22
-updated: 2026-07-22
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, quant, factor, 执行-做市]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Signature-Based Optimal Execution for Statistical Arbitrage with Path-Dependent Trading Signals]
 confidence: medium
 ---

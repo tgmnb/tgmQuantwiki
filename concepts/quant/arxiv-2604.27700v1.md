@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2604.27700v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: Data-Driven Stochastic Optimal Control for Intraday Electricity Trading by Renewable Producers
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, strategy, 均值回归]
-sources: [raw/articles/2604.27700v1.md]
+tags: [factor, strategy, quant, 均值回归]
+sources: [Data-Driven Stochastic Optimal Control for Intraday Electricity Trading by Renewable Producers]
 confidence: medium
 ---
 

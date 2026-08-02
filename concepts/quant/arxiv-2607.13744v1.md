@@ -1,9 +1,9 @@
 ---
 title: Contracting for Long-Duration Energy Storage in Incomplete Risk Markets
-created: 2026-07-16
-updated: 2026-07-16
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 强化学习-rl, strategy, quant]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Contracting for Long-Duration Energy Storage in Incomplete Risk Markets]
 confidence: medium
 ---

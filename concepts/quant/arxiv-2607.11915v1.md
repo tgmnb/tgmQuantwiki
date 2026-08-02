@@ -1,9 +1,9 @@
 ---
 title: Benchmarking Sensor Robustness in Plasma Diagnostic Models: A Systematic Evaluation on TokaMark
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, strategy, transformer-llm]
+tags: [factor, strategy, quant, transformer-llm]
 sources: [Benchmarking Sensor Robustness in Plasma Diagnostic Models: A Systematic Evaluation on TokaMark]
 confidence: medium
 ---

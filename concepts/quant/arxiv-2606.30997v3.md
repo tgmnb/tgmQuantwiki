@@ -1,9 +1,9 @@
 ---
 title: A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management
-created: 2026-07-24
-updated: 2026-07-24
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, strategy, factor, 强化学习-rl]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [A Three-Phase Foundation Model for Tax-Aware Personalized Portfolio Management]
 confidence: medium
 ---

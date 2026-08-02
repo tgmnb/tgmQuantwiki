@@ -1,9 +1,9 @@
 ---
 title: Spreading the Risk of Scalable Legal Services: The Role of Insurance in Expanding Access to Justice
-created: 2026-06-30
-updated: 2026-06-30
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, 配对-套利, factor, quant]
+tags: [factor, 配对-套利, strategy, quant]
 sources: [Spreading the Risk of Scalable Legal Services: The Role of Insurance in Expanding Access to Justice]
 confidence: medium
 ---

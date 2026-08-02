@@ -1,9 +1,9 @@
 ---
 title: Multimodal Evaluator Preference Collapse: Cross-Modal Coupling in Self-Evolving Agents
-created: 2026-06-29
-updated: 2026-06-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, 集成方法, strategy]
+tags: [factor, strategy, quant, 集成方法]
 sources: [Multimodal Evaluator Preference Collapse: Cross-Modal Coupling in Self-Evolving Agents]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Meta-Attention: Bayesian Per-Token Routing for Efficient Transformer Inference
-created: 2026-05-30
-updated: 2026-05-30
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, quant, factor, transformer-llm]
+tags: [factor, strategy, quant, transformer-llm]
 sources: [Meta-Attention: Bayesian Per-Token Routing for Efficient Transformer Inference]
 confidence: medium
 ---

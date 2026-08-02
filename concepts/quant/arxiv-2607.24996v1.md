@@ -1,9 +1,9 @@
 ---
 title: Calibrated Partial Resets: Preventing Policy Collapse in Continual Reinforcement Learning
-created: 2026-07-29
-updated: 2026-07-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, factor, 强化学习-rl, quant, strategy]
+tags: [神经网络-dl, strategy, quant, factor, 强化学习-rl]
 sources: [Calibrated Partial Resets: Preventing Policy Collapse in Continual Reinforcement Learning]
 confidence: medium
 ---

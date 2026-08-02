@@ -1,9 +1,9 @@
 ---
 title: Which Portfolios? The Construction Dependence of Factor Model Performance
-created: 2026-06-19
-updated: 2026-06-19
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, 因子投资, strategy]
+tags: [factor, 因子投资, strategy, quant]
 sources: [Which Portfolios? The Construction Dependence of Factor Model Performance]
 confidence: medium
 ---

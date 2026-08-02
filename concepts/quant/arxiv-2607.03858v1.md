@@ -1,7 +1,7 @@
 ---
 title: A Spectral Generalisation of the Variance Ratio: Eigenstructure of Long-Horizon Portfolio Covariance and a Multi-Memory Factor Model of U.S. Equity Returns
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
 tags: [factor, 因子投资, strategy, quant]
 sources: [A Spectral Generalisation of the Variance Ratio: Eigenstructure of Long-Horizon Portfolio Covariance and a Multi-Memory Factor Model of U.S. Equity Returns]

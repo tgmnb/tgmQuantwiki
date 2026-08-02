@@ -1,9 +1,9 @@
 ---
 title: Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, strategy, 组合优化, 强化学习-rl, quant]
+tags: [strategy, quant, factor, 组合优化, 强化学习-rl]
 sources: [Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization]
 confidence: medium
 ---

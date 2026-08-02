@@ -1,9 +1,9 @@
 ---
 title: QLPO: Quadrant-weighted Sampling for Length-aware Policy Optimization
-created: 2026-07-27
-updated: 2026-07-27
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, factor, 强化学习-rl, quant]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [QLPO: Quadrant-weighted Sampling for Length-aware Policy Optimization]
 confidence: medium
 ---

@@ -1,5 +1,209 @@
 # Wiki Log
 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24150v1 [low] — Approximation of stochastic insurer balance-sheet 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24327v1 [low] — Aligning Heterogeneous DFT Datasets: A Graph Neura
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25247v1 [low] — Prediction of experimental excited-state absorptio
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26104v1 [low] — Weight and Height Estimation from a Single Human I
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26245v1 [low] — OpenMarket: A Synchronized Polymarket-Binance Data
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26528v1 [low] — Shared Symbolic Backbones for Physically Consisten
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26792v1 [low] — Crossing-Free Probabilistic K-Line Forecasts Witho
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26859v1 [low] — No Data Is Not No Risk: Visibility Aware Graph-Bas
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27099v1 [low] — Rainfall is rough
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27140v1 [low] — Investigating reservoir computing for branch predi
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27559v1 [low] — A new approach for the determination of through-th
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27569v1 [low] — Consuming Values
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27588v1 [low] — Local Stochastic Rough Volatility: Pathwise Filter
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27611v1 [low] — AWARE-FX: An Auditable Knowledge-Guided AI System 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27788v1 [low] — SpecCal: Ambiguity-Aware Candidate Calibration for
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27820v1 [low] — Deep Learning for Accelerated Long-Horizon Forecas
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27901v1 [low] — Data-free neural PDE solvers based on Graph Neural
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28385v1 [low] — A Riemannian Factor Model for Manifold-Valued Time
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28446v1 [low] — CoLAS: Multimodal Corroboration of Latent Asset Si
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.20797v1 [low] — Beyond Numerical Features: CNN-Driven Algorithm Se
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.24285v1 [low] — Memory, Roughness, and Information Persistence in 
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.27977v1 [low] — Deep Learning Forecasting of the U.S. Aggregate Bo
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.29082v1 [low] — The Importance of Out-of-Band Metadata for Safe Au
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.00320v1 [low] — Adversarially Robust Control of Conditional Value-
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.00624v1 [low] — Macro-aware time series forecasting via hierarchic
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.09055v1 [low] — Particle Methods with Deep Learning for Stochastic
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.09104v1 [low] — Addressing Market Regime Changes and Heavy-Tailed 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.09420v1 [low] — Benchmarking Deep Time Series Models for Equity Po
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.10448v1 [low] — Mitigating Bias in Low-SNR Financial Reinforcement
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.10805v2 [low] — Asymmetric Nonlinear Return Extrapolation and Opti
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.16059v1 [low] — Mojo: A Promising Tool for Scalable Financial AI E
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.06610v1 [low] — Deep Reinforcement Learning for Reliability Based 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.09820v1 [low] — Learning Predictive Ambiguity Sets for Decision-Fo
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.23120v1 [low] — A scalable online machine learning approach for St
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24131v1 [low] — MAPLE: Efficient and Diverse Multi-Alpha Generatio
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25353v1 [low] — How Likely and How Deep? Sharp Joint Bounds on Ris
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.20690v1 [low] — Learning to Detect UI Principle Violations via Rei
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21387v1 [low] — DISCO: Distributed Spectrum Compliance and Orchest
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21397v1 [low] — Wilson Towers as Local Bulk Fields
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21793v1 [low] — QLPO: Quadrant-weighted Sampling for Length-aware 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.22109v1 [low] — Predictive Lightweight MARL for Resilient Coverage
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24255v1 [low] — OxygenREC-v2: Internalizing Discrimination into Ge
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24569v1 [low] — The balance between compactness and forecast accur
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24672v1 [low] — Explainable Reinforcement Learning via Physics-Awa
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24996v1 [low] — Calibrated Partial Resets: Preventing Policy Colla
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25078v1 [low] — Diff-ID: Identity Consistent Facial Image Generati
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25417v1 [low] — Bayesian-Guided Cooperative RL Beamforming for Wir
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25588v1 [low] — System-Aware Adaptive CSI Feedback via RL-Guided A
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26358v1 [low] — Post-Training at the Edge of Detectability: A Game
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27029v1 [low] — Anticipatory Data Governance in the Age of AI: Eme
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27063v1 [low] — Herding, Momentum, and Reversal in China's A-Share
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27610v1 [low] — Kalman Meets Curriculum: Efficient Dynamic Prompt 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28390v1 [low] — Hierarchical Multilevel Monte Carlo for Order-Opti
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28453v1 [low] — Potentials and Limitations on Different Busbar Pro
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28582v1 [low] — $β$-OPSD: Deriving with Policy Optimization, Train
+- **2026-08-01 19:39** paper_watcher: 新内容 2511.13616v2 [medium] — Statistical and economic evaluation of forecasts i
+- **2026-08-01 19:39** paper_watcher: 新内容 2512.02037v1 [medium] — Statistical Arbitrage in Polish Equities Market Us
+- **2026-08-01 19:39** paper_watcher: 新内容 2511.20739v2 [medium] — Game Theory in Cosmology
+- **2026-08-01 19:39** paper_watcher: 新内容 2512.03123v1 [medium] — A Stochastic Thermodynamics Approach to Price Impa
+- **2026-08-01 19:39** paper_watcher: 新内容 2512.14410v1 [medium] — Pattern Recognition of Aluminium Arbitrage in Glob
+- **2026-08-01 19:39** paper_watcher: 新内容 2601.08974v2 [medium] — The drift burst hypothesis
+- **2026-08-01 19:39** paper_watcher: 新内容 2601.23172v2 [medium] — A unified theory of order flow, market impact, and
+- **2026-08-01 19:39** paper_watcher: 新内容 2603.18107v1 [medium] — ARTEMIS: A Neuro Symbolic Framework for Economical
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.19580v1 [medium] — Probabilistic Forecasting for Day-ahead Electricit
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.00864v1 [medium] — Arbitrage Analysis in Polymarket NBA Markets
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.21581v1 [medium] — Pricing and Hedging Financial Derivatives in Merge
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.23608v2 [medium] — Non-unique time and market incompleteness
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.12764v3 [medium] — Yield Curves Dynamics Using Variational Autoencode
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.13132v1 [medium] — Extending Blockchain Untraceability with Plausible
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.19517v1 [medium] — Do Prediction Markets Match Option Prices? Bitcoin
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.25811v1 [medium] — Hierarchical Graph Learning for Calendar Spread St
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.06355v1 [medium] — Entropic Dynamics of Jump-Diffusion Option Pricing
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.19279v1 [medium] — Gaussian Boson Sampling for Asset Clustering in St
+- **2026-08-01 19:39** paper_watcher: 新内容 2603.21043v1 [medium] — Confidence Freeze: Early Success Induces a Metasta
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.23905v1 [medium] — AI-Driven Alpha Decay: Algorithmic Homogenization,
+- **2026-08-01 19:39** paper_watcher: 新内容 2603.22497v1 [medium] — Rashid: A Cipher-Based Framework for Exploring In-
+- **2026-08-01 19:39** paper_watcher: 新内容 2603.27514v1 [medium] — Anomalous Hall Conductivity as an Effective Means 
+- **2026-08-01 19:39** paper_watcher: 新内容 2603.29593v1 [medium] — Be Water: An Evolutionary Proof for Trend-Followin
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.07575v1 [medium] — Robust Multi-Agent Target Tracking in Intermittent
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.21076v1 [medium] — Serialisation Strategy Matters: How FHIR Data Form
+- **2026-08-01 19:39** paper_watcher: 新内容 2604.27700v1 [medium] — Data-Driven Stochastic Optimal Control for Intrada
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.03730v2 [medium] — Beyond False Stability: High-Noise Drift Gating fo
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.08569v1 [medium] — Stock Investment: The p-index Approach
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.15027v1 [medium] — A Predicate-Based Model for Computation over State
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.15864v1 [medium] — Study of Nb Surface Under Ultra High Vacuum After 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.16682v3 [medium] — Multimodal Evaluator Preference Collapse: Cross-Mo
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.20726v1 [medium] — How Well Can Your Video Model Remember? Measuring 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.19081v1 [medium] — Retrieval-Based Brain Decoding by Alignment, not C
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.22385v1 [medium] — MetaPS: Adaptive Programmatic Strategy Selection f
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.11915v1 [medium] — Benchmarking Sensor Robustness in Plasma Diagnosti
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.11269v1 [medium] — Trustworthy synthetic data for campaign decision s
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.20997v1 [medium] — Solow system driven by $α$-stable Lévy process
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.02930v1 [medium] — CL-Anomaly: Layer-Adaptive Mixture-of-Experts with
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.03011v1 [medium] — Can Model Merging Improve Aggregation in DiLoCo?
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.03908v1 [medium] — Surface Functionalization Enables Two-Dimensional 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.04059v1 [medium] — Phenomenological extraction of fragmentation funct
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.04698v1 [medium] — F-ACVAE: A Federated Adaptive Conditional Variatio
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.05912v1 [medium] — Interfacial Noncollinear Filtering of Spin Hall Cu
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.07664v1 [medium] — Single inclusive hadron and jet production in lept
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.08430v1 [medium] — Doubly resonant enhancement of second-harmonic gen
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.10544v1 [medium] — Physics-inspired Pseudo Anomaly Generation and Pro
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.12041v1 [medium] — Using $γ$+jets to quantify medium-induced jet broa
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.12754v1 [medium] — Twist Engineering for Reconfigurable Optical and O
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.20094v1 [medium] — Exact theory of chirality-dependent p-wave magneti
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21965v1 [medium] — Inertial Asynchronous Computation
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.22282v1 [medium] — Statistical validation of template-based parameter
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24524v1 [medium] — Light Dark Matter Discovery Potential and Model Se
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25048v1 [medium] — Optimal, Data-Driven Wall Models for Efficient Lar
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26034v1 [medium] — Falling Behind Drives Unsafe Development in an Ide
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27603v1 [medium] — Unbiased Data-Driven Determination of the Nuclear 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28283v1 [medium] — Intertwined magnetoresistance and Hall multifuncti
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.28417v1 [medium] — Quasiparticle phono-conversion: filming carriers c
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.16380v1 [high] — Informative Consumption
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.16465v1 [high] — When Agent Automation Becomes Profitable: Quantify
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.19000v1 [high] — Tracking Brazil's Real Neutral Rate: A Multi-Block
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.19106v1 [high] — Quantifying Compromise Risk in Exceptional Access 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.26835v1 [high] — A sharp order-three obstruction to the aggregation
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.27150v1 [high] — Endogenous Reinsurance Pricing in Large Competitiv
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.28002v1 [high] — Dialogue to Detection: A Multimodal Hybrid NLP Pip
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.29598v1 [high] — Spreading the Risk of Scalable Legal Services: The
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.00099v1 [high] — Grid-Interactive Thermal Management of AI Data Cen
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.00883v1 [high] — Tail Risk Management with Puts and Trend Following
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.01377v1 [high] — Liquidity Premium and Investment Horizons
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.01521v1 [high] — Selling the Stock, Not the Cream: The Soviet Émigr
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.07609v1 [high] — Bayesian spatial modelling framework for assessing
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.08500v2 [high] — Estimating the Stochastic Discount Factor from Opt
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.12156v1 [high] — (Early) AI Compute Asset Pricing
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.13230v1 [high] — AI-Native Insurance for Agentic AI: Pricing, Under
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.13744v1 [high] — Contracting for Long-Duration Energy Storage in In
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.17502v1 [high] — Mean-field equilibrium price formation under singl
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.25623v1 [high] — Can a small additional claim lower the premium? Cr
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26327v2 [high] — The Last Costly Signal: How Generative AI Collapse
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.23007v1 [high] — MadEvolve: Evolutionary Optimization of Trading Sy
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.25958v1 [high] — PolyGnosis 2.0: Enhancing LLM Reasoning via Agenti
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.28359v1 [high] — From Knowing to Doing: A Memory-Controlled Benchma
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.28384v1 [high] — Meta-Attention: Bayesian Per-Token Routing for Eff
+- **2026-08-01 19:39** paper_watcher: 新内容 2605.30643v1 [high] — Quality-Adjusted Hit-Ratio Targeting in Corporate 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.04301v1 [high] — XSSR: Cross-Domain Self-Supervised Representative 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.12679v1 [high] — Fed-FBD: Federated Functional Block Diversificatio
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.13338v1 [high] — Navigating the Safety-Fidelity Trade-off: Massive-
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.13419v1 [high] — Realtime price impact detection
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.17998v1 [high] — AIGS-Net: Compact Illumination Field Modeling via 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.27280v1 [high] — Exact and Deterministic Patch Descriptor Retrieval
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.29194v1 [high] — AI Trading's Alpha Singularity: Emergent Market Re
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.29771v1 [high] — CLQT: A Closed-Loop, Cost-Aware, Strategy-Consiste
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.30997v3 [high] — A Three-Phase Foundation Model for Tax-Aware Perso
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.31387v2 [high] — Signature-Based Optimal Execution for Statistical 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.07543v1 [high] — Equivalence testing in pesticide risk assessment -
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.08332v2 [high] — XALPHA: A Memory-Driven AI Quant Researcher for Hy
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.16028v1 [high] — CLaC@FinMMEval 2026 Task 3: Sentiment-Augmented De
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.19497v1 [high] — The Science and Practice of Trend-Following System
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.16680v1 [high] — Specification-Driven Development as the Foundation
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.16687v1 [high] — Beyond Visibility and Technical Reuse: Public Appl
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.17784v1 [high] — Online Scheduling with a Stochastic Signal
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.17993v1 [high] — System-Level Evaluation of LEO Satellite Communica
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.18147v1 [high] — LLMs and Agentic AI Systems for Smart Grids: A Tut
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.18559v1 [high] — Mixing-Free and Signal-Optimal Learning of Gaussia
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.20216v1 [high] — Small, Free, and Effective: Orchestrating Open-Wei
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.20773v1 [high] — HARP: The Human--AI Research Platform
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21760v1 [high] — Bespoke Visual Assistance: What and How do Blind a
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.21946v1 [high] — Multi-Agent Debate and Visual Information Extracti
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.22773v1 [high] — Metric Surface Reconstruction of Neurosurgical Sce
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.22168v1 [high] — Integrating Energy Efficiency into Software Develo
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.23319v1 [high] — BHARATI: Morphology-Aware Tokenizers for Classical
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.23365v1 [high] — On AI Safety and Security Technical Debt in Engine
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24111v1 [high] — PPanGGOLiN V2: technical enhancement and extended 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24151v1 [high] — Domain-Specific Data Quality Analysis Using Techno
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24245v1 [high] — A Model-Driven Pipeline for Data Quality Specifica
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26246v1 [high] — Weak-to-Strong On-Policy Distillation
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26692v1 [high] — Multi-scale radiomics in pelvic MRI for endometrio
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.27955v1 [high] — SciSchema.org: A Multidisciplinary Collection of S
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.10098v1 [high] — VQA for Dynamic Portfolio Optimization: Sampling S
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.13822v1 [high] — Price-Discovery Admissibility in Tokenized Fixed I
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.14386v1 [high] — Discovery under Hypothesis Redundancy: A Geometric
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.17192v1 [high] — Constrained Diffusion Models with Primal-Dual Infe
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.18545v1 [high] — The Gini-Bayes Connection: The CAP Slope as Bayes'
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.19550v1 [high] — Which Portfolios? The Construction Dependence of F
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.22162v2 [high] — Temporal Coarse-Graining of Multi-Sector Default C
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.22719v1 [high] — Leakage-Aware Benchmarking of LLM Forecasting: Rea
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.26815v1 [high] — Data-Driven Duration Management -- Term Structure 
+- **2026-08-01 19:39** paper_watcher: 新内容 2606.29290v1 [high] — Supply Chain Propagation of Textual Signals: LLM E
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.00227v1 [high] — Implementation Filters and Delay-Budget Instabilit
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.01705v1 [high] — Portfolio Optimization under Fast and Slow Latent 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.03858v1 [high] — A Spectral Generalisation of the Variance Ratio: E
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.07465v1 [high] — Innovating Risk Modelling for Global Funds
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.14174v1 [high] — How Much of a 10-K Matters? Aggregation-Dependent 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.18001v1 [high] — AlphaZeroBeta: Deep Reinforcement Learning for Mar
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.19005v2 [high] — Observable Matrix Dynamics of Stocks
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24410v1 [high] — The Fundamental Structure of Risk: From Characteri
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.24518v1 [high] — Low-Rank Dependence Decomposition via Accelerated 
+- **2026-08-01 19:39** paper_watcher: 新内容 2607.26642v1 [high] — AlphaSchema: Exploring the Space of Trading Semant
+- **2026-08-01 14:18** paper_watcher: 新内容 2512.04697 [medium] — Continuous-time reinforcement learning for optimal
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.25199 [medium] — RIDGE: An Autonomous Framework for Validation and 
+- **2026-08-01 14:18** paper_watcher: 新内容 2606.31475 [medium] — Real-time identification of the onset of financial
+- **2026-08-01 14:18** paper_watcher: 新内容 2601.17247 [high] — Learning Market Making with Closing Auctions
+- **2026-08-01 14:18** paper_watcher: 新内容 2509.10351 [medium] — The Interplay between Utility and Risk in Portfoli
+- **2026-08-01 14:18** paper_watcher: 新内容 2506.02869 [medium] — Optimal Dynamic Fees in Automated Market Makers
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.28577 [high] — Train Often, Deploy Selectively: Forward-Gated Mod
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.28410 [medium] — Can Large Language Models Execute Parent Orders?
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.28127 [high] — FinSMART: Financial Sentiment Analysis for Algorit
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.27853 [medium] — FinanceHarness: Autonomous Financial Deep Research
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.28323 [high] — Optimal Execution with Passive Market Impact
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.27649 [low] — Multi-maturity consistency of option prices under 
+- **2026-08-01 14:18** paper_watcher: 新内容 2607.27461 [high] — Are Three Matrices All You Need To Beat the Market
 - **2026-07-29 19:39** paper_watcher: 新内容 2607.24818v1 [low] — Dual-Level Atomic and Coordination Geometry Learni
 - **2026-07-29 19:39** paper_watcher: 新内容 2607.25247v1 [low] — Prediction of experimental excited-state absorptio
 - **2026-07-29 19:39** paper_watcher: 新内容 2607.25353v1 [low] — How Likely and How Deep? Sharp Joint Bounds on Ris

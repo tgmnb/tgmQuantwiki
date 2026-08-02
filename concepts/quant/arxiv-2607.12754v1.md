@@ -1,9 +1,9 @@
 ---
 title: Twist Engineering for Reconfigurable Optical and Optoelectronic Devices
-created: 2026-07-15
-updated: 2026-07-15
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, strategy, 动量-趋势跟踪]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Twist Engineering for Reconfigurable Optical and Optoelectronic Devices]
 confidence: medium
 ---

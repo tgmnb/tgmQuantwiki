@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2604.19580v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [集成方法, factor, quant, strategy]
-sources: [raw/articles/2604.19580v1.md]
+tags: [factor, strategy, quant, 集成方法]
+sources: [Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy]
 confidence: medium
 ---
 

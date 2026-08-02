@@ -1,9 +1,9 @@
 ---
 title: Macro-aware time series forecasting via hierarchical mixed-frequency attention models
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, transformer-llm, strategy, 神经网络-dl, quant]
+tags: [神经网络-dl, transformer-llm, strategy, quant, factor]
 sources: [Macro-aware time series forecasting via hierarchical mixed-frequency attention models]
 confidence: medium
 ---

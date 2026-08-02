@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2604.21581v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: Pricing and Hedging Financial Derivatives in Merger\&Acquisition Deals with Price Impact
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, strategy]
-sources: [raw/articles/2604.21581v1.md]
+tags: [factor, strategy, quant, 执行-做市]
+sources: [Pricing and Hedging Financial Derivatives in Merger\&Acquisition Deals with Price Impact]
 confidence: medium
 ---
 

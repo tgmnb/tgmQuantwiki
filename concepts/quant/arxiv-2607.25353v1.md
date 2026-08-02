@@ -1,9 +1,9 @@
 ---
 title: How Likely and How Deep? Sharp Joint Bounds on Risk-Neutral Crash Probability and Conditional Depth from Option Bid-Ask Quotes
-created: 2026-07-29
-updated: 2026-07-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 配对-套利]
+tags: [factor, 配对-套利, strategy, quant]
 sources: [How Likely and How Deep? Sharp Joint Bounds on Risk-Neutral Crash Probability and Conditional Depth from Option Bid-Ask Quotes]
 confidence: medium
 ---

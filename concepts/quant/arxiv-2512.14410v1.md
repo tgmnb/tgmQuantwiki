@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2512.14410v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: Pattern Recognition of Aluminium Arbitrage in Global Trade Data
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, strategy]
-sources: [raw/articles/2512.14410v1.md]
+tags: [factor, strategy, quant, 执行-做市]
+sources: [Pattern Recognition of Aluminium Arbitrage in Global Trade Data]
 confidence: medium
 ---
 

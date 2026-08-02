@@ -1,9 +1,9 @@
 ---
 title: Tracking Brazil's Real Neutral Rate: A Multi-Block Ensemble Framework Combining Statistical Trends, Market Prices, and State-Space Models
-created: 2026-06-19
-updated: 2026-06-19
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 集成方法]
+tags: [factor, strategy, quant, 集成方法]
 sources: [Tracking Brazil's Real Neutral Rate: A Multi-Block Ensemble Framework Combining Statistical Trends, Market Prices, and State-Space Models]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Surface Functionalization Enables Two-Dimensional Altermagnetism and Giant Tunnel Magnetoresistance
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, strategy, quant, 动量-趋势跟踪, 集成方法]
+tags: [动量-趋势跟踪, 执行-做市, 集成方法, strategy, quant, factor]
 sources: [Surface Functionalization Enables Two-Dimensional Altermagnetism and Giant Tunnel Magnetoresistance]
 confidence: medium
 ---

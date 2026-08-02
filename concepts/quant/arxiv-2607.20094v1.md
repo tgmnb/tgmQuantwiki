@@ -1,9 +1,9 @@
 ---
 title: Exact theory of chirality-dependent p-wave magnetism and Edelstein effect in spin spirals
-created: 2026-07-23
-updated: 2026-07-23
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 动量-趋势跟踪]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Exact theory of chirality-dependent p-wave magnetism and Edelstein effect in spin spirals]
 confidence: medium
 ---

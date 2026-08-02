@@ -1,9 +1,9 @@
 ---
 title: Data-Driven Duration Management -- Term Structure Forecasting Using Machine Learning
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 神经网络-dl, quant, strategy]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Data-Driven Duration Management -- Term Structure Forecasting Using Machine Learning]
 confidence: medium
 ---

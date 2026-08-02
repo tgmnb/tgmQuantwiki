@@ -1,9 +1,9 @@
 ---
 title: The Science and Practice of Trend-Following Systems
-created: 2026-07-23
-updated: 2026-07-23
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 动量-趋势跟踪, 均值回归]
+tags: [均值回归, 动量-趋势跟踪, strategy, quant, factor]
 sources: [The Science and Practice of Trend-Following Systems]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection
-created: 2026-06-29
-updated: 2026-06-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, quant, 强化学习-rl, strategy]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Mojo: A Promising Tool for Scalable Financial AI Efficiency
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 神经网络-dl]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Mojo: A Promising Tool for Scalable Financial AI Efficiency]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Light Dark Matter Discovery Potential and Model Selection at LDMX
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 动量-趋势跟踪, strategy, quant]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Light Dark Matter Discovery Potential and Model Selection at LDMX]
 confidence: medium
 ---

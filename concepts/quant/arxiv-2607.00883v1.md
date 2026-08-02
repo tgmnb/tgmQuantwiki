@@ -1,9 +1,9 @@
 ---
 title: Tail Risk Management with Puts and Trend Following: A CVaR Framework for Crashes and Drawdowns
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, factor, quant, 动量-趋势跟踪]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Tail Risk Management with Puts and Trend Following: A CVaR Framework for Crashes and Drawdowns]
 confidence: medium
 ---

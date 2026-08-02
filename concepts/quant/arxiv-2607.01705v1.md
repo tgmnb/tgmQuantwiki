@@ -1,9 +1,9 @@
 ---
 title: Portfolio Optimization under Fast and Slow Latent Mean-Reverting and Momentum Drift
-created: 2026-07-03
-updated: 2026-07-03
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, strategy, factor, 组合优化, 动量-趋势跟踪]
+tags: [动量-趋势跟踪, strategy, quant, factor, 组合优化]
 sources: [Portfolio Optimization under Fast and Slow Latent Mean-Reverting and Momentum Drift]
 confidence: medium
 ---

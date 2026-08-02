@@ -1,9 +1,9 @@
 ---
 title: Liquidity Premium and Investment Horizons
-created: 2026-07-03
-updated: 2026-07-03
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, quant, strategy, factor]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Liquidity Premium and Investment Horizons]
 confidence: medium
 ---

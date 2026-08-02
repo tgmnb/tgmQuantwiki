@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2601.08974v2.md
-created: 2026-05-01
-updated: 2026-05-01
+title: The drift burst hypothesis
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, strategy]
-sources: [raw/articles/2601.08974v2.md]
+tags: [factor, strategy, quant, 执行-做市]
+sources: [The drift burst hypothesis]
 confidence: medium
 ---
 

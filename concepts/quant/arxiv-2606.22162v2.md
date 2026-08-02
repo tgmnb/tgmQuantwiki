@@ -1,9 +1,9 @@
 ---
 title: Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas
-created: 2026-06-30
-updated: 2026-06-30
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [strategy, 集成方法, factor, quant]
+tags: [factor, strategy, quant, 集成方法]
 sources: [Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas]
 confidence: medium
 ---

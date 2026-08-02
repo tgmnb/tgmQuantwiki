@@ -1,9 +1,9 @@
 ---
 title: Phenomenological extraction of fragmentation functions in a $p\bar{p}$ environment
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 执行-做市, strategy, quant]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [Phenomenological extraction of fragmentation functions in a $p\bar{p}$ environment]
 confidence: medium
 ---

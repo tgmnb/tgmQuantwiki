@@ -1,9 +1,9 @@
 ---
 title: Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework
-created: 2026-07-14
-updated: 2026-07-14
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, 强化学习-rl, factor, strategy]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Trustworthy synthetic data for campaign decision support: strategy simulation fidelity and the PolicySynth framework]
 confidence: medium
 ---

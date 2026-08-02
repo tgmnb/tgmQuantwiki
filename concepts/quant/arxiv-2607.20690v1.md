@@ -1,9 +1,9 @@
 ---
 title: Learning to Detect UI Principle Violations via Reinforcement Learning
-created: 2026-07-24
-updated: 2026-07-24
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, strategy, factor, 强化学习-rl]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Learning to Detect UI Principle Violations via Reinforcement Learning]
 confidence: medium
 ---

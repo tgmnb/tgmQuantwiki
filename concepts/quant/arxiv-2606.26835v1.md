@@ -1,9 +1,9 @@
 ---
 title: A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, 集成方法, strategy]
+tags: [执行-做市, 集成方法, strategy, quant, factor]
 sources: [A sharp order-three obstruction to the aggregation of conditional price-of-risk attribution]
 confidence: medium
 ---

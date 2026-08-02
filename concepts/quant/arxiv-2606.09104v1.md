@@ -1,9 +1,9 @@
 ---
 title: Addressing Market Regime Changes and Heavy-Tailed Returns in Portfolio Optimization via Bayesian VAR and Elliptical Black-Litterman
-created: 2026-06-09
-updated: 2026-06-09
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [强化学习-rl, 集成方法, 组合优化, factor, strategy, quant]
+tags: [集成方法, strategy, quant, factor, 组合优化, 强化学习-rl]
 sources: [Addressing Market Regime Changes and Heavy-Tailed Returns in Portfolio Optimization via Bayesian VAR and Elliptical Black-Litterman]
 confidence: medium
 ---

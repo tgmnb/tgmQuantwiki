@@ -1,7 +1,7 @@
 ---
 title: Can Model Merging Improve Aggregation in DiLoCo?
-created: 2026-07-07
-updated: 2026-07-07
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
 tags: [factor, strategy, quant, 集成方法]
 sources: [Can Model Merging Improve Aggregation in DiLoCo?]

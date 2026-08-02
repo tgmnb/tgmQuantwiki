@@ -1,9 +1,9 @@
 ---
 title: Can a small additional claim lower the premium? Credibility orders for collective risk models
-created: 2026-07-29
-updated: 2026-07-29
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, 强化学习-rl, quant, strategy]
+tags: [执行-做市, strategy, quant, factor, 强化学习-rl]
 sources: [Can a small additional claim lower the premium? Credibility orders for collective risk models]
 confidence: medium
 ---

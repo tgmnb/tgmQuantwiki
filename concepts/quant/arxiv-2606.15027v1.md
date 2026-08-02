@@ -1,9 +1,9 @@
 ---
 title: A Predicate-Based Model for Computation over State Spaces
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, strategy, 执行-做市]
+tags: [factor, strategy, quant, 执行-做市]
 sources: [A Predicate-Based Model for Computation over State Spaces]
 confidence: medium
 ---

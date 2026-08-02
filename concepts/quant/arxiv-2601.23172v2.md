@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2601.23172v2.md
-created: 2026-05-01
-updated: 2026-05-01
+title: A unified theory of order flow, market impact, and volatility
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [执行-做市, factor, quant, strategy]
-sources: [raw/articles/2601.23172v2.md]
+tags: [factor, strategy, quant, 执行-做市]
+sources: [A unified theory of order flow, market impact, and volatility]
 confidence: medium
 ---
 

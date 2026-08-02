@@ -1,9 +1,9 @@
 ---
 title: Bayesian spatial modelling framework for assessing residential flood risk in property insurance
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, 集成方法, strategy, 强化学习-rl, quant]
+tags: [集成方法, strategy, quant, factor, 强化学习-rl]
 sources: [Bayesian spatial modelling framework for assessing residential flood risk in property insurance]
 confidence: medium
 ---

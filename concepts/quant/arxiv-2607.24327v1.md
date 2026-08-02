@@ -1,9 +1,9 @@
 ---
 title: Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, factor, strategy, quant]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies]
 confidence: medium
 ---

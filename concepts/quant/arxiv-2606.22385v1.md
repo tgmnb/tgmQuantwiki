@@ -1,9 +1,9 @@
 ---
 title: MetaPS: Adaptive Programmatic Strategy Selection for Market Agents
-created: 2026-06-23
-updated: 2026-06-23
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [均值回归, factor, quant, strategy, 动量-趋势跟踪]
+tags: [均值回归, 动量-趋势跟踪, strategy, quant, factor]
 sources: [MetaPS: Adaptive Programmatic Strategy Selection for Market Agents]
 confidence: medium
 ---

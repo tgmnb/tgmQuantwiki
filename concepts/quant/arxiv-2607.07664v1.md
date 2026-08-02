@@ -1,9 +1,9 @@
 ---
 title: Single inclusive hadron and jet production in lepton-hadron scattering
-created: 2026-07-09
-updated: 2026-07-09
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, factor, 动量-趋势跟踪, strategy]
+tags: [factor, strategy, quant, 动量-趋势跟踪]
 sources: [Single inclusive hadron and jet production in lepton-hadron scattering]
 confidence: medium
 ---

@@ -1,10 +1,10 @@
 ---
-title: raw/articles/2512.02037v1.md
-created: 2026-05-01
-updated: 2026-05-01
+title: Statistical Arbitrage in Polish Equities Market Using Deep Learning Techniques
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, 配对-套利, quant, strategy, factor, 均值回归]
-sources: [raw/articles/2512.02037v1.md]
+tags: [均值回归, 神经网络-dl, strategy, quant, 配对-套利, factor]
+sources: [Statistical Arbitrage in Polish Equities Market Using Deep Learning Techniques]
 confidence: medium
 ---
 

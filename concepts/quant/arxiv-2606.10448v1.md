@@ -1,9 +1,9 @@
 ---
 title: Mitigating Bias in Low-SNR Financial Reinforcement Learning via Quantum Representations
-created: 2026-06-10
-updated: 2026-06-10
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, strategy, 强化学习-rl, quant]
+tags: [factor, strategy, quant, 强化学习-rl]
 sources: [Mitigating Bias in Low-SNR Financial Reinforcement Learning via Quantum Representations]
 confidence: medium
 ---

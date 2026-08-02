@@ -1,9 +1,9 @@
 ---
 title: Memory, Roughness, and Information Persistence in Financial Markets: A Structural Approach to Volatility Forecasting
-created: 2026-05-30
-updated: 2026-05-30
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [quant, 线性模型, 集成方法, strategy, factor]
+tags: [线性模型, 集成方法, strategy, quant, factor]
 sources: [Memory, Roughness, and Information Persistence in Financial Markets: A Structural Approach to Volatility Forecasting]
 confidence: medium
 ---

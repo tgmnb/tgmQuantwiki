@@ -1,9 +1,9 @@
 ---
 title: AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [因子投资, 集成方法, 强化学习-rl, strategy, quant, factor]
+tags: [集成方法, 因子投资, strategy, quant, factor, 强化学习-rl]
 sources: [AlphaZeroBeta: Deep Reinforcement Learning for Market-Neutral Portfolios]
 confidence: medium
 ---

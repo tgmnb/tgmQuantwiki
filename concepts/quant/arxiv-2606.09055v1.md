@@ -1,9 +1,9 @@
 ---
 title: Particle Methods with Deep Learning for Stochastic Control under Partial Observation
-created: 2026-06-09
-updated: 2026-06-09
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [神经网络-dl, quant, factor, strategy]
+tags: [factor, strategy, quant, 神经网络-dl]
 sources: [Particle Methods with Deep Learning for Stochastic Control under Partial Observation]
 confidence: medium
 ---

@@ -1,9 +1,9 @@
 ---
 title: Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets
-created: 2026-06-25
-updated: 2026-06-25
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, strategy, quant, 配对-套利]
+tags: [factor, 配对-套利, strategy, quant]
 sources: [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets]
 confidence: medium
 ---

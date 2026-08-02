@@ -1,9 +1,9 @@
 ---
 title: VQA for Dynamic Portfolio Optimization: Sampling Strategies, Optimizer Scheduling, and Hardware-Aware Ansatz Design
-created: 2026-06-10
-updated: 2026-06-10
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [factor, strategy, 组合优化, quant]
+tags: [factor, strategy, quant, 组合优化]
 sources: [VQA for Dynamic Portfolio Optimization: Sampling Strategies, Optimizer Scheduling, and Hardware-Aware Ansatz Design]
 confidence: medium
 ---

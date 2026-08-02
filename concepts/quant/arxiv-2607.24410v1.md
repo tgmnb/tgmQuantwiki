@@ -1,9 +1,9 @@
 ---
 title: The Fundamental Structure of Risk: From Characteristics to Covariance
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-01
+updated: 2026-08-01
 type: concept
-tags: [因子投资, factor, strategy, quant]
+tags: [factor, 因子投资, strategy, quant]
 sources: [The Fundamental Structure of Risk: From Characteristics to Covariance]
 confidence: medium
 ---
