@@ -1,5 +1,8 @@
 # Wiki Log
 
+- **2026-08-02 19:44** paper_watcher: 新内容 2607.27544v1 [人工补写] — Lucky or Good? Outcome Noise, Effective Sample Siz
+- **2026-08-02 19:44** paper_watcher: 新内容 2607.28230v1 [人工补写] — Boundary-Induced Apparent Risk Aversion in Nonergo
+- **2026-08-02 19:44** paper_watcher: 新内容 2607.28215v1 [人工补写] — Almost stochastic dominance via optimal transport
 - **2026-08-01 19:39** paper_watcher: 新内容 2607.24150v1 [low] — Approximation of stochastic insurer balance-sheet 
 - **2026-08-01 19:39** paper_watcher: 新内容 2607.24327v1 [low] — Aligning Heterogeneous DFT Datasets: A Graph Neura
 - **2026-08-01 19:39** paper_watcher: 新内容 2607.25247v1 [low] — Prediction of experimental excited-state absorptio
