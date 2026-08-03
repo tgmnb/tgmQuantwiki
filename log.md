@@ -1,5 +1,17 @@
 # Wiki Log
 
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.28847v1 [low] — Effort-Centric Fairness in Lending Decisions
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29220v1 [low] — Decoupled Probabilistic Forecasting and Arbitrage-
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29068v1 [low] — Critical Flicker Fusion Frequency As A Falsifiable
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29246v1 [low] — Don't Mix Rewards, Mix Policies: Policy Decomposit
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29559v1 [low] — LEMUR: Learning to Align with Multi-Objective Rein
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29577v1 [low] — DungeonBench: A Benchmark for Rules-Rich Tactical 
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29637v1 [low] — CodeShrink: Adaptive Visual Compression for Effici
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29088v1 [medium] — Learning transferable event representations for ch
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29224v1 [medium] — A global mass-preserving numerical method for low-
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29298v1 [medium] — Local Well-Posedness for a Diffuse Interface Model
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.28798v1 [high] — Occupational Convergence or Divergence? Mapping La
+- **2026-08-03 19:38** paper_watcher: 新内容 2607.29266v1 [high] — OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework
 - **2026-08-02 19:44** paper_watcher: 新内容 2607.27544v1 [人工补写] — Lucky or Good? Outcome Noise, Effective Sample Siz
 - **2026-08-02 19:44** paper_watcher: 新内容 2607.28230v1 [人工补写] — Boundary-Induced Apparent Risk Aversion in Nonergo
 - **2026-08-02 19:44** paper_watcher: 新内容 2607.28215v1 [人工补写] — Almost stochastic dominance via optimal transport
