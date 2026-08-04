@@ -1,5 +1,35 @@
 # Wiki Log
 
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00419v1 [low] — Unleashing the Potential of Large Language Models:
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00566v1 [low] — Crushing the Evidence: A Dual-Penalty Evasion Fram
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00666v1 [low] — Executable Arbitrage and Market Efficiency in Pred
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00673v1 [low] — A plausible Parametrization of Modal Basis for Dyn
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00988v1 [low] — Exactly solvable model for the diffusive price-dyn
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01025v1 [low] — Call Window Scheduling for Freight Rail Engineers
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01431v1 [low] — PolymerGPT: Multi-property Optimization with a Dec
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01494v1 [low] — Conformal Kelly: Conformal Prediction Intervals as
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01924v1 [low] — TransNRank: Towards Accurate Neoantigen Ranking wi
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02372v1 [low] — PredAct-Bench: Benchmarking Tool-Augmented Dialogu
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02424v1 [low] — In-Network Market Prediction Using Machine Learnin
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00127v1 [low] — Drawdown Risk Beyond Brownian Motion: A Monte-Carl
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00146v1 [low] — DiffusionGemma Technical Report
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00335v1 [low] — RMSWeb: Reflection, Failure-Mode Mining, and Salva
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01208v1 [low] — Climate-Dyna Deep Hedging for XVAs: Model-Based Re
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01668v1 [low] — LEO-Aware DRL Meta-Scheduler for 5G Non-Terrestria
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02391v1 [low] — Cooperative Coevolution for Resource-Constrained A
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00885v1 [medium] — Optimal Trading of Microstructure Mean Reversion
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01989v1 [medium] — Coarse-Graining and the Classification of Long-Ran
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02293v1 [medium] — Dynamic Traffic Allocation for Revenue Maximizatio
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02502v1 [medium] — CMuon: Accelerating and Stabilizing Diffusion Tran
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01554v1 [high] — P-Bubbles, Q-Bubbles, and Risk Premia
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01789v1 [high] — Towards Autonomous Formulaic Alpha Discovery: An E
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00371v1 [high] — Decoding Children's Gait Behavior
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00672v1 [high] — From Chasing Ghosts to Missed Attacks: Perspective
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00764v1 [high] — FinDeepIndicator: Benchmarking Deep Research Agent
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01533v1 [high] — Algorithm-driven Development: A Proactive Approach
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.01705v1 [high] — Rethinking Generative AI Literacy: An Integrative,
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.02467v1 [high] — Dynamic Modeling of Target Cell Location for Mobil
+- **2026-08-04 19:42** paper_watcher: 新内容 2608.00761v1 [high] — AI and Exchange Rate Predictability
 - **2026-08-03 19:38** paper_watcher: 新内容 2607.28847v1 [low] — Effort-Centric Fairness in Lending Decisions
 - **2026-08-03 19:38** paper_watcher: 新内容 2607.29220v1 [low] — Decoupled Probabilistic Forecasting and Arbitrage-
 - **2026-08-03 19:38** paper_watcher: 新内容 2607.29068v1 [low] — Critical Flicker Fusion Frequency As A Falsifiable
