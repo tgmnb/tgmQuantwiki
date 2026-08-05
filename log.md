@@ -1,5 +1,16 @@
 # Wiki Log
 
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.02651v1 [low] — Delegated Monitoring in Public-Private Sector Cred
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.02828v1 [low] — Proper-score observation-driven filters: local geo
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03259v1 [low] — FinVerse: Financial Time-Series Benchmark
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03409v1 [low] — Hierarchical Constrained Reinforcement Learning wi
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03616v1 [low] — Measuring the engine of a liquidation cascade: sub
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03715v1 [low] — Amortized Interventional Forecasting for Multivari
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03926v1 [low] — PRISM: Powerful Time Series to Image (TS2I) Repres
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03041v1 [low] — PLAN: Parallel Liquid-Inspired Approximation Netwo
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03048v1 [low] — PI-Mem: Pushing Long-Context Reasoning to 3.6M Tok
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03462v1 [high] — When AI Joins the Team! A Model of How AI Adoption
+- **2026-08-05 19:39** paper_watcher: 新内容 2608.03526v1 [high] — Spectral and Pseudospectral Approximation of Finit
 - **2026-08-04 19:42** paper_watcher: 新内容 2608.00419v1 [low] — Unleashing the Potential of Large Language Models:
 - **2026-08-04 19:42** paper_watcher: 新内容 2608.00566v1 [low] — Crushing the Evidence: A Dual-Penalty Evasion Fram
 - **2026-08-04 19:42** paper_watcher: 新内容 2608.00666v1 [low] — Executable Arbitrage and Market Efficiency in Pred
