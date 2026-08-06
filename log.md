@@ -1,5 +1,24 @@
 # Wiki Log
 
+- **2026-08-06 19:40** paper_watcher（人工补写）: 新内容 2608.04987v1 [high] — Portfolio Allocation under Heterogeneous Scales and Multifractality
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04200v1 [low] — From Financial Sentiment Classification to Return 
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04373v1 [low] — Public Trader Identity: Adverse Selection and Retu
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04464v1 [low] — Trie-Constrained Token Prediction with Hierarchy-A
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04529v1 [low] — Low-rank and graphon limits for dynamic threshold 
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04708v1 [low] — Benchmarking Multi-fidelity Neural Operators on Co
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.05120v1 [low] — DASyR-LLM: Domain-Aware Symbolic Regression with L
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04588v1 [low] — EASy: Towards Efficient LLM-Based Agentic System
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04698v1 [low] — Teaching MLLMs to Say No: Generalized Referring Ex
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04999v1 [low] — ORACLE: A Multi-Objective Reinforcement Learning-B
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04596v1 [medium] — Sun-Facing Diffractive Sail H-Reversal Trajectory:
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04137v1 [high] — An Approach for Embedding-Guided Function Reuse De
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04293v1 [high] — LEGOUI: Designing with UI-DSL Bricks to Balance Tr
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04352v1 [high] — Large-Scale Analysis of Discussions by CS Educator
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04375v1 [high] — Large Language Models and Social Media Information
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04783v1 [high] — RepoProbe: Benchmarking Architecture-Aware Reposit
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04907v1 [high] — LLM-Assisted Detection and Repair of Hardware Secu
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04911v1 [high] — Predicting Plasticity in Two-Dimensional Foam Chan
+- **2026-08-06 19:38** paper_watcher: 新内容 2608.04469v1 [high] — Generalized Impulse Responses of Portfolio Default
 - **2026-08-05 19:39** paper_watcher: 新内容 2608.02651v1 [low] — Delegated Monitoring in Public-Private Sector Cred
 - **2026-08-05 19:39** paper_watcher: 新内容 2608.02828v1 [low] — Proper-score observation-driven filters: local geo
 - **2026-08-05 19:39** paper_watcher: 新内容 2608.03259v1 [low] — FinVerse: Financial Time-Series Benchmark
