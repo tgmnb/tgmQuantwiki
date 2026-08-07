@@ -1,5 +1,22 @@
 # Wiki Log
 
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05367v1 [low] — Counterfactual Analysis via Large Language Models
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05437v1 [low] — Discrete energy as an exact label-free training ob
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05551v1 [low] — Variable-Horizon Workforce Demand Forecasting with
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05702v1 [low] — SEAM: Global consistency beyond local accuracy in 
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05761v1 [low] — Accelerating nanodrug development in continuous fl
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05881v1 [low] — Accurate simulation of delamination with a resin-r
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05925v1 [low] — Local-Global Feature Mixer and Trend-Guided Consis
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.06137v1 [low] — SkillTFM: Gated Skill Evolution for Training-Free 
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05255v1 [low] — An Emerging Retail Portfolio Management Applicatio
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05323v1 [medium] — Search for resonant production of lepton-enriched 
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05502v1 [medium] — An Inertial Block Proximal Linearized Method with 
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05708v1 [medium] — Three-baryon femtoscopy as an effective 3$\rightar
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05614v1 [high] — Toward Resilient Human-AI Collaboration: A Lifecyc
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.06246v1 [high] — A Six-Dimensional Taxonomy of Post-Training Adapta
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.06250v1 [high] — Minimax Optimal Early-Stopped Gradient Descent for
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05198v1 [high] — The Mathematics of Volatility Surfaces
+- **2026-08-07 19:38** paper_watcher: 新内容 2608.05755v1 [high] — Cross-Sectional Heterogeneity in LSTM Networks for
 - **2026-08-06 19:40** paper_watcher（人工补写）: 新内容 2608.04987v1 [high] — Portfolio Allocation under Heterogeneous Scales and Multifractality
 - **2026-08-06 19:38** paper_watcher: 新内容 2608.04200v1 [low] — From Financial Sentiment Classification to Return 
 - **2026-08-06 19:38** paper_watcher: 新内容 2608.04373v1 [low] — Public Trader Identity: Adverse Selection and Retu
