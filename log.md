@@ -1,5 +1,10 @@
 # Wiki Log
 
+- **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2606.10337v1 [high] — Optimal exit strategies of CPT gamblers in unfair gambles
+- **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05901v1 [medium] — From Value Bounds to Policy-Distance and Active-Face Certificates: Same-Grid Duality for Constrained Dynamic Portfolios
+- **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05991v1 [high] — Knowledge-Optimising Investment Decisions with Informative Datasets
+- **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05373v1 [medium] — Velocity- and Regime-Aware Detection of Intraday Options Market Manipulation, with Explainable Attribution
+- **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05357v1 [high] — High-Frequency Exponential-Utility Maximization under Fractional Brownian Motion
 - **2026-08-07 19:38** paper_watcher: 新内容 2608.05367v1 [low] — Counterfactual Analysis via Large Language Models
 - **2026-08-07 19:38** paper_watcher: 新内容 2608.05437v1 [low] — Discrete energy as an exact label-free training ob
 - **2026-08-07 19:38** paper_watcher: 新内容 2608.05551v1 [low] — Variable-Horizon Workforce Demand Forecasting with
