@@ -1,5 +1,16 @@
 # Wiki Log
 
+- **2026-08-10 19:41** paper_watcher（人工补写）: 新内容 2608.07251v1 [medium] — Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty
+- **2026-08-10 19:41** paper_watcher（人工补写）: 新内容 2608.07032v1 [high] — Certified High-Dimensional Wasserstein Robust Portfolio Optimization
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.07132v1 [low] — Tabular Image: a method to convert tabular data to
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.06445v1 [low] — Game-Theoretic Inverse Reinforcement Learning for 
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.06526v1 [low] — GRASP: Reinforcing Language Model Anonymizers with
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.07180v1 [low] — Momba: Network Modernization Improves Multi-Object
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.06452v1 [medium] — Logarithmic Wavelets for Dark Matter--Phonon Scatt
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.06510v1 [high] — Agentic AI: User Empowerment or Enclosure?
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.07304v1 [high] — The Token Efficiency Index: A Peer-Benchmarked Com
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.07446v1 [high] — Taxonomy-Driven Analysis of Open-Source AI Risk Mi
+- **2026-08-10 19:39** paper_watcher: 新内容 2608.06618v1 [high] — Beyond Co-Movement: Locality by Exposures Enables 
 - **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2606.10337v1 [high] — Optimal exit strategies of CPT gamblers in unfair gambles
 - **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05901v1 [medium] — From Value Bounds to Policy-Distance and Active-Face Certificates: Same-Grid Duality for Constrained Dynamic Portfolios
 - **2026-08-08 19:49** paper_watcher（人工补写）: 新内容 2608.05991v1 [high] — Knowledge-Optimising Investment Decisions with Informative Datasets
