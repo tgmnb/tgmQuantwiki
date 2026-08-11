@@ -1,5 +1,43 @@
 # Wiki Log
 
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.09378v1 [low] — Scaling laws of Stablecoin Transactions: Evidence from USDT and USDC on the Ethereum blockchain
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.08299v1 [low] — Non-linear optimal stopping with Bermudan strategies: the infinite horizon case
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.09188v1 [medium] — When Cross-Venue Agreement Is Not Price Discovery: Disclosure Frontiers for 24/7 Equity-Perpetual Oracles
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.08634v1 [medium] — Can Open-Weight Models Compete on Financial Text Comprehension?
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.07536v1 [medium] — Yield Curve Prediction with Machine Learning: Forecasting Approaches and the Role of Macroeconomic Predictors
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.07709v1 [medium] — Microstructural Foundation for the Rough Hawkes--Heston Model
+- **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.07690v1 [medium] — On a Simple Relationship Between Order Imbalance, Skew and Width in Over-The-Counter Trading
+- **2026-08-11 19:40** paper_watcher（人工补写）: 新内容 2608.08405v1 [high] — Robustness or Crowding: Experimental Design for Trading Strategy Capacity
+- **2026-08-11 19:40** paper_watcher（人工补写）: 新内容 2607.27019v1 [high] — Multi-Asset Liquidation in Dark Pools with Adverse Selection
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07591v1 [low] — Zero-Trust Federated Learning for Connected Afterm
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08197v1 [low] — Self-Explaining Segment Trees: A KPI-Conditioned S
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08625v1 [low] — Retained hidden excess generates memory in price-l
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08825v1 [low] — Hybrid Neural-Classical Correction for Frozen Time
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08967v1 [low] — Automated generation of experimentally validated d
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09433v1 [low] — How Simple Can It Get? From Interpretable Equation
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09576v1 [low] — Anomaly detection in European cryptocurrency excha
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09641v1 [low] — Lower spectrum of financial correlation matrices: 
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07977v1 [low] — A Computable Stochastic Riccati Equations Framewor
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07686v1 [low] — Emergent Problem-Graph Alignment in RL-Discovered 
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08086v1 [low] — Archer: Adaptive Reuse of Cached Hidden States for
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08804v1 [low] — ML-Based Hierarchical Prediction for Practical Ene
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09290v1 [low] — OpenCodeReview: Determinism over Non-Determinism f
+- **2026-08-11 19:38** paper_watcher: 新内容 2603.20175v3 [medium] — Just-in-Time Resale in an Ahead-of-Time Auction fo
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08664v1 [medium] — FiRe: Fixed-Noise Refinement for Visual Counterfac
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09118v1 [medium] — 3D Modeling of a Tethered Autogyro with Articulate
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09859v1 [high] — Nash Peer-to-Peer Insurance Bargaining under Price
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.06928v2 [high] — From Classification to Recommendation: Empirical A
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07635v1 [high] — SurroPilot: An LLM-Assisted Platform for Heterogen
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07705v1 [high] — Protecting patient privacy in clinical foundation 
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.07830v1 [high] — Hardware is an AI Ethics Problem: Expert Visions f
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08601v1 [high] — Unaccountable Delegation, Fading Skills: Mapping t
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08662v1 [high] — Kernel Methods for Refined Prophet Inequalities
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.08915v1 [high] — Investigating Multimodal Informativity under Diffe
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09230v1 [high] — SafeSceneReason: A Multimodal Reasoning Benchmark 
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09374v1 [high] — CircuitReason-1k: Benchmarking Long-Horizon Visual
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09717v1 [high] — How Do Large Language Models Judge Social Attracti
+- **2026-08-11 19:38** paper_watcher: 新内容 2607.27019v2 [high] — Multi-Asset Liquidation in Dark Pools with Adverse
+- **2026-08-11 19:38** paper_watcher: 新内容 2608.09441v1 [high] — From Rating Factors to Crash Mechanisms: A Multisc
 - **2026-08-10 19:41** paper_watcher（人工补写）: 新内容 2608.07251v1 [medium] — Reading Copom's Tone: A Weighted LLM Framework for Hawkish-Dovish Sentiment, Forward Guidance, and Uncertainty
 - **2026-08-10 19:41** paper_watcher（人工补写）: 新内容 2608.07032v1 [high] — Certified High-Dimensional Wasserstein Robust Portfolio Optimization
 - **2026-08-10 19:39** paper_watcher: 新内容 2608.07132v1 [low] — Tabular Image: a method to convert tabular data to
