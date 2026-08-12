@@ -1,5 +1,20 @@
 # Wiki Log
 
+- **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10321v1 [medium] — Multi-Credit Calibration via Elastically Stopped Lévy Processes
+- **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10788v1 [medium] — The Triadic Stress Index in Financial Markets
+- **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10852v1 [medium] — Universality and Heterogeneity of Stylized Facts in Cryptocurrency and Equity Markets
+- **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10711v1 [medium] — Optimal Pricing and Hedging of SOFR Derivatives
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10234v1 [low] — The Kuramoto Neural Operator: Learning to Solve PD
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10693v1 [low] — When the Fed Speaks: Dynamics and Forecasts of the
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10056v1 [low] — Navigating the Proximity-Safety Balance: Constrain
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10207v1 [low] — Mitigating Bus Bunching with Reinforcement Learnin
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10386v1 [low] — Dreamer-SAC: Off-Policy Learning in Latent World M
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10533v1 [low] — An Asynchronous Triggered MAC Protocol for Underwa
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.09988v1 [high] — OpenPM: Auditable Point-in-Time Evaluation for LLM
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10454v1 [high] — Nuclear fusion for AI: A pathway to power data cen
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10508v1 [high] — Benchmark measurements of absolute frequencies and
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10774v1 [high] — A Graph Approach to the Academic Publishing Networ
+- **2026-08-12 19:38** paper_watcher: 新内容 2608.10410v1 [high] — Objective-oriented quantitative investment: A spec
 - **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.09378v1 [low] — Scaling laws of Stablecoin Transactions: Evidence from USDT and USDC on the Ethereum blockchain
 - **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.08299v1 [low] — Non-linear optimal stopping with Bermudan strategies: the infinite horizon case
 - **2026-08-11 19:41** paper_watcher（人工补写）: 新内容 2608.09188v1 [medium] — When Cross-Venue Agreement Is Not Price Discovery: Disclosure Frontiers for 24/7 Equity-Perpetual Oracles
