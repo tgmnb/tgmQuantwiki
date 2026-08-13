@@ -1,5 +1,22 @@
 # Wiki Log
 
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11327v1 [low] — Long-Horizon Forecasting of Complete Financial Sta
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11447v1 [low] — Predicting Mechanical Properties of Lignin-Contain
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11868v1 [low] — Forward and Inverse Virtual Metrology for Phototra
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11912v1 [low] — Comparative Analysis of Low-Rank Adaptation in Lar
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11950v1 [low] — An improved bond-associated peridynamic model and 
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12251v1 [low] — Regime-Gated Residual Mixture-of-Experts for Cross
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12259v1 [low] — Calibration Bets on the Past: Post-Training Quanti
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11715v1 [low] — When the API Speaks the Wrong Language: Revisiting
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12256v1 [low] — SelectLight: Learning to Select Signal Plans Gener
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11252v1 [medium] — Local verification cannot detect non-transportabil
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11812v1 [medium] — Data-Efficient Adaptation of DPA-4 Force Fields to
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11612v1 [medium] — Dion3: Full-Stack Orthogonal Updates
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12066v1 [medium] — Real-time topological rate at non-zero momentum in
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12283v1 [high] — Large Language Model-Driven Small-Capitalization T
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11512v1 [high] — Cheap, Fallible Cognition and the Political Econom
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.12304v1 [high] — Constructing Dynamic Master Logic Models as Knowle
+- **2026-08-13 19:41** paper_watcher: 新内容 2608.11250v1 [high] — AgonAlpha: Autonomous Alpha Discovery via Prompt E
 - **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10321v1 [medium] — Multi-Credit Calibration via Elastically Stopped Lévy Processes
 - **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10788v1 [medium] — The Triadic Stress Index in Financial Markets
 - **2026-08-12 19:39** paper_watcher（人工补写）: 新内容 2608.10852v1 [medium] — Universality and Heterogeneity of Stylized Facts in Cryptocurrency and Equity Markets
