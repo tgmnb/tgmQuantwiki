@@ -1,5 +1,21 @@
 # Wiki Log
 
+- **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12594v1 [medium] — What Makes a Peer? Valuation-Anchored Similarity in Private Markets
+- **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12777v1 [medium] — Physical Extinction and Long-Run Pricing under Time-Varying Beliefs
+- **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2607.10700v1 [medium] — An Extreme Value Perspective on Learning Stress Laws
+- **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.13056v1 [medium] — Simulating Stress Laws under Extremal Dependence: Characterizing What Generative Models Must Preserve
+- **2026-08-14 19:40** paper_watcher（人工补写）: 新内容 2608.13082v1 [medium] — LOB-ID: Evaluating Synthetic Market Data by Inception Distances
+- **2026-08-14 19:40** paper_watcher（人工补写）: 新内容 2608.13096v1 [high] — FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching
+- **2026-08-14 19:40** paper_watcher（人工补写）: 新内容 2608.12587v1 [high] — DYSANOS Generative Dynamic Smooth Arbitrage-free Non-parametric Option Surfaces
+- **2026-08-14 19:40** paper_watcher（人工补写）: 新内容 2608.12583v1 [high] — Diffusion Models in Finance: A Survey
+- **2026-08-14 19:40** paper_watcher（人工补写）: 新内容 2608.12493v1 [high] — Beyond the Skew-Stickiness Ratio: Transport Geometry of Spot-Driven Variance Surface Dynamics
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.12424v1 [low] — AI-Driven Multiscenario Interest Rate Forecasting:
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.12535v1 [low] — GENADA: efficient generative time series adversari
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.13024v1 [low] — TIEM: Temporal Integration of Hypergraph Evidence 
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.13340v1 [low] — Fee Implied Volatility on Uniswap v3: A DEX Native
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.12781v1 [low] — Beyond Correctness: Benchmarking and Aligning Resp
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.12634v1 [high] — The Price of Permission: Classification Uncertaint
+- **2026-08-14 19:38** paper_watcher: 新内容 2608.13417v1 [high] — Beyond Final Scores: A Systematic Evaluation of Ag
 - **2026-08-13 19:41** paper_watcher: 新内容 2608.11327v1 [low] — Long-Horizon Forecasting of Complete Financial Sta
 - **2026-08-13 19:41** paper_watcher: 新内容 2608.11447v1 [low] — Predicting Mechanical Properties of Lignin-Contain
 - **2026-08-13 19:41** paper_watcher: 新内容 2608.11868v1 [low] — Forward and Inverse Virtual Metrology for Phototra
