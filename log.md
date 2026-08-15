@@ -1,5 +1,6 @@
 # Wiki Log
 
+- **2026-08-15 19:39** paper_watcher（人工补写）: 新内容 2606.29018v1 [high] — Liquidity-Based Audit of Algorithmic Trading Strategies
 - **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12594v1 [medium] — What Makes a Peer? Valuation-Anchored Similarity in Private Markets
 - **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12777v1 [medium] — Physical Extinction and Long-Run Pricing under Time-Varying Beliefs
 - **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2607.10700v1 [medium] — An Extreme Value Perspective on Learning Stress Laws
