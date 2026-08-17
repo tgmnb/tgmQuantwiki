@@ -1,5 +1,18 @@
 # Wiki Log
 
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13770v1 [low] — Rapid Kirigami Simulation using the Bar & Hinge Ap
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14063v1 [low] — Benchmarking data-driven material models on the cl
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14106v1 [low] — Forecast Collapse in Time-Series Foundation Models
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14323v1 [low] — Dependence-Informed Sparse Neural Architecture for
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14335v1 [low] — Multi-Agent Reinforcement Learning for Joint Hando
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13724v1 [high] — Architecture and Affordances of PLAUD: Performativ
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13730v1 [high] — Building AI-Intensive Software with AI: Early Resu
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13754v1 [high] — Explanation Multiplicity: Circuit-Level Interpreta
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13867v1 [high] — Engineering Reliable Coding Agents: Evaluating and
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13868v1 [high] — Exploring High-Bandwidth Flash for Modern LLM Infe
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14105v1 [high] — Benders Decomposition with Partial Non-Anticipativ
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.13913v1 [high] — AlphaSeek: Trajectory-Level Self-Iterative Factor 
+- **2026-08-17 19:38** paper_watcher: 新内容 2608.14134v1 [high] — Photonic Quantum Computing vs. Classical Solvers i
 - **2026-08-15 19:39** paper_watcher（人工补写）: 新内容 2606.29018v1 [high] — Liquidity-Based Audit of Algorithmic Trading Strategies
 - **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12594v1 [medium] — What Makes a Peer? Valuation-Anchored Similarity in Private Markets
 - **2026-08-14 19:41** paper_watcher（人工补写）: 新内容 2608.12777v1 [medium] — Physical Extinction and Long-Run Pricing under Time-Varying Beliefs
