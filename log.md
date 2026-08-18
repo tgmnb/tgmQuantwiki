@@ -1,5 +1,28 @@
 # Wiki Log
 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.14859v1 [low] — Disclosed Human-Capital Disruption and Firm-Specif
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15187v1 [low] — MiNO: Cotangent-bundle propagator learning for PDE
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15890v1 [low] — COOL: A Cooling-Aware Point Transformer Framework 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16155v1 [low] — REFLEX: Reflexive Equilibrium Fixed-point Learning
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16546v1 [low] — Supervising the Path to Fine Scales: GalerkinFlow 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16842v1 [low] — When ratios fall: A dynamic approach to contingent
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15876v1 [low] — The Yeoman's Portfolio: Measuring Historical Risk 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.14963v1 [low] — Command-Space Counterfactual Explanations for Pare
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15339v1 [low] — Learning Sequential Mobility Choice: A Review of R
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15770v1 [low] — Learning Stock Trading Policies via Barycenter-Bas
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15817v1 [low] — RLCascadeRouter: Quality-Estimator-Free Cascade Ro
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15841v1 [low] — Self-Supervised Auxiliary Task Discovery for Stabl
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16431v1 [low] — Stable Multi-Step Rollouts via Uncertainty-Guided 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15963v1 [medium] — Classical Verification of Quantum Advantage via Cl
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15606v1 [medium] — Positive Singularities and Volumes in Scattering A
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16642v1 [medium] — Throwing a Tight Spiral American Football by a Hum
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15023v1 [high] — Resilience-Oriented Parametric Insurance Design fo
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15097v1 [high] — Pricing Temperature-Index Insurance under Long Mem
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16112v1 [high] — Strategic Technical Debt: A Real Options Approach 
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15181v1 [high] — Insurance as AI Risk Infrastructure: A Generative-
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15657v1 [high] — A Responsible Artificial Intelligence Framework fo
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.16574v1 [high] — The User Side of AI Model Lifecycles: Evidence fro
+- **2026-08-18 19:39** paper_watcher: 新内容 2608.15667v1 [high] — Scalable Pontryagin-Guided Adjoint-to-Control Reco
 - **2026-08-17 19:38** paper_watcher: 新内容 2608.13770v1 [low] — Rapid Kirigami Simulation using the Bar & Hinge Ap
 - **2026-08-17 19:38** paper_watcher: 新内容 2608.14063v1 [low] — Benchmarking data-driven material models on the cl
 - **2026-08-17 19:38** paper_watcher: 新内容 2608.14106v1 [low] — Forecast Collapse in Time-Series Foundation Models
