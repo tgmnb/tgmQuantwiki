@@ -1,19 +1,28 @@
 # BTC MACD HHHL Swing Strategy
 
-- Updated: 2026-08-19
+- Updated: 2026-08-20
 - Project: `/home/tgm/quant/btc-macd-hhhl-swing`
-- Latest research archive: `/home/tgm/wiki/quant/strategy_dev/crypto/btc-macd-hhhl-swing/v3_research_synthesis_2026-08-19.md`
+- Latest research archive: `/home/tgm/wiki/quant/strategy_dev/crypto/btc-macd-hhhl-swing/v3_research_synthesis_2026-08-20.md`
 - Latest combo run: `/home/tgm/quant/btc-macd-hhhl-swing/combo_round1_20260819`
+- Final iteration state: `/home/tgm/quant/btc-macd-hhhl-swing/v3_final_iterations_20260820/STATE.json`
 
 ## Current Verdict
 
-**暂不采纳 v3。** v3-2 至 v3-12 的有效机制已整理并做一次真实组合回测。Round 1 的唯一看似改善组合 `dynamic_1p5R + staged_stop + split` 在 30 币 FULL 接近保本，但 OOS PF 仅 0.1257、OOS 简单 PnL -3.55%、OOS MaxDD -92.02%，未达到可采纳门槛。
+**暂不采纳 v3。**
+
+理由不是“没跑”，而是已经做了真实核对和一轮组合迭代：
+- v3-2 至 v3-12 的真实报告、CSV、审计结果已逐项核对。
+- Round 0 已完成兼容性/基准重整。
+- Round 1 已真实运行并审计通过，但三候选都未通过最终采纳门槛。
+- 当前没有候选同时满足 OOS 不劣于基准、成本后质量改善、回撤/并发可执行、审计 PASS 之外的实盘门槛。
 
 ## Canonical Documents
 
 | Date | Document | Status |
 |---|---|---|
-| 2026-08-19 | `v3_research_synthesis_2026-08-19.md` | v3-2 至 v3-12 总整理 + Round0/Round1 裁决 |
+| 2026-08-20 | `v3_research_synthesis_2026-08-20.md` | v3-2 至 v3-12 总整理 + Round0/Round1 裁决 |
+| 2026-08-20 | `parameter_selection_fairness_audit_2026-08-20.md` | 参数选型公平性审计与统一遍历 |
+| 2026-08-19 | `v3_research_synthesis_2026-08-19.md` | 历史归档 |
 
 ## Artifact Roots
 
@@ -23,6 +32,7 @@
 | v2 baseline artifact | `/home/tgm/quant/btc-macd-hhhl-swing/fresh/package_v2_unmmr_split/result_v2_final/metrics.csv` |
 | Round 1 combo artifacts | `/home/tgm/quant/btc-macd-hhhl-swing/combo_round1_20260819` |
 | Round 1 audit | `/home/tgm/quant/btc-macd-hhhl-swing/combo_round1_20260819/independent_audit.json` |
+| Final iteration state | `/home/tgm/quant/btc-macd-hhhl-swing/v3_final_iterations_20260820/STATE.json` |
 
 ## Constraints
 
