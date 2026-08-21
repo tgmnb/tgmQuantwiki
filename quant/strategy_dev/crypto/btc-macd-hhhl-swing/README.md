@@ -1,7 +1,9 @@
 # BTC MACD HHHL Swing Strategy
 
-- Updated: 2026-08-20
+- Updated: 2026-08-21
 - Project: `/home/tgm/quant/btc-macd-hhhl-swing`
+- Unified fair-selection final decision: `/home/tgm/wiki/quant/strategy_dev/crypto/btc-macd-hhhl-swing/fair_selection_final_2026-08-21.md`
+- Unified fair-selection artifacts: `/home/tgm/quant/btc-macd-hhhl-swing/unified_fair_selection_rerun_20260821/FINAL_DECISION.md`
 - Latest research archive: `/home/tgm/wiki/quant/strategy_dev/crypto/btc-macd-hhhl-swing/v3_research_synthesis_2026-08-20.md`
 - Latest combo run: `/home/tgm/quant/btc-macd-hhhl-swing/combo_round1_20260819`
 - Final iteration state: `/home/tgm/quant/btc-macd-hhhl-swing/v3_final_iterations_20260820/STATE.json`
